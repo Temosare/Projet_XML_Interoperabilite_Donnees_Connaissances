@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:p="urn:ns:TeiSpe"
+     xmlns:sch="urn:ns:sch"
+     xmlns:T="urn:ns:Tei"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     version="1.1"
+     creator="Guillaume Bolzonella"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <metadata>
+      <name>Transformation en fichier GPX pour viasualisation avec Google Map</name>
+      <desc>Livrable 4 partie 4</desc>
+   </metadata>
+   <wpt lat="46.10247" lon="5.32834">
+      <desc>Saint-Martin-du-Mont</desc>
+   </wpt>
+   <wpt lat="43.95" lon="2.21667">
+      <desc>Saint-Juéry</desc>
+   </wpt>
+   <wpt lat="43.6762" lon="3.45328">
+      <desc>Saint-Guiraud</desc>
+   </wpt>
+   <wpt lat="46.62964" lon="-0.65654">
+      <desc>La Chapelle-aux-Lys</desc>
+   </wpt>
+   <wpt lat="43.89857" lon="6.2">
+      <desc>Saint-Jurs</desc>
+   </wpt>
+   <wpt lat="47.40786" lon="-1.09738">
+      <desc>Saint-Herblon</desc>
+   </wpt>
+   <wpt lat="45.22012" lon="3.81946">
+      <desc>Bellevue-la-Montagne</desc>
+   </wpt>
+   <wpt lat="48.58333" lon="-3.81667">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="48.65167" lon="-3.10355">
+      <desc>Saint-Gilles-les-Bois</desc>
+   </wpt>
+   <wpt lat="46.24555" lon="4.7422">
+      <desc>Saint-Amour-Bellevue</desc>
+   </wpt>
+   <wpt lat="43.33333" lon="0.73333">
+      <desc>Saint-Ferréol-de-Comminges</desc>
+   </wpt>
+   <wpt lat="46.14019" lon="-1.14944">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="47.25377" lon="-1.94702">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="48.82114" lon="2.22622">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="48.72953" lon="3.1398">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="48.1746" lon="-1.43448">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="47.55" lon="2.68333">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="47.10782" lon="2.56762">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="45.88333" lon="1.16667">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="48.27257" lon="-4.54268">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="45.31705" lon="5.43049">
+      <desc>Saint-Paul-d’Izeaux</desc>
+   </wpt>
+   <wpt lat="46.60947" lon="-1.83892">
+      <desc>Saint-Nicolas-de-Brem</desc>
+   </wpt>
+   <wpt lat="46.18333" lon="-1.31667">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="48.40508" lon="-4.50967">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="45.68583" lon="5.97824">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="49.19438" lon="6.89687">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="43.2963" lon="5.37181">
+      <desc>Bellevue</desc>
+   </wpt>
+   <wpt lat="45.833" lon="6.864">
+      <desc>Mont Blanc</desc>
+   </wpt>
+   <wpt lat="45.91667" lon="6.91667">
+      <desc>Mont Blanc</desc>
+   </wpt>
+   <wpt lat="45.33973" lon="4.31335">
+      <desc>Saint-Just-Malmont</desc>
+   </wpt>
+   <wpt lat="50.38199" lon="2.03757">
+      <desc>Huby-Saint-Leu</desc>
+   </wpt>
+   <wpt lat="45.35601" lon="6.68551">
+      <desc>Petit Mont Blanc</desc>
+   </wpt>
+   <wpt lat="48.87615" lon="2.33646">
+      <desc>Paris 02 Ancien - Quartier Chaussée-d'Antin</desc>
+   </wpt>
+   <wpt lat="47.35194" lon="4.99889">
+      <desc>Daix</desc>
+   </wpt>
+   <wpt lat="48.1375" lon="-3.83528">
+      <desc>Laz</desc>
+   </wpt>
+   <wpt lat="49.5608" lon="2.58789">
+      <desc>Tricot</desc>
+   </wpt>
+   <wpt lat="49.56111" lon="2.58889">
+      <desc>Tricot</desc>
+   </wpt>
+   <wpt lat="47" lon="1.4">
+      <desc>Heugnes</desc>
+   </wpt>
+   <wpt lat="43.33282" lon="2.79757">
+      <desc>Aigne</desc>
+   </wpt>
+   <wpt lat="50.10139" lon="3.31139">
+      <desc>Esnes</desc>
+   </wpt>
+   <wpt lat="50.50806" lon="2.80167">
+      <desc>Haisnes</desc>
+   </wpt>
+   <wpt lat="43.32028" lon="1.58861">
+      <desc>Aignes</desc>
+   </wpt>
+   <wpt lat="49.43413" lon="2.84688">
+      <desc>Aisne</desc>
+   </wpt>
+   <wpt lat="42.47361" lon="2.0825">
+      <desc>Eyne</desc>
+   </wpt>
+   <wpt lat="45.83984" lon="6.75018">
+      <desc>Mont Truc</desc>
+   </wpt>
+   <wpt lat="47.47417" lon="6.095">
+      <desc>Hyet</desc>
+   </wpt>
+   <wpt lat="47.91392" lon="-1.37967">
+      <desc>Retiers</desc>
+   </wpt>
+   <wpt lat="43.53556" lon="0.65028">
+      <desc>Traversères</desc>
+   </wpt>
+   <wpt lat="43.42079" lon="1.35397">
+      <desc>Eaunes</desc>
+   </wpt>
+   <wpt lat="49.6107" lon="3.1949">
+      <desc>Ognes</desc>
+   </wpt>
+   <wpt lat="45.78361" lon="1.705">
+      <desc>Augne</desc>
+   </wpt>
+   <wpt lat="43.2675" lon="2.72111">
+      <desc>Homps</desc>
+   </wpt>
+   <wpt lat="44.8776" lon="2.2769">
+      <desc>Omps</desc>
+   </wpt>
+   <wpt lat="48.28239" lon="-4.2645">
+      <desc>Aulne</desc>
+   </wpt>
+   <wpt lat="43.42079" lon="1.35397">
+      <desc>Eaunes</desc>
+   </wpt>
+   <wpt lat="49.6107" lon="3.1949">
+      <desc>Ognes</desc>
+   </wpt>
+   <wpt lat="45.78361" lon="1.705">
+      <desc>Augne</desc>
+   </wpt>
+   <wpt lat="43.2675" lon="2.72111">
+      <desc>Homps</desc>
+   </wpt>
+   <wpt lat="44.8776" lon="2.2769">
+      <desc>Omps</desc>
+   </wpt>
+   <wpt lat="48.28239" lon="-4.2645">
+      <desc>Aulne</desc>
+   </wpt>
+   <wpt lat="43.42079" lon="1.35397">
+      <desc>Eaunes</desc>
+   </wpt>
+   <wpt lat="49.6107" lon="3.1949">
+      <desc>Ognes</desc>
+   </wpt>
+   <wpt lat="45.78361" lon="1.705">
+      <desc>Augne</desc>
+   </wpt>
+   <wpt lat="43.2675" lon="2.72111">
+      <desc>Homps</desc>
+   </wpt>
+   <wpt lat="44.8776" lon="2.2769">
+      <desc>Omps</desc>
+   </wpt>
+   <wpt lat="48.28239" lon="-4.2645">
+      <desc>Aulne</desc>
+   </wpt>
+   <trk>
+      <trkseg>
+         <trkpt lat="46.10247" lon="5.32834">
+            <name>Saint-Martin-du-Mont</name>
+         </trkpt>
+         <trkpt lat="43.95" lon="2.21667">
+            <name>Saint-Juéry</name>
+         </trkpt>
+         <trkpt lat="43.6762" lon="3.45328">
+            <name>Saint-Guiraud</name>
+         </trkpt>
+         <trkpt lat="46.62964" lon="-0.65654">
+            <name>La Chapelle-aux-Lys</name>
+         </trkpt>
+         <trkpt lat="43.89857" lon="6.2">
+            <name>Saint-Jurs</name>
+         </trkpt>
+         <trkpt lat="47.40786" lon="-1.09738">
+            <name>Saint-Herblon</name>
+         </trkpt>
+         <trkpt lat="45.22012" lon="3.81946">
+            <name>Bellevue-la-Montagne</name>
+         </trkpt>
+         <trkpt lat="48.58333" lon="-3.81667">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="48.65167" lon="-3.10355">
+            <name>Saint-Gilles-les-Bois</name>
+         </trkpt>
+         <trkpt lat="46.24555" lon="4.7422">
+            <name>Saint-Amour-Bellevue</name>
+         </trkpt>
+         <trkpt lat="43.33333" lon="0.73333">
+            <name>Saint-Ferréol-de-Comminges</name>
+         </trkpt>
+         <trkpt lat="46.14019" lon="-1.14944">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="47.25377" lon="-1.94702">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="48.82114" lon="2.22622">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="48.72953" lon="3.1398">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="48.1746" lon="-1.43448">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="47.55" lon="2.68333">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="47.10782" lon="2.56762">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="45.88333" lon="1.16667">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="48.27257" lon="-4.54268">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="45.31705" lon="5.43049">
+            <name>Saint-Paul-d’Izeaux</name>
+         </trkpt>
+         <trkpt lat="46.60947" lon="-1.83892">
+            <name>Saint-Nicolas-de-Brem</name>
+         </trkpt>
+         <trkpt lat="46.18333" lon="-1.31667">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="48.40508" lon="-4.50967">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="45.68583" lon="5.97824">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="49.19438" lon="6.89687">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="43.2963" lon="5.37181">
+            <name>Bellevue</name>
+         </trkpt>
+         <trkpt lat="45.833" lon="6.864">
+            <name>Mont Blanc</name>
+         </trkpt>
+         <trkpt lat="45.91667" lon="6.91667">
+            <name>Mont Blanc</name>
+         </trkpt>
+         <trkpt lat="45.33973" lon="4.31335">
+            <name>Saint-Just-Malmont</name>
+         </trkpt>
+         <trkpt lat="50.38199" lon="2.03757">
+            <name>Huby-Saint-Leu</name>
+         </trkpt>
+         <trkpt lat="45.35601" lon="6.68551">
+            <name>Petit Mont Blanc</name>
+         </trkpt>
+         <trkpt lat="48.87615" lon="2.33646">
+            <name>Paris 02 Ancien - Quartier Chaussée-d'Antin</name>
+         </trkpt>
+         <trkpt lat="47.35194" lon="4.99889">
+            <name>Daix</name>
+         </trkpt>
+         <trkpt lat="48.1375" lon="-3.83528">
+            <name>Laz</name>
+         </trkpt>
+         <trkpt lat="49.5608" lon="2.58789">
+            <name>Tricot</name>
+         </trkpt>
+         <trkpt lat="49.56111" lon="2.58889">
+            <name>Tricot</name>
+         </trkpt>
+         <trkpt lat="47" lon="1.4">
+            <name>Heugnes</name>
+         </trkpt>
+         <trkpt lat="43.33282" lon="2.79757">
+            <name>Aigne</name>
+         </trkpt>
+         <trkpt lat="50.10139" lon="3.31139">
+            <name>Esnes</name>
+         </trkpt>
+         <trkpt lat="50.50806" lon="2.80167">
+            <name>Haisnes</name>
+         </trkpt>
+         <trkpt lat="43.32028" lon="1.58861">
+            <name>Aignes</name>
+         </trkpt>
+         <trkpt lat="49.43413" lon="2.84688">
+            <name>Aisne</name>
+         </trkpt>
+         <trkpt lat="42.47361" lon="2.0825">
+            <name>Eyne</name>
+         </trkpt>
+         <trkpt lat="45.83984" lon="6.75018">
+            <name>Mont Truc</name>
+         </trkpt>
+         <trkpt lat="47.47417" lon="6.095">
+            <name>Hyet</name>
+         </trkpt>
+         <trkpt lat="47.91392" lon="-1.37967">
+            <name>Retiers</name>
+         </trkpt>
+         <trkpt lat="43.53556" lon="0.65028">
+            <name>Traversères</name>
+         </trkpt>
+         <trkpt lat="43.42079" lon="1.35397">
+            <name>Eaunes</name>
+         </trkpt>
+         <trkpt lat="49.6107" lon="3.1949">
+            <name>Ognes</name>
+         </trkpt>
+         <trkpt lat="45.78361" lon="1.705">
+            <name>Augne</name>
+         </trkpt>
+         <trkpt lat="43.2675" lon="2.72111">
+            <name>Homps</name>
+         </trkpt>
+         <trkpt lat="44.8776" lon="2.2769">
+            <name>Omps</name>
+         </trkpt>
+         <trkpt lat="48.28239" lon="-4.2645">
+            <name>Aulne</name>
+         </trkpt>
+         <trkpt lat="43.42079" lon="1.35397">
+            <name>Eaunes</name>
+         </trkpt>
+         <trkpt lat="49.6107" lon="3.1949">
+            <name>Ognes</name>
+         </trkpt>
+         <trkpt lat="45.78361" lon="1.705">
+            <name>Augne</name>
+         </trkpt>
+         <trkpt lat="43.2675" lon="2.72111">
+            <name>Homps</name>
+         </trkpt>
+         <trkpt lat="44.8776" lon="2.2769">
+            <name>Omps</name>
+         </trkpt>
+         <trkpt lat="48.28239" lon="-4.2645">
+            <name>Aulne</name>
+         </trkpt>
+         <trkpt lat="43.42079" lon="1.35397">
+            <name>Eaunes</name>
+         </trkpt>
+         <trkpt lat="49.6107" lon="3.1949">
+            <name>Ognes</name>
+         </trkpt>
+         <trkpt lat="45.78361" lon="1.705">
+            <name>Augne</name>
+         </trkpt>
+         <trkpt lat="43.2675" lon="2.72111">
+            <name>Homps</name>
+         </trkpt>
+         <trkpt lat="44.8776" lon="2.2769">
+            <name>Omps</name>
+         </trkpt>
+         <trkpt lat="48.28239" lon="-4.2645">
+            <name>Aulne</name>
+         </trkpt>
+      </trkseg>
+   </trk>
+</gpx>

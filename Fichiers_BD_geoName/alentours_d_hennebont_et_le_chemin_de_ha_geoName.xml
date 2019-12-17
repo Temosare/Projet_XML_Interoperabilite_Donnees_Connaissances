@@ -1,0 +1,4808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sch:document xmlns:sch="urn:ns:sch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:ns:TeiSpe" xmlns:T="urn:ns:Tei" xmlns:p="urn:ns:TeiSpe">
+   <T:TEI>
+      <T:teiHeader>
+         <T:fileDesc>
+            <T:titleStmt>
+               <T:title> Recuperation des information avec geoName : Livrable 4 partie 3 </T:title>
+            </T:titleStmt>
+            <T:publicationStmt>
+               <T:p> Fichier produit par Guillaume Bolzonella </T:p>
+            </T:publicationStmt>
+         </T:fileDesc>
+      </T:teiHeader>
+      <T:text>
+         <T:body>
+            <T:p>
+               <corpText>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Hennebont</toponymName>
+        
+                        <name>Hennebont</name>
+        
+                        <lat>47.80512</lat>
+        
+                        <lng>-3.27337</lng>
+        
+                        <geonameId>3013521</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Hennebont</toponymName>
+        
+                        <name>Hennebont</name>
+        
+                        <lat>47.80417</lat>
+        
+                        <lng>-3.27889</lng>
+        
+                        <geonameId>6449866</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Blavet</toponymName>
+        
+                        <name>Blavet</name>
+        
+                        <lat>47.7377</lat>
+        
+                        <lng>-3.34335</lng>
+        
+                        <geonameId>3032303</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Blavet</toponymName>
+        
+                        <name>Blavet</name>
+        
+                        <lat>48.23268</lat>
+        
+                        <lng>-3.17852</lng>
+        
+                        <geonameId>3032302</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Port-Louis</toponymName>
+        
+                        <name>Port-Louis</name>
+        
+                        <lat>47.70704</lat>
+        
+                        <lng>-3.35484</lng>
+        
+                        <geonameId>2985963</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Port-Louis</toponymName>
+        
+                        <name>Port-Louis</name>
+        
+                        <lat>47.7063</lat>
+        
+                        <lng>-3.3526</lng>
+        
+                        <geonameId>6437350</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Blavet</toponymName>
+        
+                        <name>Blavet</name>
+        
+                        <lat>47.7377</lat>
+        
+                        <lng>-3.34335</lng>
+        
+                        <geonameId>3032303</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Blavet</toponymName>
+        
+                        <name>Blavet</name>
+        
+                        <lat>48.23268</lat>
+        
+                        <lng>-3.17852</lng>
+        
+                        <geonameId>3032302</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Traversères</toponymName>
+        
+                        <name>Traversères</name>
+        
+                        <lat>43.53556</lat>
+        
+                        <lng>0.65028</lng>
+        
+                        <geonameId>6432160</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Celles</toponymName>
+        
+                        <name>Celles</name>
+        
+                        <lat>45.29694</lat>
+        
+                        <lng>0.41222</lng>
+        
+                        <geonameId>6447798</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Celles-sur-Durolle</toponymName>
+        
+                        <name>Celles-sur-Durolle</name>
+        
+                        <lat>45.85833</lat>
+        
+                        <lng>3.63528</lng>
+        
+                        <geonameId>6450334</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>28</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>44.03578</lat>
+        
+                        <lng>0.84028</lng>
+        
+                        <geonameId>2981689</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>46.77642</lat>
+        
+                        <lng>6.3341</lng>
+        
+                        <geonameId>2981684</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>44.75048</lat>
+        
+                        <lng>2.33702</lng>
+        
+                        <geonameId>2981688</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>45.01548</lat>
+        
+                        <lng>-0.42285</lng>
+        
+                        <geonameId>2981686</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>45.01611</lat>
+        
+                        <lng>-0.42278</lng>
+        
+                        <geonameId>6454021</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4H</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine-du-Rocher</toponymName>
+        
+                        <name>Saint-Antoine-du-Rocher</name>
+        
+                        <lat>47.49677</lat>
+        
+                        <lng>0.62997</lng>
+        
+                        <geonameId>2981669</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine-de-Breuilh</toponymName>
+        
+                        <name>Saint-Antoine-de-Breuilh</name>
+        
+                        <lat>44.83333</lat>
+        
+                        <lng>0.16667</lng>
+        
+                        <geonameId>2981673</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>44.75028</lat>
+        
+                        <lng>2.3375</lng>
+        
+                        <geonameId>6427622</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>43.72619</lat>
+        
+                        <lng>7.41174</lng>
+        
+                        <geonameId>3225745</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>49.58603</lat>
+        
+                        <lng>0.8767</lng>
+        
+                        <geonameId>2981679</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>48.63333</lat>
+        
+                        <lng>-3.81667</lng>
+        
+                        <geonameId>2981680</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>48.6</lat>
+        
+                        <lng>-4.55</lng>
+        
+                        <geonameId>2981681</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>46.96552</lat>
+        
+                        <lng>3.15715</lng>
+        
+                        <geonameId>2981682</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>46.95764</lat>
+        
+                        <lng>2.68533</lng>
+        
+                        <geonameId>2981683</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>44.86775</lat>
+        
+                        <lng>6.48847</lng>
+        
+                        <geonameId>2981687</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>43.37087</lat>
+        
+                        <lng>5.35888</lng>
+        
+                        <geonameId>2981690</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPLX</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine-sur-l’Isle</toponymName>
+        
+                        <name>Saint-Antoine-sur-l’Isle</name>
+        
+                        <lat>45.03333</lat>
+        
+                        <lng>0.05</lng>
+        
+                        <geonameId>2981666</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine-de-Ficalba</toponymName>
+        
+                        <name>Saint-Antoine-de-Ficalba</name>
+        
+                        <lat>44.33214</lat>
+        
+                        <lng>0.71821</lng>
+        
+                        <geonameId>2981672</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine-la-Forêt</toponymName>
+        
+                        <name>Saint-Antoine-la-Forêt</name>
+        
+                        <lat>49.53624</lat>
+        
+                        <lng>0.47428</lng>
+        
+                        <geonameId>2981668</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine-du-Queyret</toponymName>
+        
+                        <name>Saint-Antoine-du-Queyret</name>
+        
+                        <lat>44.7637</lat>
+        
+                        <lng>0.00996</lng>
+        
+                        <geonameId>2981670</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine-d’Auberoche</toponymName>
+        
+                        <name>Saint-Antoine-d’Auberoche</name>
+        
+                        <lat>45.1419</lat>
+        
+                        <lng>0.94399</lng>
+        
+                        <geonameId>2981674</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine-Cumond</toponymName>
+        
+                        <name>Saint-Antoine-Cumond</name>
+        
+                        <lat>45.26667</lat>
+        
+                        <lng>0.2</lng>
+        
+                        <geonameId>2981675</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>42.69605</lat>
+        
+                        <lng>9.44609</lng>
+        
+                        <geonameId>3213093</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>46.77694</lat>
+        
+                        <lng>6.33778</lng>
+        
+                        <geonameId>6429973</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Sant’Antonio</toponymName>
+        
+                        <name>Sant’Antonio</name>
+        
+                        <lat>42.08174</lat>
+        
+                        <lng>9.36307</lng>
+        
+                        <geonameId>2976124</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint Antoine</toponymName>
+        
+                        <name>Saint Antoine</name>
+        
+                        <lat>48.85184</lat>
+        
+                        <lng>2.37391</lng>
+        
+                        <geonameId>8379045</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPLX</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>44.03639</lat>
+        
+                        <lng>0.84028</lng>
+        
+                        <geonameId>6612476</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Antoine</toponymName>
+        
+                        <name>Saint-Antoine</name>
+        
+                        <lat>49.19511</lat>
+        
+                        <lng>3.72798</lng>
+        
+                        <geonameId>2981691</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>S</fcl>
+        
+                        <fcode>FRM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>24</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>48.15381</lat>
+        
+                        <lng>-1.82477</lng>
+        
+                        <geonameId>2979673</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>43.67656</lat>
+        
+                        <lng>4.43024</lng>
+        
+                        <geonameId>2979679</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-Croix-de-Vie</toponymName>
+        
+                        <name>Saint-Gilles-Croix-de-Vie</name>
+        
+                        <lat>46.69761</lat>
+        
+                        <lng>-1.94561</lng>
+        
+                        <geonameId>2979662</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>49.28036</lat>
+        
+                        <lng>3.67679</lng>
+        
+                        <geonameId>2979671</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>49.10464</lat>
+        
+                        <lng>-1.1769</lng>
+        
+                        <geonameId>2979672</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>46.47924</lat>
+        
+                        <lng>1.4582</lng>
+        
+                        <geonameId>2979678</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>46.87786</lat>
+        
+                        <lng>4.66357</lng>
+        
+                        <geonameId>2979677</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-de-la-Neuville</toponymName>
+        
+                        <name>Saint-Gilles-de-la-Neuville</name>
+        
+                        <lat>49.57494</lat>
+        
+                        <lng>0.37543</lng>
+        
+                        <geonameId>2979669</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>49.28</lat>
+        
+                        <lng>3.67583</lng>
+        
+                        <geonameId>6435977</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>46.87583</lat>
+        
+                        <lng>4.66694</lng>
+        
+                        <geonameId>6442422</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-des-Marais</toponymName>
+        
+                        <name>Saint-Gilles-des-Marais</name>
+        
+                        <lat>48.58287</lat>
+        
+                        <lng>-0.69388</lng>
+        
+                        <geonameId>2979668</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>47.81128</lat>
+        
+                        <lng>-3.24323</lng>
+        
+                        <geonameId>2979674</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>47.7656</lat>
+        
+                        <lng>-1.02372</lng>
+        
+                        <geonameId>2979675</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>47.12336</lat>
+        
+                        <lng>0.42526</lng>
+        
+                        <geonameId>2979676</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-Pligeaux</toponymName>
+        
+                        <name>Saint-Gilles-Pligeaux</name>
+        
+                        <lat>48.37934</lat>
+        
+                        <lng>-3.09549</lng>
+        
+                        <geonameId>2979663</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-les-Bois</toponymName>
+        
+                        <name>Saint-Gilles-les-Bois</name>
+        
+                        <lat>48.65167</lat>
+        
+                        <lng>-3.10355</lng>
+        
+                        <geonameId>2979665</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-du-Mené</toponymName>
+        
+                        <name>Saint-Gilles-du-Mené</name>
+        
+                        <lat>48.24784</lat>
+        
+                        <lng>-2.54742</lng>
+        
+                        <geonameId>2979667</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-les-Forêts</toponymName>
+        
+                        <name>Saint-Gilles-les-Forêts</name>
+        
+                        <lat>45.62884</lat>
+        
+                        <lng>1.66372</lng>
+        
+                        <geonameId>2979664</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-de-Crétot</toponymName>
+        
+                        <name>Saint-Gilles-de-Crétot</name>
+        
+                        <lat>49.55824</lat>
+        
+                        <lng>0.64433</lng>
+        
+                        <geonameId>2979670</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-Vieux-Marché</toponymName>
+        
+                        <name>Saint-Gilles-Vieux-Marché</name>
+        
+                        <lat>48.25</lat>
+        
+                        <lng>-2.96667</lng>
+        
+                        <geonameId>2979666</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>49.10472</lat>
+        
+                        <lng>-1.17556</lng>
+        
+                        <geonameId>6453488</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>46.4949</lat>
+        
+                        <lng>1.4453</lng>
+        
+                        <geonameId>6613272</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>48.15361</lat>
+        
+                        <lng>-1.82611</lng>
+        
+                        <geonameId>6613902</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>43.67778</lat>
+        
+                        <lng>4.43111</lng>
+        
+                        <geonameId>6612453</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Traversères</toponymName>
+        
+                        <name>Traversères</name>
+        
+                        <lat>43.53556</lat>
+        
+                        <lng>0.65028</lng>
+        
+                        <geonameId>6432160</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>24</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>48.15381</lat>
+        
+                        <lng>-1.82477</lng>
+        
+                        <geonameId>2979673</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>43.67656</lat>
+        
+                        <lng>4.43024</lng>
+        
+                        <geonameId>2979679</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-Croix-de-Vie</toponymName>
+        
+                        <name>Saint-Gilles-Croix-de-Vie</name>
+        
+                        <lat>46.69761</lat>
+        
+                        <lng>-1.94561</lng>
+        
+                        <geonameId>2979662</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>49.28036</lat>
+        
+                        <lng>3.67679</lng>
+        
+                        <geonameId>2979671</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>49.10464</lat>
+        
+                        <lng>-1.1769</lng>
+        
+                        <geonameId>2979672</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>46.47924</lat>
+        
+                        <lng>1.4582</lng>
+        
+                        <geonameId>2979678</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>46.87786</lat>
+        
+                        <lng>4.66357</lng>
+        
+                        <geonameId>2979677</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-de-la-Neuville</toponymName>
+        
+                        <name>Saint-Gilles-de-la-Neuville</name>
+        
+                        <lat>49.57494</lat>
+        
+                        <lng>0.37543</lng>
+        
+                        <geonameId>2979669</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>49.28</lat>
+        
+                        <lng>3.67583</lng>
+        
+                        <geonameId>6435977</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>46.87583</lat>
+        
+                        <lng>4.66694</lng>
+        
+                        <geonameId>6442422</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-des-Marais</toponymName>
+        
+                        <name>Saint-Gilles-des-Marais</name>
+        
+                        <lat>48.58287</lat>
+        
+                        <lng>-0.69388</lng>
+        
+                        <geonameId>2979668</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>47.81128</lat>
+        
+                        <lng>-3.24323</lng>
+        
+                        <geonameId>2979674</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>47.7656</lat>
+        
+                        <lng>-1.02372</lng>
+        
+                        <geonameId>2979675</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>47.12336</lat>
+        
+                        <lng>0.42526</lng>
+        
+                        <geonameId>2979676</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-Pligeaux</toponymName>
+        
+                        <name>Saint-Gilles-Pligeaux</name>
+        
+                        <lat>48.37934</lat>
+        
+                        <lng>-3.09549</lng>
+        
+                        <geonameId>2979663</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-les-Bois</toponymName>
+        
+                        <name>Saint-Gilles-les-Bois</name>
+        
+                        <lat>48.65167</lat>
+        
+                        <lng>-3.10355</lng>
+        
+                        <geonameId>2979665</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-du-Mené</toponymName>
+        
+                        <name>Saint-Gilles-du-Mené</name>
+        
+                        <lat>48.24784</lat>
+        
+                        <lng>-2.54742</lng>
+        
+                        <geonameId>2979667</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-les-Forêts</toponymName>
+        
+                        <name>Saint-Gilles-les-Forêts</name>
+        
+                        <lat>45.62884</lat>
+        
+                        <lng>1.66372</lng>
+        
+                        <geonameId>2979664</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-de-Crétot</toponymName>
+        
+                        <name>Saint-Gilles-de-Crétot</name>
+        
+                        <lat>49.55824</lat>
+        
+                        <lng>0.64433</lng>
+        
+                        <geonameId>2979670</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles-Vieux-Marché</toponymName>
+        
+                        <name>Saint-Gilles-Vieux-Marché</name>
+        
+                        <lat>48.25</lat>
+        
+                        <lng>-2.96667</lng>
+        
+                        <geonameId>2979666</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>49.10472</lat>
+        
+                        <lng>-1.17556</lng>
+        
+                        <geonameId>6453488</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>46.4949</lat>
+        
+                        <lng>1.4453</lng>
+        
+                        <geonameId>6613272</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>48.15361</lat>
+        
+                        <lng>-1.82611</lng>
+        
+                        <geonameId>6613902</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Gilles</toponymName>
+        
+                        <name>Saint-Gilles</name>
+        
+                        <lat>43.67778</lat>
+        
+                        <lng>4.43111</lng>
+        
+                        <geonameId>6612453</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>139</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>47.72496</lat>
+        
+                        <lng>6.53117</lng>
+        
+                        <geonameId>2979865</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>48.25736</lat>
+        
+                        <lng>4.03264</lng>
+        
+                        <geonameId>2979861</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-en-Laye</toponymName>
+        
+                        <name>Saint-Germain-en-Laye</name>
+        
+                        <lat>48.9</lat>
+        
+                        <lng>2.08333</lng>
+        
+                        <geonameId>2979783</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPLA3</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>48.43195</lat>
+        
+                        <lng>6.33917</lng>
+        
+                        <geonameId>2979860</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>46.56649</lat>
+        
+                        <lng>0.88251</lng>
+        
+                        <geonameId>2979869</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>44.55493</lat>
+        
+                        <lng>4.45029</lng>
+        
+                        <geonameId>2979872</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>47.5</lat>
+        
+                        <lng>4.7</lng>
+        
+                        <geonameId>2979742</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Morin</toponymName>
+        
+                        <name>Saint-Germain-sur-Morin</name>
+        
+                        <lat>48.88257</lat>
+        
+                        <lng>2.85127</lng>
+        
+                        <geonameId>2979730</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-la-Blanche-Herbe</toponymName>
+        
+                        <name>Saint-Germain-la-Blanche-Herbe</name>
+        
+                        <lat>49.18327</lat>
+        
+                        <lng>-0.40426</lng>
+        
+                        <geonameId>2979780</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-Lembron</toponymName>
+        
+                        <name>Saint-Germain-Lembron</name>
+        
+                        <lat>45.45798</lat>
+        
+                        <lng>3.2395</lng>
+        
+                        <geonameId>2979758</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-en-Coglès</toponymName>
+        
+                        <name>Saint-Germain-en-Coglès</name>
+        
+                        <lat>48.40531</lat>
+        
+                        <lng>-1.26369</lng>
+        
+                        <geonameId>2979784</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-du-Plain</toponymName>
+        
+                        <name>Saint-Germain-du-Plain</name>
+        
+                        <lat>46.69938</lat>
+        
+                        <lng>4.9851</lng>
+        
+                        <geonameId>2979792</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-du-Corbéis</toponymName>
+        
+                        <name>Saint-Germain-du-Corbéis</name>
+        
+                        <lat>48.42215</lat>
+        
+                        <lng>0.06193</lng>
+        
+                        <geonameId>2979796</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-des-Prés</toponymName>
+        
+                        <name>Saint-Germain-des-Prés</name>
+        
+                        <lat>47.40998</lat>
+        
+                        <lng>-0.83342</lng>
+        
+                        <geonameId>2979808</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Lusignan</toponymName>
+        
+                        <name>Saint-Germain-de-Lusignan</name>
+        
+                        <lat>45.45011</lat>
+        
+                        <lng>-0.46147</lng>
+        
+                        <geonameId>2979826</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Ille</toponymName>
+        
+                        <name>Saint-Germain-sur-Ille</name>
+        
+                        <lat>48.24905</lat>
+        
+                        <lng>-1.65894</lng>
+        
+                        <geonameId>2979734</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-Lespinasse</toponymName>
+        
+                        <name>Saint-Germain-Lespinasse</name>
+        
+                        <lat>46.10165</lat>
+        
+                        <lng>3.96204</lng>
+        
+                        <geonameId>2979750</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-les-Belles</toponymName>
+        
+                        <name>Saint-Germain-les-Belles</name>
+        
+                        <lat>45.61356</lat>
+        
+                        <lng>1.4949</lng>
+        
+                        <geonameId>2979754</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-Laprade</toponymName>
+        
+                        <name>Saint-Germain-Laprade</name>
+        
+                        <lat>45.03862</lat>
+        
+                        <lng>3.97004</lng>
+        
+                        <geonameId>2979772</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-la-Chambotte</toponymName>
+        
+                        <name>Saint-Germain-la-Chambotte</name>
+        
+                        <lat>45.77952</lat>
+        
+                        <lng>5.88966</lng>
+        
+                        <geonameId>2979778</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-du-Puch</toponymName>
+        
+                        <name>Saint-Germain-du-Puch</name>
+        
+                        <lat>44.85</lat>
+        
+                        <lng>-0.31667</lng>
+        
+                        <geonameId>2979791</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-du-Pinel</toponymName>
+        
+                        <name>Saint-Germain-du-Pinel</name>
+        
+                        <lat>48.01225</lat>
+        
+                        <lng>-1.16683</lng>
+        
+                        <geonameId>2979793</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Marencennes</toponymName>
+        
+                        <name>Saint-Germain-de-Marencennes</name>
+        
+                        <lat>46.07733</lat>
+        
+                        <lng>-0.79133</lng>
+        
+                        <geonameId>2979825</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-la-Grange</toponymName>
+        
+                        <name>Saint-Germain-de-la-Grange</name>
+        
+                        <lat>48.83436</lat>
+        
+                        <lng>1.89884</lng>
+        
+                        <geonameId>2979832</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Sarthe</toponymName>
+        
+                        <name>Saint-Germain-sur-Sarthe</name>
+        
+                        <lat>48.28559</lat>
+        
+                        <lng>0.09557</lng>
+        
+                        <geonameId>2979727</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Renon</toponymName>
+        
+                        <name>Saint-Germain-sur-Renon</name>
+        
+                        <lat>46.08095</lat>
+        
+                        <lng>5.05864</lng>
+        
+                        <geonameId>2979729</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Eaulne</toponymName>
+        
+                        <name>Saint-Germain-sur-Eaulne</name>
+        
+                        <lat>49.76471</lat>
+        
+                        <lng>1.50676</lng>
+        
+                        <geonameId>2979736</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Bresle</toponymName>
+        
+                        <name>Saint-Germain-sur-Bresle</name>
+        
+                        <lat>49.82979</lat>
+        
+                        <lng>1.73199</lng>
+        
+                        <geonameId>2979737</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-le-Vasson</toponymName>
+        
+                        <name>Saint-Germain-le-Vasson</name>
+        
+                        <lat>49.002</lat>
+        
+                        <lng>-0.30133</lng>
+        
+                        <geonameId>2979747</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-les-Paroisses</toponymName>
+        
+                        <name>Saint-Germain-les-Paroisses</name>
+        
+                        <lat>45.77364</lat>
+        
+                        <lng>5.61914</lng>
+        
+                        <geonameId>2979751</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-le-Guillaume</toponymName>
+        
+                        <name>Saint-Germain-le-Guillaume</name>
+        
+                        <lat>48.20608</lat>
+        
+                        <lng>-0.82601</lng>
+        
+                        <geonameId>2979760</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-le-Gaillard</toponymName>
+        
+                        <name>Saint-Germain-le-Gaillard</name>
+        
+                        <lat>49.48595</lat>
+        
+                        <lng>-1.78226</lng>
+        
+                        <geonameId>2979762</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-le-Gaillard</toponymName>
+        
+                        <name>Saint-Germain-le-Gaillard</name>
+        
+                        <lat>48.42175</lat>
+        
+                        <lng>1.25945</lng>
+        
+                        <geonameId>2979763</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-le-Fouilloux</toponymName>
+        
+                        <name>Saint-Germain-le-Fouilloux</name>
+        
+                        <lat>48.13609</lat>
+        
+                        <lng>-0.7914</lng>
+        
+                        <geonameId>2979764</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-Lavolps</toponymName>
+        
+                        <name>Saint-Germain-Lavolps</name>
+        
+                        <lat>45.61667</lat>
+        
+                        <lng>2.21667</lng>
+        
+                        <geonameId>2979767</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-la-Poterie</toponymName>
+        
+                        <name>Saint-Germain-la-Poterie</name>
+        
+                        <lat>49.44533</lat>
+        
+                        <lng>1.98285</lng>
+        
+                        <geonameId>2979773</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-Langot</toponymName>
+        
+                        <name>Saint-Germain-Langot</name>
+        
+                        <lat>48.92384</lat>
+        
+                        <lng>-0.32363</lng>
+        
+                        <geonameId>2979774</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-la-Montagne</toponymName>
+        
+                        <name>Saint-Germain-la-Montagne</name>
+        
+                        <lat>46.2026</lat>
+        
+                        <lng>4.37685</lng>
+        
+                        <geonameId>2979775</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-la-Campagne</toponymName>
+        
+                        <name>Saint-Germain-la-Campagne</name>
+        
+                        <lat>49.04799</lat>
+        
+                        <lng>0.40579</lng>
+        
+                        <geonameId>2979779</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-en-Brionnais</toponymName>
+        
+                        <name>Saint-Germain-en-Brionnais</name>
+        
+                        <lat>46.35434</lat>
+        
+                        <lng>4.26493</lng>
+        
+                        <geonameId>2979785</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-du-Teil</toponymName>
+        
+                        <name>Saint-Germain-du-Teil</name>
+        
+                        <lat>44.47865</lat>
+        
+                        <lng>3.17253</lng>
+        
+                        <geonameId>2979787</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Varreville</toponymName>
+        
+                        <name>Saint-Germain-de-Varreville</name>
+        
+                        <lat>49.43726</lat>
+        
+                        <lng>-1.2575</lng>
+        
+                        <geonameId>2979800</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Tournebut</toponymName>
+        
+                        <name>Saint-Germain-de-Tournebut</name>
+        
+                        <lat>49.53534</lat>
+        
+                        <lng>-1.39478</lng>
+        
+                        <geonameId>2979801</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-des-Grois</toponymName>
+        
+                        <name>Saint-Germain-des-Grois</name>
+        
+                        <lat>48.39855</lat>
+        
+                        <lng>0.82997</lng>
+        
+                        <geonameId>2979811</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-des-Essourts</toponymName>
+        
+                        <name>Saint-Germain-des-Essourts</name>
+        
+                        <lat>49.53872</lat>
+        
+                        <lng>1.32098</lng>
+        
+                        <geonameId>2979813</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-des-Angles</toponymName>
+        
+                        <name>Saint-Germain-des-Angles</name>
+        
+                        <lat>49.09156</lat>
+        
+                        <lng>1.14612</lng>
+        
+                        <geonameId>2979817</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Pasquier</toponymName>
+        
+                        <name>Saint-Germain-de-Pasquier</name>
+        
+                        <lat>49.24605</lat>
+        
+                        <lng>1</lng>
+        
+                        <geonameId>2979820</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Martigny</toponymName>
+        
+                        <name>Saint-Germain-de-Martigny</name>
+        
+                        <lat>48.58973</lat>
+        
+                        <lng>0.4647</lng>
+        
+                        <geonameId>2979824</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-la-Coudre</toponymName>
+        
+                        <name>Saint-Germain-de-la-Coudre</name>
+        
+                        <lat>48.28096</lat>
+        
+                        <lng>0.60496</lng>
+        
+                        <geonameId>2979833</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Fresney</toponymName>
+        
+                        <name>Saint-Germain-de-Fresney</name>
+        
+                        <lat>48.96046</lat>
+        
+                        <lng>1.29182</lng>
+        
+                        <geonameId>2979836</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Clairefeuille</toponymName>
+        
+                        <name>Saint-Germain-de-Clairefeuille</name>
+        
+                        <lat>48.7128</lat>
+        
+                        <lng>0.23879</lng>
+        
+                        <geonameId>2979840</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-Village</toponymName>
+        
+                        <name>Saint-Germain-Village</name>
+        
+                        <lat>49.34908</lat>
+        
+                        <lng>0.50331</lng>
+        
+                        <geonameId>2979724</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Moine</toponymName>
+        
+                        <name>Saint-Germain-sur-Moine</name>
+        
+                        <lat>47.11746</lat>
+        
+                        <lng>-1.12223</lng>
+        
+                        <geonameId>2979731</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-Nuelles</toponymName>
+        
+                        <name>Saint-Germain-Nuelles</name>
+        
+                        <lat>45.85242</lat>
+        
+                        <lng>4.61182</lng>
+        
+                        <geonameId>2979733</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Avre</toponymName>
+        
+                        <name>Saint-Germain-sur-Avre</name>
+        
+                        <lat>48.76466</lat>
+        
+                        <lng>1.26776</lng>
+        
+                        <geonameId>2979739</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-lès-Corbeil</toponymName>
+        
+                        <name>Saint-Germain-lès-Corbeil</name>
+        
+                        <lat>48.62211</lat>
+        
+                        <lng>2.48775</lng>
+        
+                        <geonameId>2979752</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-lès-Arpajon</toponymName>
+        
+                        <name>Saint-Germain-lès-Arpajon</name>
+        
+                        <lat>48.59733</lat>
+        
+                        <lng>2.26481</lng>
+        
+                        <geonameId>2979755</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-le-Rocheux</toponymName>
+        
+                        <name>Saint-Germain-le-Rocheux</name>
+        
+                        <lat>47.75131</lat>
+        
+                        <lng>4.66869</lng>
+        
+                        <geonameId>2979757</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-en-Montagne</toponymName>
+        
+                        <name>Saint-Germain-en-Montagne</name>
+        
+                        <lat>46.7782</lat>
+        
+                        <lng>5.93921</lng>
+        
+                        <geonameId>2979782</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-du-Salembre</toponymName>
+        
+                        <name>Saint-Germain-du-Salembre</name>
+        
+                        <lat>45.13827</lat>
+        
+                        <lng>0.45033</lng>
+        
+                        <geonameId>2979789</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-du-Puy</toponymName>
+        
+                        <name>Saint-Germain-du-Puy</name>
+        
+                        <lat>47.1</lat>
+        
+                        <lng>2.48333</lng>
+        
+                        <geonameId>2979790</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-du-Crioult</toponymName>
+        
+                        <name>Saint-Germain-du-Crioult</name>
+        
+                        <lat>48.85642</lat>
+        
+                        <lng>-0.6044</lng>
+        
+                        <geonameId>2979795</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-du-Bois</toponymName>
+        
+                        <name>Saint-Germain-du-Bois</name>
+        
+                        <lat>46.75287</lat>
+        
+                        <lng>5.2453</lng>
+        
+                        <geonameId>2979797</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Vibrac</toponymName>
+        
+                        <name>Saint-Germain-de-Vibrac</name>
+        
+                        <lat>45.43333</lat>
+        
+                        <lng>-0.31667</lng>
+        
+                        <geonameId>2979799</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-des-Vaux</toponymName>
+        
+                        <name>Saint-Germain-des-Vaux</name>
+        
+                        <lat>49.71463</lat>
+        
+                        <lng>-1.91976</lng>
+        
+                        <geonameId>2979804</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-des-Fossés</toponymName>
+        
+                        <name>Saint-Germain-des-Fossés</name>
+        
+                        <lat>46.20211</lat>
+        
+                        <lng>3.43245</lng>
+        
+                        <geonameId>2979812</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Prinçay</toponymName>
+        
+                        <name>Saint-Germain-de-Prinçay</name>
+        
+                        <lat>46.72107</lat>
+        
+                        <lng>-1.02153</lng>
+        
+                        <geonameId>2979819</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Montbron</toponymName>
+        
+                        <name>Saint-Germain-de-Montbron</name>
+        
+                        <lat>45.62344</lat>
+        
+                        <lng>0.41987</lng>
+        
+                        <geonameId>2979822</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Confolens</toponymName>
+        
+                        <name>Saint-Germain-de-Confolens</name>
+        
+                        <lat>46.05362</lat>
+        
+                        <lng>0.68361</lng>
+        
+                        <geonameId>2979839</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>48.43111</lat>
+        
+                        <lng>6.33889</lng>
+        
+                        <geonameId>6454311</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Meuse</toponymName>
+        
+                        <name>Saint-Germain-sur-Meuse</name>
+        
+                        <lat>48.64942</lat>
+        
+                        <lng>5.69421</lng>
+        
+                        <geonameId>2979732</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Ay</toponymName>
+        
+                        <name>Saint-Germain-sur-Ay</name>
+        
+                        <lat>49.2351</lat>
+        
+                        <lng>-1.59444</lng>
+        
+                        <geonameId>2979738</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-l’Herm</toponymName>
+        
+                        <name>Saint-Germain-l’Herm</name>
+        
+                        <lat>45.45838</lat>
+        
+                        <lng>3.54082</lng>
+        
+                        <geonameId>2979745</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-les-Vergnes</toponymName>
+        
+                        <name>Saint-Germain-les-Vergnes</name>
+        
+                        <lat>45.27422</lat>
+        
+                        <lng>1.63522</lng>
+        
+                        <geonameId>2979748</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-la-Ville</toponymName>
+        
+                        <name>Saint-Germain-la-Ville</name>
+        
+                        <lat>48.88217</lat>
+        
+                        <lng>4.44752</lng>
+        
+                        <geonameId>2979768</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-du-Seudre</toponymName>
+        
+                        <name>Saint-Germain-du-Seudre</name>
+        
+                        <lat>45.5126</lat>
+        
+                        <lng>-0.66768</lng>
+        
+                        <geonameId>2979788</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-du-Bel-Air</toponymName>
+        
+                        <name>Saint-Germain-du-Bel-Air</name>
+        
+                        <lat>44.64685</lat>
+        
+                        <lng>1.44035</lng>
+        
+                        <geonameId>2979798</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-des-Prés</toponymName>
+        
+                        <name>Saint-Germain-des-Prés</name>
+        
+                        <lat>47.95384</lat>
+        
+                        <lng>2.84846</lng>
+        
+                        <geonameId>2979807</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-des-Bois</toponymName>
+        
+                        <name>Saint-Germain-des-Bois</name>
+        
+                        <lat>46.91238</lat>
+        
+                        <lng>2.44522</lng>
+        
+                        <geonameId>2979816</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Joux</toponymName>
+        
+                        <name>Saint-Germain-de-Joux</name>
+        
+                        <lat>46.179</lat>
+        
+                        <lng>5.73795</lng>
+        
+                        <geonameId>2979834</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-Beaupré</toponymName>
+        
+                        <name>Saint-Germain-Beaupré</name>
+        
+                        <lat>46.30753</lat>
+        
+                        <lng>1.54553</lng>
+        
+                        <geonameId>2979848</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-au-Mont-d’Or</toponymName>
+        
+                        <name>Saint-Germain-au-Mont-d’Or</name>
+        
+                        <lat>45.88037</lat>
+        
+                        <lng>4.80167</lng>
+        
+                        <geonameId>2979849</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Calberte</toponymName>
+        
+                        <name>Saint-Germain-de-Calberte</name>
+        
+                        <lat>44.21756</lat>
+        
+                        <lng>3.80937</lng>
+        
+                        <geonameId>2979842</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>49.92411</lat>
+        
+                        <lng>3.62486</lng>
+        
+                        <geonameId>2979856</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>49.41907</lat>
+        
+                        <lng>2.19772</lng>
+        
+                        <geonameId>2979857</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>49.36511</lat>
+        
+                        <lng>1.57338</lng>
+        
+                        <geonameId>2979858</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>48.61781</lat>
+        
+                        <lng>-2.30236</lng>
+        
+                        <geonameId>2979859</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>48.22752</lat>
+        
+                        <lng>1.37532</lng>
+        
+                        <geonameId>2979862</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>47.96667</lat>
+        
+                        <lng>-4.25</lng>
+        
+                        <geonameId>2979863</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>47.76514</lat>
+        
+                        <lng>2.36552</lng>
+        
+                        <geonameId>2979864</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>47.70411</lat>
+        
+                        <lng>-0.34778</lng>
+        
+                        <geonameId>2979866</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>47.08276</lat>
+        
+                        <lng>1.07019</lng>
+        
+                        <geonameId>2979867</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>47.04807</lat>
+        
+                        <lng>2.999</lng>
+        
+                        <geonameId>2979868</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>46.40924</lat>
+        
+                        <lng>3.2919</lng>
+        
+                        <geonameId>2979870</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain</toponymName>
+        
+                        <name>Saint-Germain</name>
+        
+                        <lat>45.61526</lat>
+        
+                        <lng>5.20449</lng>
+        
+                        <geonameId>2979871</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-de-Tallevende-la-Lande-Vaumont</toponymName>
+        
+                        <name>Saint-Germain-de-Tallevende</name>
+        
+                        <lat>48.8</lat>
+        
+                        <lng>-0.9</lng>
+        
+                        <geonameId>2979802</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Vienne</toponymName>
+        
+                        <name>Saint-Germain-sur-Vienne</name>
+        
+                        <lat>47.19439</lat>
+        
+                        <lng>0.09813</lng>
+        
+                        <geonameId>2979725</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Sèves</toponymName>
+        
+                        <name>Saint-Germain-sur-Sèves</name>
+        
+                        <lat>49.22214</lat>
+        
+                        <lng>-1.3694</lng>
+        
+                        <geonameId>2979726</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-Rhône</toponymName>
+        
+                        <name>Saint-Germain-sur-Rhône</name>
+        
+                        <lat>46.06653</lat>
+        
+                        <lng>5.81382</lng>
+        
+                        <geonameId>2979728</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Germain-sur-École</toponymName>
+        
+                        <name>Saint-Germain-sur-École</name>
+        
+                        <lat>48.47415</lat>
+        
+                        <lng>2.50793</lng>
+        
+                        <geonameId>2979735</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Traversères</toponymName>
+        
+                        <name>Traversères</name>
+        
+                        <lat>43.53556</lat>
+        
+                        <lng>0.65028</lng>
+        
+                        <geonameId>6432160</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Cette-Eygun</toponymName>
+        
+                        <name>Cette-Eygun</name>
+        
+                        <lat>42.93333</lat>
+        
+                        <lng>-0.58333</lng>
+        
+                        <geonameId>3027757</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Quélennec</toponymName>
+        
+                        <name>Quélennec</name>
+        
+                        <lat>48.36667</lat>
+        
+                        <lng>-4.05</lng>
+        
+                        <geonameId>2984845</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>7</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>48.63022</lat>
+        
+                        <lng>-4.23533</lng>
+        
+                        <geonameId>2997984</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>48.49817</lat>
+        
+                        <lng>-4.66117</lng>
+        
+                        <geonameId>2997985</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>48.34612</lat>
+        
+                        <lng>-4.76189</lng>
+        
+                        <geonameId>2997986</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>48.34274</lat>
+        
+                        <lng>-3.49108</lng>
+        
+                        <geonameId>2997987</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>48.07068</lat>
+        
+                        <lng>-3.33099</lng>
+        
+                        <geonameId>2997988</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>47.96471</lat>
+        
+                        <lng>-3.23835</lng>
+        
+                        <geonameId>2997989</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>47.82393</lat>
+        
+                        <lng>-3.26418</lng>
+        
+                        <geonameId>2997990</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>7</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>48.63022</lat>
+        
+                        <lng>-4.23533</lng>
+        
+                        <geonameId>2997984</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>48.49817</lat>
+        
+                        <lng>-4.66117</lng>
+        
+                        <geonameId>2997985</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>48.34612</lat>
+        
+                        <lng>-4.76189</lng>
+        
+                        <geonameId>2997986</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>48.34274</lat>
+        
+                        <lng>-3.49108</lng>
+        
+                        <geonameId>2997987</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>48.07068</lat>
+        
+                        <lng>-3.33099</lng>
+        
+                        <geonameId>2997988</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>47.96471</lat>
+        
+                        <lng>-3.23835</lng>
+        
+                        <geonameId>2997989</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lochrist</toponymName>
+        
+                        <name>Lochrist</name>
+        
+                        <lat>47.82393</lat>
+        
+                        <lng>-3.26418</lng>
+        
+                        <geonameId>2997990</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Blavet</toponymName>
+        
+                        <name>Blavet</name>
+        
+                        <lat>47.7377</lat>
+        
+                        <lng>-3.34335</lng>
+        
+                        <geonameId>3032303</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Blavet</toponymName>
+        
+                        <name>Blavet</name>
+        
+                        <lat>48.23268</lat>
+        
+                        <lng>-3.17852</lng>
+        
+                        <geonameId>3032302</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Blavet</toponymName>
+        
+                        <name>Blavet</name>
+        
+                        <lat>47.7377</lat>
+        
+                        <lng>-3.34335</lng>
+        
+                        <geonameId>3032303</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Blavet</toponymName>
+        
+                        <name>Blavet</name>
+        
+                        <lat>48.23268</lat>
+        
+                        <lng>-3.17852</lng>
+        
+                        <geonameId>3032302</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>7</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Heugnes</toponymName>
+        
+                        <name>Heugnes</name>
+        
+                        <lat>47</lat>
+        
+                        <lng>1.4</lng>
+        
+                        <geonameId>3013528</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Aigne</toponymName>
+        
+                        <name>Aigne</name>
+        
+                        <lat>43.33282</lat>
+        
+                        <lng>2.79757</lng>
+        
+                        <geonameId>6613153</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Esnes</toponymName>
+        
+                        <name>Esnes</name>
+        
+                        <lat>50.10139</lat>
+        
+                        <lng>3.31139</lng>
+        
+                        <geonameId>6438215</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Haisnes</toponymName>
+        
+                        <name>Haisnes</name>
+        
+                        <lat>50.50806</lat>
+        
+                        <lng>2.80167</lng>
+        
+                        <geonameId>6439585</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Aignes</toponymName>
+        
+                        <name>Aignes</name>
+        
+                        <lat>43.32028</lat>
+        
+                        <lng>1.58861</lng>
+        
+                        <geonameId>6452248</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Aisne</toponymName>
+        
+                        <name>Aisne</name>
+        
+                        <lat>49.43413</lat>
+        
+                        <lng>2.84688</lng>
+        
+                        <geonameId>3038377</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Eyne</toponymName>
+        
+                        <name>Eyne</name>
+        
+                        <lat>42.47361</lat>
+        
+                        <lng>2.0825</lng>
+        
+                        <geonameId>6450547</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Blavet</toponymName>
+        
+                        <name>Blavet</name>
+        
+                        <lat>47.7377</lat>
+        
+                        <lng>-3.34335</lng>
+        
+                        <geonameId>3032303</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Blavet</toponymName>
+        
+                        <name>Blavet</name>
+        
+                        <lat>48.23268</lat>
+        
+                        <lng>-3.17852</lng>
+        
+                        <geonameId>3032302</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>3</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Grand</toponymName>
+        
+                        <name>Grand</name>
+        
+                        <lat>48.38494</lat>
+        
+                        <lng>5.48701</lng>
+        
+                        <geonameId>3015368</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Grand</toponymName>
+        
+                        <name>Grand</name>
+        
+                        <lat>48.38556</lat>
+        
+                        <lng>5.48611</lng>
+        
+                        <geonameId>6454833</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>grand</toponymName>
+        
+                        <name>grand</name>
+        
+                        <lat>48.40301</lat>
+        
+                        <lng>7.32522</lng>
+        
+                        <geonameId>7115327</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>S</fcl>
+        
+                        <fcode>HTL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Hennebont</toponymName>
+        
+                        <name>Hennebont</name>
+        
+                        <lat>47.80512</lat>
+        
+                        <lng>-3.27337</lng>
+        
+                        <geonameId>3013521</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Hennebont</toponymName>
+        
+                        <name>Hennebont</name>
+        
+                        <lat>47.80417</lat>
+        
+                        <lng>-3.27889</lng>
+        
+                        <geonameId>6449866</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Seille</toponymName>
+        
+                        <name>Seille</name>
+        
+                        <lat>49.12566</lat>
+        
+                        <lng>6.18535</lng>
+        
+                        <geonameId>2975261</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>3</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Grand</toponymName>
+        
+                        <name>Grand</name>
+        
+                        <lat>48.38494</lat>
+        
+                        <lng>5.48701</lng>
+        
+                        <geonameId>3015368</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Grand</toponymName>
+        
+                        <name>Grand</name>
+        
+                        <lat>48.38556</lat>
+        
+                        <lng>5.48611</lng>
+        
+                        <geonameId>6454833</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>grand</toponymName>
+        
+                        <name>grand</name>
+        
+                        <lat>48.40301</lat>
+        
+                        <lng>7.32522</lng>
+        
+                        <geonameId>7115327</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>S</fcl>
+        
+                        <fcode>HTL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+               </corpText>
+            </T:p>
+         </T:body>
+      </T:text>
+   </T:TEI>
+</sch:document>

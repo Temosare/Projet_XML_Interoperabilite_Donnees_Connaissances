@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:p="urn:ns:TeiSpe"
+     xmlns:sch="urn:ns:sch"
+     xmlns:T="urn:ns:Tei"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     version="1.1"
+     creator="Guillaume Bolzonella"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <metadata>
+      <name>Transformation en fichier GPX pour viasualisation avec Google Map</name>
+      <desc>Livrable 4 partie 4</desc>
+   </metadata>
+   <wpt lat="47.80512" lon="-3.27337">
+      <desc>Hennebont</desc>
+   </wpt>
+   <wpt lat="47.80417" lon="-3.27889">
+      <desc>Hennebont</desc>
+   </wpt>
+   <wpt lat="47.7377" lon="-3.34335">
+      <desc>Blavet</desc>
+   </wpt>
+   <wpt lat="48.23268" lon="-3.17852">
+      <desc>Blavet</desc>
+   </wpt>
+   <wpt lat="47.70704" lon="-3.35484">
+      <desc>Port-Louis</desc>
+   </wpt>
+   <wpt lat="47.7063" lon="-3.3526">
+      <desc>Port-Louis</desc>
+   </wpt>
+   <wpt lat="47.7377" lon="-3.34335">
+      <desc>Blavet</desc>
+   </wpt>
+   <wpt lat="48.23268" lon="-3.17852">
+      <desc>Blavet</desc>
+   </wpt>
+   <wpt lat="43.53556" lon="0.65028">
+      <desc>Traversères</desc>
+   </wpt>
+   <wpt lat="45.29694" lon="0.41222">
+      <desc>Celles</desc>
+   </wpt>
+   <wpt lat="45.85833" lon="3.63528">
+      <desc>Celles-sur-Durolle</desc>
+   </wpt>
+   <wpt lat="44.03578" lon="0.84028">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="46.77642" lon="6.3341">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="44.75048" lon="2.33702">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="45.01548" lon="-0.42285">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="45.01611" lon="-0.42278">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="47.49677" lon="0.62997">
+      <desc>Saint-Antoine-du-Rocher</desc>
+   </wpt>
+   <wpt lat="44.83333" lon="0.16667">
+      <desc>Saint-Antoine-de-Breuilh</desc>
+   </wpt>
+   <wpt lat="44.75028" lon="2.3375">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="43.72619" lon="7.41174">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="49.58603" lon="0.8767">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="48.63333" lon="-3.81667">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="48.6" lon="-4.55">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="46.96552" lon="3.15715">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="46.95764" lon="2.68533">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="44.86775" lon="6.48847">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="43.37087" lon="5.35888">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="45.03333" lon="0.05">
+      <desc>Saint-Antoine-sur-l’Isle</desc>
+   </wpt>
+   <wpt lat="44.33214" lon="0.71821">
+      <desc>Saint-Antoine-de-Ficalba</desc>
+   </wpt>
+   <wpt lat="49.53624" lon="0.47428">
+      <desc>Saint-Antoine-la-Forêt</desc>
+   </wpt>
+   <wpt lat="44.7637" lon="0.00996">
+      <desc>Saint-Antoine-du-Queyret</desc>
+   </wpt>
+   <wpt lat="45.1419" lon="0.94399">
+      <desc>Saint-Antoine-d’Auberoche</desc>
+   </wpt>
+   <wpt lat="45.26667" lon="0.2">
+      <desc>Saint-Antoine-Cumond</desc>
+   </wpt>
+   <wpt lat="42.69605" lon="9.44609">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="46.77694" lon="6.33778">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="42.08174" lon="9.36307">
+      <desc>Sant’Antonio</desc>
+   </wpt>
+   <wpt lat="48.85184" lon="2.37391">
+      <desc>Saint Antoine</desc>
+   </wpt>
+   <wpt lat="44.03639" lon="0.84028">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="49.19511" lon="3.72798">
+      <desc>Saint-Antoine</desc>
+   </wpt>
+   <wpt lat="48.15381" lon="-1.82477">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="43.67656" lon="4.43024">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="46.69761" lon="-1.94561">
+      <desc>Saint-Gilles-Croix-de-Vie</desc>
+   </wpt>
+   <wpt lat="49.28036" lon="3.67679">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="49.10464" lon="-1.1769">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="46.47924" lon="1.4582">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="46.87786" lon="4.66357">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="49.57494" lon="0.37543">
+      <desc>Saint-Gilles-de-la-Neuville</desc>
+   </wpt>
+   <wpt lat="49.28" lon="3.67583">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="46.87583" lon="4.66694">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="48.58287" lon="-0.69388">
+      <desc>Saint-Gilles-des-Marais</desc>
+   </wpt>
+   <wpt lat="47.81128" lon="-3.24323">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="47.7656" lon="-1.02372">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="47.12336" lon="0.42526">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="48.37934" lon="-3.09549">
+      <desc>Saint-Gilles-Pligeaux</desc>
+   </wpt>
+   <wpt lat="48.65167" lon="-3.10355">
+      <desc>Saint-Gilles-les-Bois</desc>
+   </wpt>
+   <wpt lat="48.24784" lon="-2.54742">
+      <desc>Saint-Gilles-du-Mené</desc>
+   </wpt>
+   <wpt lat="45.62884" lon="1.66372">
+      <desc>Saint-Gilles-les-Forêts</desc>
+   </wpt>
+   <wpt lat="49.55824" lon="0.64433">
+      <desc>Saint-Gilles-de-Crétot</desc>
+   </wpt>
+   <wpt lat="48.25" lon="-2.96667">
+      <desc>Saint-Gilles-Vieux-Marché</desc>
+   </wpt>
+   <wpt lat="49.10472" lon="-1.17556">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="46.4949" lon="1.4453">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="48.15361" lon="-1.82611">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="43.67778" lon="4.43111">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="43.53556" lon="0.65028">
+      <desc>Traversères</desc>
+   </wpt>
+   <wpt lat="48.15381" lon="-1.82477">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="43.67656" lon="4.43024">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="46.69761" lon="-1.94561">
+      <desc>Saint-Gilles-Croix-de-Vie</desc>
+   </wpt>
+   <wpt lat="49.28036" lon="3.67679">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="49.10464" lon="-1.1769">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="46.47924" lon="1.4582">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="46.87786" lon="4.66357">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="49.57494" lon="0.37543">
+      <desc>Saint-Gilles-de-la-Neuville</desc>
+   </wpt>
+   <wpt lat="49.28" lon="3.67583">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="46.87583" lon="4.66694">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="48.58287" lon="-0.69388">
+      <desc>Saint-Gilles-des-Marais</desc>
+   </wpt>
+   <wpt lat="47.81128" lon="-3.24323">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="47.7656" lon="-1.02372">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="47.12336" lon="0.42526">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="48.37934" lon="-3.09549">
+      <desc>Saint-Gilles-Pligeaux</desc>
+   </wpt>
+   <wpt lat="48.65167" lon="-3.10355">
+      <desc>Saint-Gilles-les-Bois</desc>
+   </wpt>
+   <wpt lat="48.24784" lon="-2.54742">
+      <desc>Saint-Gilles-du-Mené</desc>
+   </wpt>
+   <wpt lat="45.62884" lon="1.66372">
+      <desc>Saint-Gilles-les-Forêts</desc>
+   </wpt>
+   <wpt lat="49.55824" lon="0.64433">
+      <desc>Saint-Gilles-de-Crétot</desc>
+   </wpt>
+   <wpt lat="48.25" lon="-2.96667">
+      <desc>Saint-Gilles-Vieux-Marché</desc>
+   </wpt>
+   <wpt lat="49.10472" lon="-1.17556">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="46.4949" lon="1.4453">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="48.15361" lon="-1.82611">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="43.67778" lon="4.43111">
+      <desc>Saint-Gilles</desc>
+   </wpt>
+   <wpt lat="47.72496" lon="6.53117">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="48.25736" lon="4.03264">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="48.9" lon="2.08333">
+      <desc>Saint-Germain-en-Laye</desc>
+   </wpt>
+   <wpt lat="48.43195" lon="6.33917">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="46.56649" lon="0.88251">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="44.55493" lon="4.45029">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="47.5" lon="4.7">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="48.88257" lon="2.85127">
+      <desc>Saint-Germain-sur-Morin</desc>
+   </wpt>
+   <wpt lat="49.18327" lon="-0.40426">
+      <desc>Saint-Germain-la-Blanche-Herbe</desc>
+   </wpt>
+   <wpt lat="45.45798" lon="3.2395">
+      <desc>Saint-Germain-Lembron</desc>
+   </wpt>
+   <wpt lat="48.40531" lon="-1.26369">
+      <desc>Saint-Germain-en-Coglès</desc>
+   </wpt>
+   <wpt lat="46.69938" lon="4.9851">
+      <desc>Saint-Germain-du-Plain</desc>
+   </wpt>
+   <wpt lat="48.42215" lon="0.06193">
+      <desc>Saint-Germain-du-Corbéis</desc>
+   </wpt>
+   <wpt lat="47.40998" lon="-0.83342">
+      <desc>Saint-Germain-des-Prés</desc>
+   </wpt>
+   <wpt lat="45.45011" lon="-0.46147">
+      <desc>Saint-Germain-de-Lusignan</desc>
+   </wpt>
+   <wpt lat="48.24905" lon="-1.65894">
+      <desc>Saint-Germain-sur-Ille</desc>
+   </wpt>
+   <wpt lat="46.10165" lon="3.96204">
+      <desc>Saint-Germain-Lespinasse</desc>
+   </wpt>
+   <wpt lat="45.61356" lon="1.4949">
+      <desc>Saint-Germain-les-Belles</desc>
+   </wpt>
+   <wpt lat="45.03862" lon="3.97004">
+      <desc>Saint-Germain-Laprade</desc>
+   </wpt>
+   <wpt lat="45.77952" lon="5.88966">
+      <desc>Saint-Germain-la-Chambotte</desc>
+   </wpt>
+   <wpt lat="44.85" lon="-0.31667">
+      <desc>Saint-Germain-du-Puch</desc>
+   </wpt>
+   <wpt lat="48.01225" lon="-1.16683">
+      <desc>Saint-Germain-du-Pinel</desc>
+   </wpt>
+   <wpt lat="46.07733" lon="-0.79133">
+      <desc>Saint-Germain-de-Marencennes</desc>
+   </wpt>
+   <wpt lat="48.83436" lon="1.89884">
+      <desc>Saint-Germain-de-la-Grange</desc>
+   </wpt>
+   <wpt lat="48.28559" lon="0.09557">
+      <desc>Saint-Germain-sur-Sarthe</desc>
+   </wpt>
+   <wpt lat="46.08095" lon="5.05864">
+      <desc>Saint-Germain-sur-Renon</desc>
+   </wpt>
+   <wpt lat="49.76471" lon="1.50676">
+      <desc>Saint-Germain-sur-Eaulne</desc>
+   </wpt>
+   <wpt lat="49.82979" lon="1.73199">
+      <desc>Saint-Germain-sur-Bresle</desc>
+   </wpt>
+   <wpt lat="49.002" lon="-0.30133">
+      <desc>Saint-Germain-le-Vasson</desc>
+   </wpt>
+   <wpt lat="45.77364" lon="5.61914">
+      <desc>Saint-Germain-les-Paroisses</desc>
+   </wpt>
+   <wpt lat="48.20608" lon="-0.82601">
+      <desc>Saint-Germain-le-Guillaume</desc>
+   </wpt>
+   <wpt lat="49.48595" lon="-1.78226">
+      <desc>Saint-Germain-le-Gaillard</desc>
+   </wpt>
+   <wpt lat="48.42175" lon="1.25945">
+      <desc>Saint-Germain-le-Gaillard</desc>
+   </wpt>
+   <wpt lat="48.13609" lon="-0.7914">
+      <desc>Saint-Germain-le-Fouilloux</desc>
+   </wpt>
+   <wpt lat="45.61667" lon="2.21667">
+      <desc>Saint-Germain-Lavolps</desc>
+   </wpt>
+   <wpt lat="49.44533" lon="1.98285">
+      <desc>Saint-Germain-la-Poterie</desc>
+   </wpt>
+   <wpt lat="48.92384" lon="-0.32363">
+      <desc>Saint-Germain-Langot</desc>
+   </wpt>
+   <wpt lat="46.2026" lon="4.37685">
+      <desc>Saint-Germain-la-Montagne</desc>
+   </wpt>
+   <wpt lat="49.04799" lon="0.40579">
+      <desc>Saint-Germain-la-Campagne</desc>
+   </wpt>
+   <wpt lat="46.35434" lon="4.26493">
+      <desc>Saint-Germain-en-Brionnais</desc>
+   </wpt>
+   <wpt lat="44.47865" lon="3.17253">
+      <desc>Saint-Germain-du-Teil</desc>
+   </wpt>
+   <wpt lat="49.43726" lon="-1.2575">
+      <desc>Saint-Germain-de-Varreville</desc>
+   </wpt>
+   <wpt lat="49.53534" lon="-1.39478">
+      <desc>Saint-Germain-de-Tournebut</desc>
+   </wpt>
+   <wpt lat="48.39855" lon="0.82997">
+      <desc>Saint-Germain-des-Grois</desc>
+   </wpt>
+   <wpt lat="49.53872" lon="1.32098">
+      <desc>Saint-Germain-des-Essourts</desc>
+   </wpt>
+   <wpt lat="49.09156" lon="1.14612">
+      <desc>Saint-Germain-des-Angles</desc>
+   </wpt>
+   <wpt lat="49.24605" lon="1">
+      <desc>Saint-Germain-de-Pasquier</desc>
+   </wpt>
+   <wpt lat="48.58973" lon="0.4647">
+      <desc>Saint-Germain-de-Martigny</desc>
+   </wpt>
+   <wpt lat="48.28096" lon="0.60496">
+      <desc>Saint-Germain-de-la-Coudre</desc>
+   </wpt>
+   <wpt lat="48.96046" lon="1.29182">
+      <desc>Saint-Germain-de-Fresney</desc>
+   </wpt>
+   <wpt lat="48.7128" lon="0.23879">
+      <desc>Saint-Germain-de-Clairefeuille</desc>
+   </wpt>
+   <wpt lat="49.34908" lon="0.50331">
+      <desc>Saint-Germain-Village</desc>
+   </wpt>
+   <wpt lat="47.11746" lon="-1.12223">
+      <desc>Saint-Germain-sur-Moine</desc>
+   </wpt>
+   <wpt lat="45.85242" lon="4.61182">
+      <desc>Saint-Germain-Nuelles</desc>
+   </wpt>
+   <wpt lat="48.76466" lon="1.26776">
+      <desc>Saint-Germain-sur-Avre</desc>
+   </wpt>
+   <wpt lat="48.62211" lon="2.48775">
+      <desc>Saint-Germain-lès-Corbeil</desc>
+   </wpt>
+   <wpt lat="48.59733" lon="2.26481">
+      <desc>Saint-Germain-lès-Arpajon</desc>
+   </wpt>
+   <wpt lat="47.75131" lon="4.66869">
+      <desc>Saint-Germain-le-Rocheux</desc>
+   </wpt>
+   <wpt lat="46.7782" lon="5.93921">
+      <desc>Saint-Germain-en-Montagne</desc>
+   </wpt>
+   <wpt lat="45.13827" lon="0.45033">
+      <desc>Saint-Germain-du-Salembre</desc>
+   </wpt>
+   <wpt lat="47.1" lon="2.48333">
+      <desc>Saint-Germain-du-Puy</desc>
+   </wpt>
+   <wpt lat="48.85642" lon="-0.6044">
+      <desc>Saint-Germain-du-Crioult</desc>
+   </wpt>
+   <wpt lat="46.75287" lon="5.2453">
+      <desc>Saint-Germain-du-Bois</desc>
+   </wpt>
+   <wpt lat="45.43333" lon="-0.31667">
+      <desc>Saint-Germain-de-Vibrac</desc>
+   </wpt>
+   <wpt lat="49.71463" lon="-1.91976">
+      <desc>Saint-Germain-des-Vaux</desc>
+   </wpt>
+   <wpt lat="46.20211" lon="3.43245">
+      <desc>Saint-Germain-des-Fossés</desc>
+   </wpt>
+   <wpt lat="46.72107" lon="-1.02153">
+      <desc>Saint-Germain-de-Prinçay</desc>
+   </wpt>
+   <wpt lat="45.62344" lon="0.41987">
+      <desc>Saint-Germain-de-Montbron</desc>
+   </wpt>
+   <wpt lat="46.05362" lon="0.68361">
+      <desc>Saint-Germain-de-Confolens</desc>
+   </wpt>
+   <wpt lat="48.43111" lon="6.33889">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="48.64942" lon="5.69421">
+      <desc>Saint-Germain-sur-Meuse</desc>
+   </wpt>
+   <wpt lat="49.2351" lon="-1.59444">
+      <desc>Saint-Germain-sur-Ay</desc>
+   </wpt>
+   <wpt lat="45.45838" lon="3.54082">
+      <desc>Saint-Germain-l’Herm</desc>
+   </wpt>
+   <wpt lat="45.27422" lon="1.63522">
+      <desc>Saint-Germain-les-Vergnes</desc>
+   </wpt>
+   <wpt lat="48.88217" lon="4.44752">
+      <desc>Saint-Germain-la-Ville</desc>
+   </wpt>
+   <wpt lat="45.5126" lon="-0.66768">
+      <desc>Saint-Germain-du-Seudre</desc>
+   </wpt>
+   <wpt lat="44.64685" lon="1.44035">
+      <desc>Saint-Germain-du-Bel-Air</desc>
+   </wpt>
+   <wpt lat="47.95384" lon="2.84846">
+      <desc>Saint-Germain-des-Prés</desc>
+   </wpt>
+   <wpt lat="46.91238" lon="2.44522">
+      <desc>Saint-Germain-des-Bois</desc>
+   </wpt>
+   <wpt lat="46.179" lon="5.73795">
+      <desc>Saint-Germain-de-Joux</desc>
+   </wpt>
+   <wpt lat="46.30753" lon="1.54553">
+      <desc>Saint-Germain-Beaupré</desc>
+   </wpt>
+   <wpt lat="45.88037" lon="4.80167">
+      <desc>Saint-Germain-au-Mont-d’Or</desc>
+   </wpt>
+   <wpt lat="44.21756" lon="3.80937">
+      <desc>Saint-Germain-de-Calberte</desc>
+   </wpt>
+   <wpt lat="49.92411" lon="3.62486">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="49.41907" lon="2.19772">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="49.36511" lon="1.57338">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="48.61781" lon="-2.30236">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="48.22752" lon="1.37532">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="47.96667" lon="-4.25">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="47.76514" lon="2.36552">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="47.70411" lon="-0.34778">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="47.08276" lon="1.07019">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="47.04807" lon="2.999">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="46.40924" lon="3.2919">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="45.61526" lon="5.20449">
+      <desc>Saint-Germain</desc>
+   </wpt>
+   <wpt lat="48.8" lon="-0.9">
+      <desc>Saint-Germain-de-Tallevende</desc>
+   </wpt>
+   <wpt lat="47.19439" lon="0.09813">
+      <desc>Saint-Germain-sur-Vienne</desc>
+   </wpt>
+   <wpt lat="49.22214" lon="-1.3694">
+      <desc>Saint-Germain-sur-Sèves</desc>
+   </wpt>
+   <wpt lat="46.06653" lon="5.81382">
+      <desc>Saint-Germain-sur-Rhône</desc>
+   </wpt>
+   <wpt lat="48.47415" lon="2.50793">
+      <desc>Saint-Germain-sur-École</desc>
+   </wpt>
+   <wpt lat="43.53556" lon="0.65028">
+      <desc>Traversères</desc>
+   </wpt>
+   <wpt lat="42.93333" lon="-0.58333">
+      <desc>Cette-Eygun</desc>
+   </wpt>
+   <wpt lat="48.36667" lon="-4.05">
+      <desc>Quélennec</desc>
+   </wpt>
+   <wpt lat="48.63022" lon="-4.23533">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="48.49817" lon="-4.66117">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="48.34612" lon="-4.76189">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="48.34274" lon="-3.49108">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="48.07068" lon="-3.33099">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="47.96471" lon="-3.23835">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="47.82393" lon="-3.26418">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="48.63022" lon="-4.23533">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="48.49817" lon="-4.66117">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="48.34612" lon="-4.76189">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="48.34274" lon="-3.49108">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="48.07068" lon="-3.33099">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="47.96471" lon="-3.23835">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="47.82393" lon="-3.26418">
+      <desc>Lochrist</desc>
+   </wpt>
+   <wpt lat="47.7377" lon="-3.34335">
+      <desc>Blavet</desc>
+   </wpt>
+   <wpt lat="48.23268" lon="-3.17852">
+      <desc>Blavet</desc>
+   </wpt>
+   <wpt lat="47.7377" lon="-3.34335">
+      <desc>Blavet</desc>
+   </wpt>
+   <wpt lat="48.23268" lon="-3.17852">
+      <desc>Blavet</desc>
+   </wpt>
+   <wpt lat="47" lon="1.4">
+      <desc>Heugnes</desc>
+   </wpt>
+   <wpt lat="43.33282" lon="2.79757">
+      <desc>Aigne</desc>
+   </wpt>
+   <wpt lat="50.10139" lon="3.31139">
+      <desc>Esnes</desc>
+   </wpt>
+   <wpt lat="50.50806" lon="2.80167">
+      <desc>Haisnes</desc>
+   </wpt>
+   <wpt lat="43.32028" lon="1.58861">
+      <desc>Aignes</desc>
+   </wpt>
+   <wpt lat="49.43413" lon="2.84688">
+      <desc>Aisne</desc>
+   </wpt>
+   <wpt lat="42.47361" lon="2.0825">
+      <desc>Eyne</desc>
+   </wpt>
+   <wpt lat="47.7377" lon="-3.34335">
+      <desc>Blavet</desc>
+   </wpt>
+   <wpt lat="48.23268" lon="-3.17852">
+      <desc>Blavet</desc>
+   </wpt>
+   <wpt lat="48.38494" lon="5.48701">
+      <desc>Grand</desc>
+   </wpt>
+   <wpt lat="48.38556" lon="5.48611">
+      <desc>Grand</desc>
+   </wpt>
+   <wpt lat="48.40301" lon="7.32522">
+      <desc>grand</desc>
+   </wpt>
+   <wpt lat="47.80512" lon="-3.27337">
+      <desc>Hennebont</desc>
+   </wpt>
+   <wpt lat="47.80417" lon="-3.27889">
+      <desc>Hennebont</desc>
+   </wpt>
+   <wpt lat="49.12566" lon="6.18535">
+      <desc>Seille</desc>
+   </wpt>
+   <wpt lat="48.38494" lon="5.48701">
+      <desc>Grand</desc>
+   </wpt>
+   <wpt lat="48.38556" lon="5.48611">
+      <desc>Grand</desc>
+   </wpt>
+   <wpt lat="48.40301" lon="7.32522">
+      <desc>grand</desc>
+   </wpt>
+   <trk>
+      <trkseg>
+         <trkpt lat="47.80512" lon="-3.27337">
+            <name>Hennebont</name>
+         </trkpt>
+         <trkpt lat="47.80417" lon="-3.27889">
+            <name>Hennebont</name>
+         </trkpt>
+         <trkpt lat="47.7377" lon="-3.34335">
+            <name>Blavet</name>
+         </trkpt>
+         <trkpt lat="48.23268" lon="-3.17852">
+            <name>Blavet</name>
+         </trkpt>
+         <trkpt lat="47.70704" lon="-3.35484">
+            <name>Port-Louis</name>
+         </trkpt>
+         <trkpt lat="47.7063" lon="-3.3526">
+            <name>Port-Louis</name>
+         </trkpt>
+         <trkpt lat="47.7377" lon="-3.34335">
+            <name>Blavet</name>
+         </trkpt>
+         <trkpt lat="48.23268" lon="-3.17852">
+            <name>Blavet</name>
+         </trkpt>
+         <trkpt lat="43.53556" lon="0.65028">
+            <name>Traversères</name>
+         </trkpt>
+         <trkpt lat="45.29694" lon="0.41222">
+            <name>Celles</name>
+         </trkpt>
+         <trkpt lat="45.85833" lon="3.63528">
+            <name>Celles-sur-Durolle</name>
+         </trkpt>
+         <trkpt lat="44.03578" lon="0.84028">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="46.77642" lon="6.3341">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="44.75048" lon="2.33702">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="45.01548" lon="-0.42285">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="45.01611" lon="-0.42278">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="47.49677" lon="0.62997">
+            <name>Saint-Antoine-du-Rocher</name>
+         </trkpt>
+         <trkpt lat="44.83333" lon="0.16667">
+            <name>Saint-Antoine-de-Breuilh</name>
+         </trkpt>
+         <trkpt lat="44.75028" lon="2.3375">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="43.72619" lon="7.41174">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="49.58603" lon="0.8767">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="48.63333" lon="-3.81667">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="48.6" lon="-4.55">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="46.96552" lon="3.15715">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="46.95764" lon="2.68533">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="44.86775" lon="6.48847">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="43.37087" lon="5.35888">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="45.03333" lon="0.05">
+            <name>Saint-Antoine-sur-l’Isle</name>
+         </trkpt>
+         <trkpt lat="44.33214" lon="0.71821">
+            <name>Saint-Antoine-de-Ficalba</name>
+         </trkpt>
+         <trkpt lat="49.53624" lon="0.47428">
+            <name>Saint-Antoine-la-Forêt</name>
+         </trkpt>
+         <trkpt lat="44.7637" lon="0.00996">
+            <name>Saint-Antoine-du-Queyret</name>
+         </trkpt>
+         <trkpt lat="45.1419" lon="0.94399">
+            <name>Saint-Antoine-d’Auberoche</name>
+         </trkpt>
+         <trkpt lat="45.26667" lon="0.2">
+            <name>Saint-Antoine-Cumond</name>
+         </trkpt>
+         <trkpt lat="42.69605" lon="9.44609">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="46.77694" lon="6.33778">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="42.08174" lon="9.36307">
+            <name>Sant’Antonio</name>
+         </trkpt>
+         <trkpt lat="48.85184" lon="2.37391">
+            <name>Saint Antoine</name>
+         </trkpt>
+         <trkpt lat="44.03639" lon="0.84028">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="49.19511" lon="3.72798">
+            <name>Saint-Antoine</name>
+         </trkpt>
+         <trkpt lat="48.15381" lon="-1.82477">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="43.67656" lon="4.43024">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="46.69761" lon="-1.94561">
+            <name>Saint-Gilles-Croix-de-Vie</name>
+         </trkpt>
+         <trkpt lat="49.28036" lon="3.67679">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="49.10464" lon="-1.1769">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="46.47924" lon="1.4582">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="46.87786" lon="4.66357">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="49.57494" lon="0.37543">
+            <name>Saint-Gilles-de-la-Neuville</name>
+         </trkpt>
+         <trkpt lat="49.28" lon="3.67583">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="46.87583" lon="4.66694">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="48.58287" lon="-0.69388">
+            <name>Saint-Gilles-des-Marais</name>
+         </trkpt>
+         <trkpt lat="47.81128" lon="-3.24323">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="47.7656" lon="-1.02372">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="47.12336" lon="0.42526">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="48.37934" lon="-3.09549">
+            <name>Saint-Gilles-Pligeaux</name>
+         </trkpt>
+         <trkpt lat="48.65167" lon="-3.10355">
+            <name>Saint-Gilles-les-Bois</name>
+         </trkpt>
+         <trkpt lat="48.24784" lon="-2.54742">
+            <name>Saint-Gilles-du-Mené</name>
+         </trkpt>
+         <trkpt lat="45.62884" lon="1.66372">
+            <name>Saint-Gilles-les-Forêts</name>
+         </trkpt>
+         <trkpt lat="49.55824" lon="0.64433">
+            <name>Saint-Gilles-de-Crétot</name>
+         </trkpt>
+         <trkpt lat="48.25" lon="-2.96667">
+            <name>Saint-Gilles-Vieux-Marché</name>
+         </trkpt>
+         <trkpt lat="49.10472" lon="-1.17556">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="46.4949" lon="1.4453">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="48.15361" lon="-1.82611">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="43.67778" lon="4.43111">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="43.53556" lon="0.65028">
+            <name>Traversères</name>
+         </trkpt>
+         <trkpt lat="48.15381" lon="-1.82477">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="43.67656" lon="4.43024">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="46.69761" lon="-1.94561">
+            <name>Saint-Gilles-Croix-de-Vie</name>
+         </trkpt>
+         <trkpt lat="49.28036" lon="3.67679">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="49.10464" lon="-1.1769">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="46.47924" lon="1.4582">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="46.87786" lon="4.66357">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="49.57494" lon="0.37543">
+            <name>Saint-Gilles-de-la-Neuville</name>
+         </trkpt>
+         <trkpt lat="49.28" lon="3.67583">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="46.87583" lon="4.66694">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="48.58287" lon="-0.69388">
+            <name>Saint-Gilles-des-Marais</name>
+         </trkpt>
+         <trkpt lat="47.81128" lon="-3.24323">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="47.7656" lon="-1.02372">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="47.12336" lon="0.42526">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="48.37934" lon="-3.09549">
+            <name>Saint-Gilles-Pligeaux</name>
+         </trkpt>
+         <trkpt lat="48.65167" lon="-3.10355">
+            <name>Saint-Gilles-les-Bois</name>
+         </trkpt>
+         <trkpt lat="48.24784" lon="-2.54742">
+            <name>Saint-Gilles-du-Mené</name>
+         </trkpt>
+         <trkpt lat="45.62884" lon="1.66372">
+            <name>Saint-Gilles-les-Forêts</name>
+         </trkpt>
+         <trkpt lat="49.55824" lon="0.64433">
+            <name>Saint-Gilles-de-Crétot</name>
+         </trkpt>
+         <trkpt lat="48.25" lon="-2.96667">
+            <name>Saint-Gilles-Vieux-Marché</name>
+         </trkpt>
+         <trkpt lat="49.10472" lon="-1.17556">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="46.4949" lon="1.4453">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="48.15361" lon="-1.82611">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="43.67778" lon="4.43111">
+            <name>Saint-Gilles</name>
+         </trkpt>
+         <trkpt lat="47.72496" lon="6.53117">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="48.25736" lon="4.03264">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="48.9" lon="2.08333">
+            <name>Saint-Germain-en-Laye</name>
+         </trkpt>
+         <trkpt lat="48.43195" lon="6.33917">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="46.56649" lon="0.88251">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="44.55493" lon="4.45029">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="47.5" lon="4.7">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="48.88257" lon="2.85127">
+            <name>Saint-Germain-sur-Morin</name>
+         </trkpt>
+         <trkpt lat="49.18327" lon="-0.40426">
+            <name>Saint-Germain-la-Blanche-Herbe</name>
+         </trkpt>
+         <trkpt lat="45.45798" lon="3.2395">
+            <name>Saint-Germain-Lembron</name>
+         </trkpt>
+         <trkpt lat="48.40531" lon="-1.26369">
+            <name>Saint-Germain-en-Coglès</name>
+         </trkpt>
+         <trkpt lat="46.69938" lon="4.9851">
+            <name>Saint-Germain-du-Plain</name>
+         </trkpt>
+         <trkpt lat="48.42215" lon="0.06193">
+            <name>Saint-Germain-du-Corbéis</name>
+         </trkpt>
+         <trkpt lat="47.40998" lon="-0.83342">
+            <name>Saint-Germain-des-Prés</name>
+         </trkpt>
+         <trkpt lat="45.45011" lon="-0.46147">
+            <name>Saint-Germain-de-Lusignan</name>
+         </trkpt>
+         <trkpt lat="48.24905" lon="-1.65894">
+            <name>Saint-Germain-sur-Ille</name>
+         </trkpt>
+         <trkpt lat="46.10165" lon="3.96204">
+            <name>Saint-Germain-Lespinasse</name>
+         </trkpt>
+         <trkpt lat="45.61356" lon="1.4949">
+            <name>Saint-Germain-les-Belles</name>
+         </trkpt>
+         <trkpt lat="45.03862" lon="3.97004">
+            <name>Saint-Germain-Laprade</name>
+         </trkpt>
+         <trkpt lat="45.77952" lon="5.88966">
+            <name>Saint-Germain-la-Chambotte</name>
+         </trkpt>
+         <trkpt lat="44.85" lon="-0.31667">
+            <name>Saint-Germain-du-Puch</name>
+         </trkpt>
+         <trkpt lat="48.01225" lon="-1.16683">
+            <name>Saint-Germain-du-Pinel</name>
+         </trkpt>
+         <trkpt lat="46.07733" lon="-0.79133">
+            <name>Saint-Germain-de-Marencennes</name>
+         </trkpt>
+         <trkpt lat="48.83436" lon="1.89884">
+            <name>Saint-Germain-de-la-Grange</name>
+         </trkpt>
+         <trkpt lat="48.28559" lon="0.09557">
+            <name>Saint-Germain-sur-Sarthe</name>
+         </trkpt>
+         <trkpt lat="46.08095" lon="5.05864">
+            <name>Saint-Germain-sur-Renon</name>
+         </trkpt>
+         <trkpt lat="49.76471" lon="1.50676">
+            <name>Saint-Germain-sur-Eaulne</name>
+         </trkpt>
+         <trkpt lat="49.82979" lon="1.73199">
+            <name>Saint-Germain-sur-Bresle</name>
+         </trkpt>
+         <trkpt lat="49.002" lon="-0.30133">
+            <name>Saint-Germain-le-Vasson</name>
+         </trkpt>
+         <trkpt lat="45.77364" lon="5.61914">
+            <name>Saint-Germain-les-Paroisses</name>
+         </trkpt>
+         <trkpt lat="48.20608" lon="-0.82601">
+            <name>Saint-Germain-le-Guillaume</name>
+         </trkpt>
+         <trkpt lat="49.48595" lon="-1.78226">
+            <name>Saint-Germain-le-Gaillard</name>
+         </trkpt>
+         <trkpt lat="48.42175" lon="1.25945">
+            <name>Saint-Germain-le-Gaillard</name>
+         </trkpt>
+         <trkpt lat="48.13609" lon="-0.7914">
+            <name>Saint-Germain-le-Fouilloux</name>
+         </trkpt>
+         <trkpt lat="45.61667" lon="2.21667">
+            <name>Saint-Germain-Lavolps</name>
+         </trkpt>
+         <trkpt lat="49.44533" lon="1.98285">
+            <name>Saint-Germain-la-Poterie</name>
+         </trkpt>
+         <trkpt lat="48.92384" lon="-0.32363">
+            <name>Saint-Germain-Langot</name>
+         </trkpt>
+         <trkpt lat="46.2026" lon="4.37685">
+            <name>Saint-Germain-la-Montagne</name>
+         </trkpt>
+         <trkpt lat="49.04799" lon="0.40579">
+            <name>Saint-Germain-la-Campagne</name>
+         </trkpt>
+         <trkpt lat="46.35434" lon="4.26493">
+            <name>Saint-Germain-en-Brionnais</name>
+         </trkpt>
+         <trkpt lat="44.47865" lon="3.17253">
+            <name>Saint-Germain-du-Teil</name>
+         </trkpt>
+         <trkpt lat="49.43726" lon="-1.2575">
+            <name>Saint-Germain-de-Varreville</name>
+         </trkpt>
+         <trkpt lat="49.53534" lon="-1.39478">
+            <name>Saint-Germain-de-Tournebut</name>
+         </trkpt>
+         <trkpt lat="48.39855" lon="0.82997">
+            <name>Saint-Germain-des-Grois</name>
+         </trkpt>
+         <trkpt lat="49.53872" lon="1.32098">
+            <name>Saint-Germain-des-Essourts</name>
+         </trkpt>
+         <trkpt lat="49.09156" lon="1.14612">
+            <name>Saint-Germain-des-Angles</name>
+         </trkpt>
+         <trkpt lat="49.24605" lon="1">
+            <name>Saint-Germain-de-Pasquier</name>
+         </trkpt>
+         <trkpt lat="48.58973" lon="0.4647">
+            <name>Saint-Germain-de-Martigny</name>
+         </trkpt>
+         <trkpt lat="48.28096" lon="0.60496">
+            <name>Saint-Germain-de-la-Coudre</name>
+         </trkpt>
+         <trkpt lat="48.96046" lon="1.29182">
+            <name>Saint-Germain-de-Fresney</name>
+         </trkpt>
+         <trkpt lat="48.7128" lon="0.23879">
+            <name>Saint-Germain-de-Clairefeuille</name>
+         </trkpt>
+         <trkpt lat="49.34908" lon="0.50331">
+            <name>Saint-Germain-Village</name>
+         </trkpt>
+         <trkpt lat="47.11746" lon="-1.12223">
+            <name>Saint-Germain-sur-Moine</name>
+         </trkpt>
+         <trkpt lat="45.85242" lon="4.61182">
+            <name>Saint-Germain-Nuelles</name>
+         </trkpt>
+         <trkpt lat="48.76466" lon="1.26776">
+            <name>Saint-Germain-sur-Avre</name>
+         </trkpt>
+         <trkpt lat="48.62211" lon="2.48775">
+            <name>Saint-Germain-lès-Corbeil</name>
+         </trkpt>
+         <trkpt lat="48.59733" lon="2.26481">
+            <name>Saint-Germain-lès-Arpajon</name>
+         </trkpt>
+         <trkpt lat="47.75131" lon="4.66869">
+            <name>Saint-Germain-le-Rocheux</name>
+         </trkpt>
+         <trkpt lat="46.7782" lon="5.93921">
+            <name>Saint-Germain-en-Montagne</name>
+         </trkpt>
+         <trkpt lat="45.13827" lon="0.45033">
+            <name>Saint-Germain-du-Salembre</name>
+         </trkpt>
+         <trkpt lat="47.1" lon="2.48333">
+            <name>Saint-Germain-du-Puy</name>
+         </trkpt>
+         <trkpt lat="48.85642" lon="-0.6044">
+            <name>Saint-Germain-du-Crioult</name>
+         </trkpt>
+         <trkpt lat="46.75287" lon="5.2453">
+            <name>Saint-Germain-du-Bois</name>
+         </trkpt>
+         <trkpt lat="45.43333" lon="-0.31667">
+            <name>Saint-Germain-de-Vibrac</name>
+         </trkpt>
+         <trkpt lat="49.71463" lon="-1.91976">
+            <name>Saint-Germain-des-Vaux</name>
+         </trkpt>
+         <trkpt lat="46.20211" lon="3.43245">
+            <name>Saint-Germain-des-Fossés</name>
+         </trkpt>
+         <trkpt lat="46.72107" lon="-1.02153">
+            <name>Saint-Germain-de-Prinçay</name>
+         </trkpt>
+         <trkpt lat="45.62344" lon="0.41987">
+            <name>Saint-Germain-de-Montbron</name>
+         </trkpt>
+         <trkpt lat="46.05362" lon="0.68361">
+            <name>Saint-Germain-de-Confolens</name>
+         </trkpt>
+         <trkpt lat="48.43111" lon="6.33889">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="48.64942" lon="5.69421">
+            <name>Saint-Germain-sur-Meuse</name>
+         </trkpt>
+         <trkpt lat="49.2351" lon="-1.59444">
+            <name>Saint-Germain-sur-Ay</name>
+         </trkpt>
+         <trkpt lat="45.45838" lon="3.54082">
+            <name>Saint-Germain-l’Herm</name>
+         </trkpt>
+         <trkpt lat="45.27422" lon="1.63522">
+            <name>Saint-Germain-les-Vergnes</name>
+         </trkpt>
+         <trkpt lat="48.88217" lon="4.44752">
+            <name>Saint-Germain-la-Ville</name>
+         </trkpt>
+         <trkpt lat="45.5126" lon="-0.66768">
+            <name>Saint-Germain-du-Seudre</name>
+         </trkpt>
+         <trkpt lat="44.64685" lon="1.44035">
+            <name>Saint-Germain-du-Bel-Air</name>
+         </trkpt>
+         <trkpt lat="47.95384" lon="2.84846">
+            <name>Saint-Germain-des-Prés</name>
+         </trkpt>
+         <trkpt lat="46.91238" lon="2.44522">
+            <name>Saint-Germain-des-Bois</name>
+         </trkpt>
+         <trkpt lat="46.179" lon="5.73795">
+            <name>Saint-Germain-de-Joux</name>
+         </trkpt>
+         <trkpt lat="46.30753" lon="1.54553">
+            <name>Saint-Germain-Beaupré</name>
+         </trkpt>
+         <trkpt lat="45.88037" lon="4.80167">
+            <name>Saint-Germain-au-Mont-d’Or</name>
+         </trkpt>
+         <trkpt lat="44.21756" lon="3.80937">
+            <name>Saint-Germain-de-Calberte</name>
+         </trkpt>
+         <trkpt lat="49.92411" lon="3.62486">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="49.41907" lon="2.19772">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="49.36511" lon="1.57338">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="48.61781" lon="-2.30236">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="48.22752" lon="1.37532">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="47.96667" lon="-4.25">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="47.76514" lon="2.36552">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="47.70411" lon="-0.34778">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="47.08276" lon="1.07019">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="47.04807" lon="2.999">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="46.40924" lon="3.2919">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="45.61526" lon="5.20449">
+            <name>Saint-Germain</name>
+         </trkpt>
+         <trkpt lat="48.8" lon="-0.9">
+            <name>Saint-Germain-de-Tallevende</name>
+         </trkpt>
+         <trkpt lat="47.19439" lon="0.09813">
+            <name>Saint-Germain-sur-Vienne</name>
+         </trkpt>
+         <trkpt lat="49.22214" lon="-1.3694">
+            <name>Saint-Germain-sur-Sèves</name>
+         </trkpt>
+         <trkpt lat="46.06653" lon="5.81382">
+            <name>Saint-Germain-sur-Rhône</name>
+         </trkpt>
+         <trkpt lat="48.47415" lon="2.50793">
+            <name>Saint-Germain-sur-École</name>
+         </trkpt>
+         <trkpt lat="43.53556" lon="0.65028">
+            <name>Traversères</name>
+         </trkpt>
+         <trkpt lat="42.93333" lon="-0.58333">
+            <name>Cette-Eygun</name>
+         </trkpt>
+         <trkpt lat="48.36667" lon="-4.05">
+            <name>Quélennec</name>
+         </trkpt>
+         <trkpt lat="48.63022" lon="-4.23533">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="48.49817" lon="-4.66117">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="48.34612" lon="-4.76189">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="48.34274" lon="-3.49108">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="48.07068" lon="-3.33099">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="47.96471" lon="-3.23835">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="47.82393" lon="-3.26418">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="48.63022" lon="-4.23533">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="48.49817" lon="-4.66117">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="48.34612" lon="-4.76189">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="48.34274" lon="-3.49108">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="48.07068" lon="-3.33099">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="47.96471" lon="-3.23835">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="47.82393" lon="-3.26418">
+            <name>Lochrist</name>
+         </trkpt>
+         <trkpt lat="47.7377" lon="-3.34335">
+            <name>Blavet</name>
+         </trkpt>
+         <trkpt lat="48.23268" lon="-3.17852">
+            <name>Blavet</name>
+         </trkpt>
+         <trkpt lat="47.7377" lon="-3.34335">
+            <name>Blavet</name>
+         </trkpt>
+         <trkpt lat="48.23268" lon="-3.17852">
+            <name>Blavet</name>
+         </trkpt>
+         <trkpt lat="47" lon="1.4">
+            <name>Heugnes</name>
+         </trkpt>
+         <trkpt lat="43.33282" lon="2.79757">
+            <name>Aigne</name>
+         </trkpt>
+         <trkpt lat="50.10139" lon="3.31139">
+            <name>Esnes</name>
+         </trkpt>
+         <trkpt lat="50.50806" lon="2.80167">
+            <name>Haisnes</name>
+         </trkpt>
+         <trkpt lat="43.32028" lon="1.58861">
+            <name>Aignes</name>
+         </trkpt>
+         <trkpt lat="49.43413" lon="2.84688">
+            <name>Aisne</name>
+         </trkpt>
+         <trkpt lat="42.47361" lon="2.0825">
+            <name>Eyne</name>
+         </trkpt>
+         <trkpt lat="47.7377" lon="-3.34335">
+            <name>Blavet</name>
+         </trkpt>
+         <trkpt lat="48.23268" lon="-3.17852">
+            <name>Blavet</name>
+         </trkpt>
+         <trkpt lat="48.38494" lon="5.48701">
+            <name>Grand</name>
+         </trkpt>
+         <trkpt lat="48.38556" lon="5.48611">
+            <name>Grand</name>
+         </trkpt>
+         <trkpt lat="48.40301" lon="7.32522">
+            <name>grand</name>
+         </trkpt>
+         <trkpt lat="47.80512" lon="-3.27337">
+            <name>Hennebont</name>
+         </trkpt>
+         <trkpt lat="47.80417" lon="-3.27889">
+            <name>Hennebont</name>
+         </trkpt>
+         <trkpt lat="49.12566" lon="6.18535">
+            <name>Seille</name>
+         </trkpt>
+         <trkpt lat="48.38494" lon="5.48701">
+            <name>Grand</name>
+         </trkpt>
+         <trkpt lat="48.38556" lon="5.48611">
+            <name>Grand</name>
+         </trkpt>
+         <trkpt lat="48.40301" lon="7.32522">
+            <name>grand</name>
+         </trkpt>
+      </trkseg>
+   </trk>
+</gpx>

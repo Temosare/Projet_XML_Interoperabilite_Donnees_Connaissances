@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sch:document xmlns:sch="urn:ns:sch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:ns:TeiSpe" xmlns:T="urn:ns:Tei" xmlns:p="urn:ns:TeiSpe">
+   <T:TEI>
+      <T:teiHeader>
+         <T:fileDesc>
+            <T:titleStmt>
+               <T:title> Recuperation des information avec geoName : Livrable 4 partie 3 </T:title>
+            </T:titleStmt>
+            <T:publicationStmt>
+               <T:p> Fichier produit par Guillaume Bolzonella </T:p>
+            </T:publicationStmt>
+         </T:fileDesc>
+      </T:teiHeader>
+      <T:text>
+         <T:body>
+            <T:p>
+               <corpText>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.57732</lat>
+        
+                        <lng>5.97264</lng>
+        
+                        <geonameId>2998677</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.65</lat>
+        
+                        <lng>5.86667</lng>
+        
+                        <geonameId>2998676</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.57732</lat>
+        
+                        <lng>5.97264</lng>
+        
+                        <geonameId>2998677</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.65</lat>
+        
+                        <lng>5.86667</lng>
+        
+                        <geonameId>2998676</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.57732</lat>
+        
+                        <lng>5.97264</lng>
+        
+                        <geonameId>2998677</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.65</lat>
+        
+                        <lng>5.86667</lng>
+        
+                        <geonameId>2998676</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>4</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Fresse</toponymName>
+        
+                        <name>Fresse</name>
+        
+                        <lat>47.7625</lat>
+        
+                        <lng>6.63279</lng>
+        
+                        <geonameId>3017131</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Fresse</toponymName>
+        
+                        <name>Fresse</name>
+        
+                        <lat>47.7575</lat>
+        
+                        <lng>6.65722</lng>
+        
+                        <geonameId>6454590</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Fresse</toponymName>
+        
+                        <name>Fresse</name>
+        
+                        <lat>45.7007</lat>
+        
+                        <lng>2.77847</lng>
+        
+                        <geonameId>3017132</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Fresse-sur-Moselle</toponymName>
+        
+                        <name>Fresse-sur-Moselle</name>
+        
+                        <lat>47.87589</lat>
+        
+                        <lng>6.78589</lng>
+        
+                        <geonameId>3017124</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.57732</lat>
+        
+                        <lng>5.97264</lng>
+        
+                        <geonameId>2998677</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.65</lat>
+        
+                        <lng>5.86667</lng>
+        
+                        <geonameId>2998676</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Volx</toponymName>
+        
+                        <name>Volx</name>
+        
+                        <lat>43.87383</lat>
+        
+                        <lng>5.8413</lng>
+        
+                        <geonameId>2967708</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+               </corpText>
+            </T:p>
+         </T:body>
+      </T:text>
+   </T:TEI>
+</sch:document>

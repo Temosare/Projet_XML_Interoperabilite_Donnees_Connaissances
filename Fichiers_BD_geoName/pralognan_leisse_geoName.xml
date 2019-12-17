@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sch:document xmlns:sch="urn:ns:sch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:ns:TeiSpe" xmlns:T="urn:ns:Tei" xmlns:p="urn:ns:TeiSpe">
+   <T:TEI>
+      <T:teiHeader>
+         <T:fileDesc>
+            <T:titleStmt>
+               <T:title> Recuperation des information avec geoName : Livrable 4 partie 3 </T:title>
+            </T:titleStmt>
+            <T:publicationStmt>
+               <T:p> Fichier produit par Guillaume Bolzonella </T:p>
+            </T:publicationStmt>
+         </T:fileDesc>
+      </T:teiHeader>
+      <T:text>
+         <T:body>
+            <T:p>
+               <corpText>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Pralognan-la-Vanoise</toponymName>
+        
+                        <name>Pralognan-la-Vanoise</name>
+        
+                        <lat>45.38184</lat>
+        
+                        <lng>6.7193</lng>
+        
+                        <geonameId>2985610</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Petit Mont Blanc</toponymName>
+        
+                        <name>Petit Mont Blanc</name>
+        
+                        <lat>45.35601</lat>
+        
+                        <lng>6.68551</lng>
+        
+                        <geonameId>2987649</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>T</fcl>
+        
+                        <fcode>MT</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>6</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Eaunes</toponymName>
+        
+                        <name>Eaunes</name>
+        
+                        <lat>43.42079</lat>
+        
+                        <lng>1.35397</lng>
+        
+                        <geonameId>3020593</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Ognes</toponymName>
+        
+                        <name>Ognes</name>
+        
+                        <lat>49.6107</lat>
+        
+                        <lng>3.1949</lng>
+        
+                        <geonameId>6615673</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Augne</toponymName>
+        
+                        <name>Augne</name>
+        
+                        <lat>45.78361</lat>
+        
+                        <lng>1.705</lng>
+        
+                        <geonameId>6452578</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Homps</toponymName>
+        
+                        <name>Homps</name>
+        
+                        <lat>43.2675</lat>
+        
+                        <lng>2.72111</lng>
+        
+                        <geonameId>6426700</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Omps</toponymName>
+        
+                        <name>Omps</name>
+        
+                        <lat>44.8776</lat>
+        
+                        <lng>2.2769</lng>
+        
+                        <geonameId>6427601</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Aulne</toponymName>
+        
+                        <name>Aulne</name>
+        
+                        <lat>48.28239</lat>
+        
+                        <lng>-4.2645</lng>
+        
+                        <geonameId>3036141</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>4</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Lée</toponymName>
+        
+                        <name>Lée</name>
+        
+                        <lat>43.2875</lat>
+        
+                        <lng>-0.29194</lng>
+        
+                        <geonameId>6440466</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lay</toponymName>
+        
+                        <name>Lay</name>
+        
+                        <lat>45.95556</lat>
+        
+                        <lng>4.21861</lng>
+        
+                        <geonameId>6454137</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Laiz</toponymName>
+        
+                        <name>Laiz</name>
+        
+                        <lat>46.24833</lat>
+        
+                        <lng>4.88889</lng>
+        
+                        <geonameId>6424559</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Liez</toponymName>
+        
+                        <name>Liez</name>
+        
+                        <lat>49.69083</lat>
+        
+                        <lng>3.29083</lng>
+        
+                        <geonameId>6425005</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>4</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Lée</toponymName>
+        
+                        <name>Lée</name>
+        
+                        <lat>43.2875</lat>
+        
+                        <lng>-0.29194</lng>
+        
+                        <geonameId>6440466</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lay</toponymName>
+        
+                        <name>Lay</name>
+        
+                        <lat>45.95556</lat>
+        
+                        <lng>4.21861</lng>
+        
+                        <geonameId>6454137</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Laiz</toponymName>
+        
+                        <name>Laiz</name>
+        
+                        <lat>46.24833</lat>
+        
+                        <lng>4.88889</lng>
+        
+                        <geonameId>6424559</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Liez</toponymName>
+        
+                        <name>Liez</name>
+        
+                        <lat>49.69083</lat>
+        
+                        <lng>3.29083</lng>
+        
+                        <geonameId>6425005</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>5</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Long</toponymName>
+        
+                        <name>Long</name>
+        
+                        <lat>50.04079</lat>
+        
+                        <lng>1.97942</lng>
+        
+                        <geonameId>2997781</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Long</toponymName>
+        
+                        <name>Long</name>
+        
+                        <lat>46.88904</lat>
+        
+                        <lng>2.89553</lng>
+        
+                        <geonameId>2997782</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Long</toponymName>
+        
+                        <name>Long</name>
+        
+                        <lat>45.02213</lat>
+        
+                        <lng>1.70287</lng>
+        
+                        <geonameId>2997783</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Long</toponymName>
+        
+                        <name>Long</name>
+        
+                        <lat>50.03944</lat>
+        
+                        <lng>1.98111</lng>
+        
+                        <geonameId>6454763</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Long</toponymName>
+        
+                        <name>Long</name>
+        
+                        <lat>47.68333</lat>
+        
+                        <lng>0.46667</lng>
+        
+                        <geonameId>2997780</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>6</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Eaunes</toponymName>
+        
+                        <name>Eaunes</name>
+        
+                        <lat>43.42079</lat>
+        
+                        <lng>1.35397</lng>
+        
+                        <geonameId>3020593</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Ognes</toponymName>
+        
+                        <name>Ognes</name>
+        
+                        <lat>49.6107</lat>
+        
+                        <lng>3.1949</lng>
+        
+                        <geonameId>6615673</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Augne</toponymName>
+        
+                        <name>Augne</name>
+        
+                        <lat>45.78361</lat>
+        
+                        <lng>1.705</lng>
+        
+                        <geonameId>6452578</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Homps</toponymName>
+        
+                        <name>Homps</name>
+        
+                        <lat>43.2675</lat>
+        
+                        <lng>2.72111</lng>
+        
+                        <geonameId>6426700</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Omps</toponymName>
+        
+                        <name>Omps</name>
+        
+                        <lat>44.8776</lat>
+        
+                        <lng>2.2769</lng>
+        
+                        <geonameId>6427601</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Aulne</toponymName>
+        
+                        <name>Aulne</name>
+        
+                        <lat>48.28239</lat>
+        
+                        <lng>-4.2645</lng>
+        
+                        <geonameId>3036141</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Lac Rond</toponymName>
+        
+                        <name>Lac Rond</name>
+        
+                        <lat>45.38803</lat>
+        
+                        <lng>6.79961</lng>
+        
+                        <geonameId>2982935</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>LK</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>6</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Eaunes</toponymName>
+        
+                        <name>Eaunes</name>
+        
+                        <lat>43.42079</lat>
+        
+                        <lng>1.35397</lng>
+        
+                        <geonameId>3020593</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Ognes</toponymName>
+        
+                        <name>Ognes</name>
+        
+                        <lat>49.6107</lat>
+        
+                        <lng>3.1949</lng>
+        
+                        <geonameId>6615673</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Augne</toponymName>
+        
+                        <name>Augne</name>
+        
+                        <lat>45.78361</lat>
+        
+                        <lng>1.705</lng>
+        
+                        <geonameId>6452578</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Homps</toponymName>
+        
+                        <name>Homps</name>
+        
+                        <lat>43.2675</lat>
+        
+                        <lng>2.72111</lng>
+        
+                        <geonameId>6426700</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Omps</toponymName>
+        
+                        <name>Omps</name>
+        
+                        <lat>44.8776</lat>
+        
+                        <lng>2.2769</lng>
+        
+                        <geonameId>6427601</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Aulne</toponymName>
+        
+                        <name>Aulne</name>
+        
+                        <lat>48.28239</lat>
+        
+                        <lng>-4.2645</lng>
+        
+                        <geonameId>3036141</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Entre-deux-Eaux</toponymName>
+        
+                        <name>Entre-deux-Eaux</name>
+        
+                        <lat>48.23209</lat>
+        
+                        <lng>6.99177</lng>
+        
+                        <geonameId>3020132</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Entre-deux-Eaux</toponymName>
+        
+                        <name>Entre-deux-Eaux</name>
+        
+                        <lat>48.23139</lat>
+        
+                        <lng>6.99194</lng>
+        
+                        <geonameId>6445532</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.57732</lat>
+        
+                        <lng>5.97264</lng>
+        
+                        <geonameId>2998677</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.65</lat>
+        
+                        <lng>5.86667</lng>
+        
+                        <geonameId>2998676</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Cette-Eygun</toponymName>
+        
+                        <name>Cette-Eygun</name>
+        
+                        <lat>42.93333</lat>
+        
+                        <lng>-0.58333</lng>
+        
+                        <geonameId>3027757</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.57732</lat>
+        
+                        <lng>5.97264</lng>
+        
+                        <geonameId>2998677</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Leysse</toponymName>
+        
+                        <name>Leysse</name>
+        
+                        <lat>45.65</lat>
+        
+                        <lng>5.86667</lng>
+        
+                        <geonameId>2998676</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+               </corpText>
+            </T:p>
+         </T:body>
+      </T:text>
+   </T:TEI>
+</sch:document>

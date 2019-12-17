@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:p="urn:ns:TeiSpe"
+     xmlns:sch="urn:ns:sch"
+     xmlns:T="urn:ns:Tei"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     version="1.1"
+     creator="Guillaume Bolzonella"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <metadata>
+      <name>Transformation en fichier GPX pour viasualisation avec Google Map</name>
+      <desc>Livrable 4 partie 4</desc>
+   </metadata>
+   <wpt lat="45.38184" lon="6.7193">
+      <desc>Pralognan-la-Vanoise</desc>
+   </wpt>
+   <wpt lat="45.35601" lon="6.68551">
+      <desc>Petit Mont Blanc</desc>
+   </wpt>
+   <wpt lat="43.42079" lon="1.35397">
+      <desc>Eaunes</desc>
+   </wpt>
+   <wpt lat="49.6107" lon="3.1949">
+      <desc>Ognes</desc>
+   </wpt>
+   <wpt lat="45.78361" lon="1.705">
+      <desc>Augne</desc>
+   </wpt>
+   <wpt lat="43.2675" lon="2.72111">
+      <desc>Homps</desc>
+   </wpt>
+   <wpt lat="44.8776" lon="2.2769">
+      <desc>Omps</desc>
+   </wpt>
+   <wpt lat="48.28239" lon="-4.2645">
+      <desc>Aulne</desc>
+   </wpt>
+   <wpt lat="43.2875" lon="-0.29194">
+      <desc>Lée</desc>
+   </wpt>
+   <wpt lat="45.95556" lon="4.21861">
+      <desc>Lay</desc>
+   </wpt>
+   <wpt lat="46.24833" lon="4.88889">
+      <desc>Laiz</desc>
+   </wpt>
+   <wpt lat="49.69083" lon="3.29083">
+      <desc>Liez</desc>
+   </wpt>
+   <wpt lat="43.2875" lon="-0.29194">
+      <desc>Lée</desc>
+   </wpt>
+   <wpt lat="45.95556" lon="4.21861">
+      <desc>Lay</desc>
+   </wpt>
+   <wpt lat="46.24833" lon="4.88889">
+      <desc>Laiz</desc>
+   </wpt>
+   <wpt lat="49.69083" lon="3.29083">
+      <desc>Liez</desc>
+   </wpt>
+   <wpt lat="50.04079" lon="1.97942">
+      <desc>Long</desc>
+   </wpt>
+   <wpt lat="46.88904" lon="2.89553">
+      <desc>Long</desc>
+   </wpt>
+   <wpt lat="45.02213" lon="1.70287">
+      <desc>Long</desc>
+   </wpt>
+   <wpt lat="50.03944" lon="1.98111">
+      <desc>Long</desc>
+   </wpt>
+   <wpt lat="47.68333" lon="0.46667">
+      <desc>Long</desc>
+   </wpt>
+   <wpt lat="43.42079" lon="1.35397">
+      <desc>Eaunes</desc>
+   </wpt>
+   <wpt lat="49.6107" lon="3.1949">
+      <desc>Ognes</desc>
+   </wpt>
+   <wpt lat="45.78361" lon="1.705">
+      <desc>Augne</desc>
+   </wpt>
+   <wpt lat="43.2675" lon="2.72111">
+      <desc>Homps</desc>
+   </wpt>
+   <wpt lat="44.8776" lon="2.2769">
+      <desc>Omps</desc>
+   </wpt>
+   <wpt lat="48.28239" lon="-4.2645">
+      <desc>Aulne</desc>
+   </wpt>
+   <wpt lat="45.38803" lon="6.79961">
+      <desc>Lac Rond</desc>
+   </wpt>
+   <wpt lat="43.42079" lon="1.35397">
+      <desc>Eaunes</desc>
+   </wpt>
+   <wpt lat="49.6107" lon="3.1949">
+      <desc>Ognes</desc>
+   </wpt>
+   <wpt lat="45.78361" lon="1.705">
+      <desc>Augne</desc>
+   </wpt>
+   <wpt lat="43.2675" lon="2.72111">
+      <desc>Homps</desc>
+   </wpt>
+   <wpt lat="44.8776" lon="2.2769">
+      <desc>Omps</desc>
+   </wpt>
+   <wpt lat="48.28239" lon="-4.2645">
+      <desc>Aulne</desc>
+   </wpt>
+   <wpt lat="48.23209" lon="6.99177">
+      <desc>Entre-deux-Eaux</desc>
+   </wpt>
+   <wpt lat="48.23139" lon="6.99194">
+      <desc>Entre-deux-Eaux</desc>
+   </wpt>
+   <wpt lat="45.57732" lon="5.97264">
+      <desc>Leysse</desc>
+   </wpt>
+   <wpt lat="45.65" lon="5.86667">
+      <desc>Leysse</desc>
+   </wpt>
+   <wpt lat="42.93333" lon="-0.58333">
+      <desc>Cette-Eygun</desc>
+   </wpt>
+   <wpt lat="45.57732" lon="5.97264">
+      <desc>Leysse</desc>
+   </wpt>
+   <wpt lat="45.65" lon="5.86667">
+      <desc>Leysse</desc>
+   </wpt>
+   <trk>
+      <trkseg>
+         <trkpt lat="45.38184" lon="6.7193">
+            <name>Pralognan-la-Vanoise</name>
+         </trkpt>
+         <trkpt lat="45.35601" lon="6.68551">
+            <name>Petit Mont Blanc</name>
+         </trkpt>
+         <trkpt lat="43.42079" lon="1.35397">
+            <name>Eaunes</name>
+         </trkpt>
+         <trkpt lat="49.6107" lon="3.1949">
+            <name>Ognes</name>
+         </trkpt>
+         <trkpt lat="45.78361" lon="1.705">
+            <name>Augne</name>
+         </trkpt>
+         <trkpt lat="43.2675" lon="2.72111">
+            <name>Homps</name>
+         </trkpt>
+         <trkpt lat="44.8776" lon="2.2769">
+            <name>Omps</name>
+         </trkpt>
+         <trkpt lat="48.28239" lon="-4.2645">
+            <name>Aulne</name>
+         </trkpt>
+         <trkpt lat="43.2875" lon="-0.29194">
+            <name>Lée</name>
+         </trkpt>
+         <trkpt lat="45.95556" lon="4.21861">
+            <name>Lay</name>
+         </trkpt>
+         <trkpt lat="46.24833" lon="4.88889">
+            <name>Laiz</name>
+         </trkpt>
+         <trkpt lat="49.69083" lon="3.29083">
+            <name>Liez</name>
+         </trkpt>
+         <trkpt lat="43.2875" lon="-0.29194">
+            <name>Lée</name>
+         </trkpt>
+         <trkpt lat="45.95556" lon="4.21861">
+            <name>Lay</name>
+         </trkpt>
+         <trkpt lat="46.24833" lon="4.88889">
+            <name>Laiz</name>
+         </trkpt>
+         <trkpt lat="49.69083" lon="3.29083">
+            <name>Liez</name>
+         </trkpt>
+         <trkpt lat="50.04079" lon="1.97942">
+            <name>Long</name>
+         </trkpt>
+         <trkpt lat="46.88904" lon="2.89553">
+            <name>Long</name>
+         </trkpt>
+         <trkpt lat="45.02213" lon="1.70287">
+            <name>Long</name>
+         </trkpt>
+         <trkpt lat="50.03944" lon="1.98111">
+            <name>Long</name>
+         </trkpt>
+         <trkpt lat="47.68333" lon="0.46667">
+            <name>Long</name>
+         </trkpt>
+         <trkpt lat="43.42079" lon="1.35397">
+            <name>Eaunes</name>
+         </trkpt>
+         <trkpt lat="49.6107" lon="3.1949">
+            <name>Ognes</name>
+         </trkpt>
+         <trkpt lat="45.78361" lon="1.705">
+            <name>Augne</name>
+         </trkpt>
+         <trkpt lat="43.2675" lon="2.72111">
+            <name>Homps</name>
+         </trkpt>
+         <trkpt lat="44.8776" lon="2.2769">
+            <name>Omps</name>
+         </trkpt>
+         <trkpt lat="48.28239" lon="-4.2645">
+            <name>Aulne</name>
+         </trkpt>
+         <trkpt lat="45.38803" lon="6.79961">
+            <name>Lac Rond</name>
+         </trkpt>
+         <trkpt lat="43.42079" lon="1.35397">
+            <name>Eaunes</name>
+         </trkpt>
+         <trkpt lat="49.6107" lon="3.1949">
+            <name>Ognes</name>
+         </trkpt>
+         <trkpt lat="45.78361" lon="1.705">
+            <name>Augne</name>
+         </trkpt>
+         <trkpt lat="43.2675" lon="2.72111">
+            <name>Homps</name>
+         </trkpt>
+         <trkpt lat="44.8776" lon="2.2769">
+            <name>Omps</name>
+         </trkpt>
+         <trkpt lat="48.28239" lon="-4.2645">
+            <name>Aulne</name>
+         </trkpt>
+         <trkpt lat="48.23209" lon="6.99177">
+            <name>Entre-deux-Eaux</name>
+         </trkpt>
+         <trkpt lat="48.23139" lon="6.99194">
+            <name>Entre-deux-Eaux</name>
+         </trkpt>
+         <trkpt lat="45.57732" lon="5.97264">
+            <name>Leysse</name>
+         </trkpt>
+         <trkpt lat="45.65" lon="5.86667">
+            <name>Leysse</name>
+         </trkpt>
+         <trkpt lat="42.93333" lon="-0.58333">
+            <name>Cette-Eygun</name>
+         </trkpt>
+         <trkpt lat="45.57732" lon="5.97264">
+            <name>Leysse</name>
+         </trkpt>
+         <trkpt lat="45.65" lon="5.86667">
+            <name>Leysse</name>
+         </trkpt>
+      </trkseg>
+   </trk>
+</gpx>

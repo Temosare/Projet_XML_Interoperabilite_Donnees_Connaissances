@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:p="urn:ns:TeiSpe"
+     xmlns:sch="urn:ns:sch"
+     xmlns:T="urn:ns:Tei"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     version="1.1"
+     creator="Guillaume Bolzonella"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <metadata>
+      <name>Transformation en fichier GPX pour viasualisation avec Google Map</name>
+      <desc>Livrable 4 partie 4</desc>
+   </metadata>
+   <wpt lat="47.35194" lon="4.99889">
+      <desc>Daix</desc>
+   </wpt>
+   <wpt lat="48.56204" lon="-2.506">
+      <desc>Saint-Jacques</desc>
+   </wpt>
+   <wpt lat="49.4398" lon="1.20359">
+      <desc>Saint-Jacques-sur-Darnétal</desc>
+   </wpt>
+   <wpt lat="43.96984" lon="6.37413">
+      <desc>Saint-Jacques</desc>
+   </wpt>
+   <wpt lat="48.06514" lon="-1.72086">
+      <desc>Saint-Jacques-de-la-Lande</desc>
+   </wpt>
+   <wpt lat="46.96815" lon="-0.22163">
+      <desc>Saint-Jacques-de-Thouars</desc>
+   </wpt>
+   <wpt lat="45.05209" lon="2.71056">
+      <desc>Saint-Jacques-des-Blats</desc>
+   </wpt>
+   <wpt lat="49.15" lon="0.23333">
+      <desc>Saint-Jacques</desc>
+   </wpt>
+   <wpt lat="46.6" lon="3.55">
+      <desc>Saint-Jacques</desc>
+   </wpt>
+   <wpt lat="45.32749" lon="5.56312">
+      <desc>Saint-Jacques</desc>
+   </wpt>
+   <wpt lat="43.65" lon="6.91667">
+      <desc>Saint-Jacques</desc>
+   </wpt>
+   <wpt lat="43.46667" lon="-0.91667">
+      <desc>Saint-Jacques</desc>
+   </wpt>
+   <wpt lat="44.77617" lon="6.04466">
+      <desc>Saint-Jacques-en-Valgodemard</desc>
+   </wpt>
+   <wpt lat="47.76667" lon="0.8">
+      <desc>Saint-Jacques-des-Guérets</desc>
+   </wpt>
+   <wpt lat="46.25594" lon="4.59677">
+      <desc>Saint-Jacques-des-Arrêts</desc>
+   </wpt>
+   <wpt lat="49.4175" lon="-1.61381">
+      <desc>Saint-Jacques-de-Néhou</desc>
+   </wpt>
+   <wpt lat="45.33478" lon="4.66795">
+      <desc>Saint-Jacques-d’Atticieux</desc>
+   </wpt>
+   <wpt lat="45.90181" lon="2.77681">
+      <desc>Saint-Jacques-d’Ambur</desc>
+   </wpt>
+   <wpt lat="49.84853" lon="1.25796">
+      <desc>Saint-Jacques-d’Aliermont</desc>
+   </wpt>
+   <wpt lat="48.05668" lon="6.93186">
+      <desc>Saint-Jacques</desc>
+   </wpt>
+   <wpt lat="43.9695" lon="6.3755">
+      <desc>Saint-Jacques</desc>
+   </wpt>
+   <wpt lat="47.19404" lon="-1.53619">
+      <desc>Saint-Jacques</desc>
+   </wpt>
+   <wpt lat="48.6" lon="4.7">
+      <desc>Saint-Jacques</desc>
+   </wpt>
+   <wpt lat="47.91392" lon="-1.37967">
+      <desc>Retiers</desc>
+   </wpt>
+   <wpt lat="48.1375" lon="-3.83528">
+      <desc>Laz</desc>
+   </wpt>
+   <wpt lat="44.63002" lon="4.41656">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="45.13857" lon="2.09869">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="43.754" lon="3.42638">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="44.14415" lon="4.12988">
+      <desc>Saint-Privat-des-Vieux</desc>
+   </wpt>
+   <wpt lat="44.27414" lon="3.83884">
+      <desc>Saint-Privat-de-Vallongue</desc>
+   </wpt>
+   <wpt lat="45.23333" lon="0.21667">
+      <desc>Saint-Privat-des-Prés</desc>
+   </wpt>
+   <wpt lat="44.62861" lon="4.415">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="49.18768" lon="6.03874">
+      <desc>Saint-Privat-la-Montagne</desc>
+   </wpt>
+   <wpt lat="44.91709" lon="3.34039">
+      <desc>Saint-Privat-du-Fau</desc>
+   </wpt>
+   <wpt lat="44.28711" lon="4.37087">
+      <desc>Saint-Privat-de-Champclos</desc>
+   </wpt>
+   <wpt lat="45.26876" lon="0.92678">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="45.1884" lon="3.44906">
+      <desc>Saint-Privat-du-Dragon</desc>
+   </wpt>
+   <wpt lat="44.99005" lon="3.67443">
+      <desc>Saint-Privat-d’Allier</desc>
+   </wpt>
+   <wpt lat="43.75306" lon="3.425">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="45.13833" lon="2.09889">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="46.0666" lon="6.31224">
+      <desc>La Roche-sur-Foron</desc>
+   </wpt>
+   <wpt lat="45.28672" lon="1.39695">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="45.01336" lon="4.84488">
+      <desc>La Roche-de-Glun</desc>
+   </wpt>
+   <wpt lat="44.56134" lon="5.95519">
+      <desc>La Roche-des-Arnauds</desc>
+   </wpt>
+   <wpt lat="45.70064" lon="3.12648">
+      <desc>La Roche-Blanche</desc>
+   </wpt>
+   <wpt lat="48.47455" lon="-4.20211">
+      <desc>La Roche-Maurice</desc>
+   </wpt>
+   <wpt lat="44.2762" lon="5.3132">
+      <desc>La Roche-sur-le-Buis</desc>
+   </wpt>
+   <wpt lat="48.49026" lon="-0.05181">
+      <desc>La Roche-Mabile</desc>
+   </wpt>
+   <wpt lat="45.58801" lon="6.45506">
+      <desc>Cevins</desc>
+   </wpt>
+   <wpt lat="47.25957" lon="-1.91829">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="48.60317" lon="2.23399">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="48.3068" lon="0.22993">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="48.28333" lon="0.71667">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="48.23398" lon="0.86867">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="48.17495" lon="-1.21111">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="48.08841" lon="-1.04798">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="47.65642" lon="4.65881">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="47.34077" lon="2.8821">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="47.33904" lon="3.49509">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="47.30059" lon="-1.7244">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="47.16218" lon="1.674">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="46.98464" lon="1.52906">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="46.70761" lon="2.48876">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="46.63446" lon="2.54738">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="46.40363" lon="3.25581">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="46.40465" lon="1.0655">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="46.33121" lon="3.22789">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="46.3237" lon="2.20585">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="46.05" lon="1.48333">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="45.59673" lon="5.21971">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="45.61667" lon="3.7">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="45.54563" lon="2.63712">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="45.47895" lon="4.1429">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="45.28292" lon="1.47808">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="45.24282" lon="3.15967">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="45.15203" lon="1.44949">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="45.12352" lon="1.07859">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="45.01618" lon="3.83588">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="44.98982" lon="4.3963">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="44.89584" lon="5.93423">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="44.9" lon="4.38333">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="44.81506" lon="3.44275">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="44.68817" lon="1.2087">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="44.28608" lon="3.76833">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="45.94672" lon="1.10575">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="44.74913" lon="6.58134">
+      <desc>La Roche-de-Rame</desc>
+   </wpt>
+   <wpt lat="44.68277" lon="4.94091">
+      <desc>La Roche-sur-Grane</desc>
+   </wpt>
+   <wpt lat="45.59546" lon="1.24211">
+      <desc>La Roche-l’Abeille</desc>
+   </wpt>
+   <wpt lat="47.38121" lon="4.17889">
+      <desc>La Roche-en-Brenil</desc>
+   </wpt>
+   <wpt lat="47.13745" lon="0.20597">
+      <desc>La Roche-Clermault</desc>
+   </wpt>
+   <wpt lat="46.01433" lon="4.00372">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="48.0177" lon="0.46377">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="47.12247" lon="1.81513">
+      <desc>La Roche</desc>
+   </wpt>
+   <wpt lat="48.12699" lon="1.36617">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.92069" lon="0.37233">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.26285" lon="4.53964">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.16678" lon="3.57459">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.10252" lon="1.86224">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.00229" lon="0.85029">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="44.15179" lon="2.04869">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.14561" lon="-0.948">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="45.45" lon="5.76667">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="45.27066" lon="0.04849">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="47.6172" lon="0.47801">
+      <desc>Saint-Christophe-sur-le-Nais</desc>
+   </wpt>
+   <wpt lat="46.82478" lon="-1.76586">
+      <desc>Saint-Christophe-du-Ligneron</desc>
+   </wpt>
+   <wpt lat="44.47072" lon="2.41184">
+      <desc>Saint-Christophe-Vallon</desc>
+   </wpt>
+   <wpt lat="48.6651" lon="0.00971">
+      <desc>Saint-Christophe-le-Jajolet</desc>
+   </wpt>
+   <wpt lat="48.69942" lon="0.81615">
+      <desc>Saint-Christophe-sur-Avre</desc>
+   </wpt>
+   <wpt lat="44.95812" lon="6.17666">
+      <desc>Saint-Christophe-en-Oisans</desc>
+   </wpt>
+   <wpt lat="47.96723" lon="-0.13733">
+      <desc>Saint-Christophe-en-Champagne</desc>
+   </wpt>
+   <wpt lat="48.23084" lon="0.03794">
+      <desc>Saint-Christophe-du-Jambet</desc>
+   </wpt>
+   <wpt lat="49.55726" lon="-1.73929">
+      <desc>Saint-Christophe-du-Foc</desc>
+   </wpt>
+   <wpt lat="46.67857" lon="2.12296">
+      <desc>Saint-Christophe-en-Boucherie</desc>
+   </wpt>
+   <wpt lat="47.19133" lon="1.71191">
+      <desc>Saint-Christophe-en-Bazelle</desc>
+   </wpt>
+   <wpt lat="47.03012" lon="-0.94441">
+      <desc>Saint-Christophe-du-Bois</desc>
+   </wpt>
+   <wpt lat="48.3424" lon="-1.44803">
+      <desc>Saint-Christophe-de-Valains</desc>
+   </wpt>
+   <wpt lat="44.15139" lon="2.04806">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="48.12694" lon="1.36639">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.2618" lon="4.5422">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.92083" lon="0.37222">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="44.99625" lon="3.81954">
+      <desc>Saint-Christophe-sur-Dolaison</desc>
+   </wpt>
+   <wpt lat="47.25309" lon="-1.18108">
+      <desc>Saint-Christophe-la-Couperie</desc>
+   </wpt>
+   <wpt lat="48.13243" lon="-0.46084">
+      <desc>Saint-Christophe-du-Luat</desc>
+   </wpt>
+   <wpt lat="48.22619" lon="-1.24685">
+      <desc>Saint-Christophe-des-Bois</desc>
+   </wpt>
+   <wpt lat="46.37148" lon="2.46233">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="45.9" lon="1.58333">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="44.81783" lon="0.50443">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.44694" lon="-0.34828">
+      <desc>Saint-Christophe-sur-Roc</desc>
+   </wpt>
+   <wpt lat="45.4381" lon="5.77355">
+      <desc>Saint-Christophe-sur-Guiers</desc>
+   </wpt>
+   <wpt lat="49.28895" lon="0.59902">
+      <desc>Saint-Christophe-sur-Condé</desc>
+   </wpt>
+   <wpt lat="46.58133" lon="2.36886">
+      <desc>Saint-Christophe-le-Chaudry</desc>
+   </wpt>
+   <wpt lat="46.28881" lon="4.17723">
+      <desc>Saint-Christophe-en-Brionnais</desc>
+   </wpt>
+   <wpt lat="46.75224" lon="4.98769">
+      <desc>Saint-Christophe-en-Bresse</desc>
+   </wpt>
+   <wpt lat="44.88333" lon="-0.1">
+      <desc>Saint-Christophe-des-Bardes</desc>
+   </wpt>
+   <wpt lat="44.85654" lon="3.70426">
+      <desc>Saint-Christophe-d’Allier</desc>
+   </wpt>
+   <wpt lat="49.42301" lon="3.13346">
+      <desc>Saint-Christophe-à-Berry</desc>
+   </wpt>
+   <wpt lat="48.74646" lon="-0.81948">
+      <desc>Saint-Christophe-de-Chaulieu</desc>
+   </wpt>
+   <wpt lat="45.08333" lon="0.01667">
+      <desc>Saint-Christophe-de-Double</desc>
+   </wpt>
+   <wpt lat="45.4509" lon="5.7761">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="48.34883" lon="-4.21833">
+      <desc>Kernevez Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="45.10305" lon="2.29306">
+      <desc>Saint-Christophe-les-Gorges</desc>
+   </wpt>
+   <wpt lat="46.1457" lon="-0.946">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.1025" lon="1.86222">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.1664" lon="3.5765">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="46.0026" lon="0.8504">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="49.26002" lon="2.59724">
+      <desc>Saint-Christophe</desc>
+   </wpt>
+   <wpt lat="42.56311" lon="8.75474">
+      <desc>Saint Christophe</desc>
+   </wpt>
+   <wpt lat="43.09646" lon="-0.04777">
+      <desc>Saint Christophe</desc>
+   </wpt>
+   <wpt lat="45.00266" lon="3.83278">
+      <desc>Dolaison</desc>
+   </wpt>
+   <wpt lat="43.53556" lon="0.65028">
+      <desc>Traversères</desc>
+   </wpt>
+   <wpt lat="44.99502" lon="3.81125">
+      <desc>Tallode</desc>
+   </wpt>
+   <wpt lat="43.41423" lon="0.09948">
+      <desc>Liac</desc>
+   </wpt>
+   <wpt lat="43.41444" lon="0.09889">
+      <desc>Liac</desc>
+   </wpt>
+   <wpt lat="49.4163" lon="2.3327">
+      <desc>Litz</desc>
+   </wpt>
+   <wpt lat="43.87383" lon="5.8413">
+      <desc>Volx</desc>
+   </wpt>
+   <wpt lat="47.4421" lon="0.58486">
+      <desc>Saint-Roch</desc>
+   </wpt>
+   <wpt lat="48.50225" lon="-3.13825">
+      <desc>Saint-Roch</desc>
+   </wpt>
+   <wpt lat="48.15204" lon="-0.87879">
+      <desc>Saint-Roch</desc>
+   </wpt>
+   <wpt lat="47.91667" lon="-4.16667">
+      <desc>Saint-Roch</desc>
+   </wpt>
+   <wpt lat="47.45405" lon="-1.76928">
+      <desc>Saint-Roch</desc>
+   </wpt>
+   <wpt lat="47.40547" lon="-2.05345">
+      <desc>Saint-Roch</desc>
+   </wpt>
+   <wpt lat="43.65583" lon="5.25464">
+      <desc>Saint-Roch</desc>
+   </wpt>
+   <wpt lat="45.41358" lon="5.69109">
+      <desc>Saint-Roch</desc>
+   </wpt>
+   <wpt lat="48.57652" lon="-0.74586">
+      <desc>Saint-Roch-sur-Égrenne</desc>
+   </wpt>
+   <wpt lat="47.44528" lon="0.57917">
+      <desc>Saint-Roch</desc>
+   </wpt>
+   <wpt lat="41.92222" lon="8.73722">
+      <desc>Saint-Roch</desc>
+   </wpt>
+   <wpt lat="44.57662" lon="2.23911">
+      <desc>Saint-Roch</desc>
+   </wpt>
+   <wpt lat="48.1375" lon="-3.83528">
+      <desc>Laz</desc>
+   </wpt>
+   <wpt lat="43.53556" lon="0.65028">
+      <desc>Traversères</desc>
+   </wpt>
+   <wpt lat="43.87383" lon="5.8413">
+      <desc>Volx</desc>
+   </wpt>
+   <wpt lat="50.3588" lon="2.2112">
+      <desc>Œuf-en-Ternois</desc>
+   </wpt>
+   <wpt lat="48.53655" lon="2.3721">
+      <desc>Oeuf</desc>
+   </wpt>
+   <wpt lat="50.3586" lon="2.2121">
+      <desc>Œuf-en-Ternois</desc>
+   </wpt>
+   <wpt lat="48.1375" lon="-3.83528">
+      <desc>Laz</desc>
+   </wpt>
+   <wpt lat="45.8046" lon="1.2275">
+      <desc>Isle</desc>
+   </wpt>
+   <wpt lat="48.70112" lon="7.93062">
+      <desc>Ill</desc>
+   </wpt>
+   <wpt lat="45.11667" lon="4.11667">
+      <desc>Chier</desc>
+   </wpt>
+   <wpt lat="43.53556" lon="0.65028">
+      <desc>Traversères</desc>
+   </wpt>
+   <wpt lat="44.63002" lon="4.41656">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="45.13857" lon="2.09869">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="43.754" lon="3.42638">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="44.14415" lon="4.12988">
+      <desc>Saint-Privat-des-Vieux</desc>
+   </wpt>
+   <wpt lat="44.27414" lon="3.83884">
+      <desc>Saint-Privat-de-Vallongue</desc>
+   </wpt>
+   <wpt lat="45.23333" lon="0.21667">
+      <desc>Saint-Privat-des-Prés</desc>
+   </wpt>
+   <wpt lat="44.62861" lon="4.415">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="49.18768" lon="6.03874">
+      <desc>Saint-Privat-la-Montagne</desc>
+   </wpt>
+   <wpt lat="44.91709" lon="3.34039">
+      <desc>Saint-Privat-du-Fau</desc>
+   </wpt>
+   <wpt lat="44.28711" lon="4.37087">
+      <desc>Saint-Privat-de-Champclos</desc>
+   </wpt>
+   <wpt lat="45.26876" lon="0.92678">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="45.1884" lon="3.44906">
+      <desc>Saint-Privat-du-Dragon</desc>
+   </wpt>
+   <wpt lat="44.99005" lon="3.67443">
+      <desc>Saint-Privat-d’Allier</desc>
+   </wpt>
+   <wpt lat="43.75306" lon="3.425">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="45.13833" lon="2.09889">
+      <desc>Saint-Privat</desc>
+   </wpt>
+   <wpt lat="46.5" lon="3">
+      <desc>Allier</desc>
+   </wpt>
+   <wpt lat="43.17787" lon="0.1173">
+      <desc>Allier</desc>
+   </wpt>
+   <wpt lat="44.9985" lon="0.78352">
+      <desc>Allier</desc>
+   </wpt>
+   <wpt lat="46.95933" lon="3.08038">
+      <desc>Allier</desc>
+   </wpt>
+   <wpt lat="43.17722" lon="0.1225">
+      <desc>Allier</desc>
+   </wpt>
+   <wpt lat="45.02485" lon="0.55874">
+      <desc>Puy</desc>
+   </wpt>
+   <wpt lat="45.00017" lon="0.49987">
+      <desc>Le Puy</desc>
+   </wpt>
+   <wpt lat="48.05407" lon="2.75922">
+      <desc>Puy-la-Laude</desc>
+   </wpt>
+   <wpt lat="44.6616" lon="0.0737">
+      <desc>Le Puy</desc>
+   </wpt>
+   <wpt lat="45.33333" lon="3.66667">
+      <desc>Velay</desc>
+   </wpt>
+   <trk>
+      <trkseg>
+         <trkpt lat="47.35194" lon="4.99889">
+            <name>Daix</name>
+         </trkpt>
+         <trkpt lat="48.56204" lon="-2.506">
+            <name>Saint-Jacques</name>
+         </trkpt>
+         <trkpt lat="49.4398" lon="1.20359">
+            <name>Saint-Jacques-sur-Darnétal</name>
+         </trkpt>
+         <trkpt lat="43.96984" lon="6.37413">
+            <name>Saint-Jacques</name>
+         </trkpt>
+         <trkpt lat="48.06514" lon="-1.72086">
+            <name>Saint-Jacques-de-la-Lande</name>
+         </trkpt>
+         <trkpt lat="46.96815" lon="-0.22163">
+            <name>Saint-Jacques-de-Thouars</name>
+         </trkpt>
+         <trkpt lat="45.05209" lon="2.71056">
+            <name>Saint-Jacques-des-Blats</name>
+         </trkpt>
+         <trkpt lat="49.15" lon="0.23333">
+            <name>Saint-Jacques</name>
+         </trkpt>
+         <trkpt lat="46.6" lon="3.55">
+            <name>Saint-Jacques</name>
+         </trkpt>
+         <trkpt lat="45.32749" lon="5.56312">
+            <name>Saint-Jacques</name>
+         </trkpt>
+         <trkpt lat="43.65" lon="6.91667">
+            <name>Saint-Jacques</name>
+         </trkpt>
+         <trkpt lat="43.46667" lon="-0.91667">
+            <name>Saint-Jacques</name>
+         </trkpt>
+         <trkpt lat="44.77617" lon="6.04466">
+            <name>Saint-Jacques-en-Valgodemard</name>
+         </trkpt>
+         <trkpt lat="47.76667" lon="0.8">
+            <name>Saint-Jacques-des-Guérets</name>
+         </trkpt>
+         <trkpt lat="46.25594" lon="4.59677">
+            <name>Saint-Jacques-des-Arrêts</name>
+         </trkpt>
+         <trkpt lat="49.4175" lon="-1.61381">
+            <name>Saint-Jacques-de-Néhou</name>
+         </trkpt>
+         <trkpt lat="45.33478" lon="4.66795">
+            <name>Saint-Jacques-d’Atticieux</name>
+         </trkpt>
+         <trkpt lat="45.90181" lon="2.77681">
+            <name>Saint-Jacques-d’Ambur</name>
+         </trkpt>
+         <trkpt lat="49.84853" lon="1.25796">
+            <name>Saint-Jacques-d’Aliermont</name>
+         </trkpt>
+         <trkpt lat="48.05668" lon="6.93186">
+            <name>Saint-Jacques</name>
+         </trkpt>
+         <trkpt lat="43.9695" lon="6.3755">
+            <name>Saint-Jacques</name>
+         </trkpt>
+         <trkpt lat="47.19404" lon="-1.53619">
+            <name>Saint-Jacques</name>
+         </trkpt>
+         <trkpt lat="48.6" lon="4.7">
+            <name>Saint-Jacques</name>
+         </trkpt>
+         <trkpt lat="47.91392" lon="-1.37967">
+            <name>Retiers</name>
+         </trkpt>
+         <trkpt lat="48.1375" lon="-3.83528">
+            <name>Laz</name>
+         </trkpt>
+         <trkpt lat="44.63002" lon="4.41656">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="45.13857" lon="2.09869">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="43.754" lon="3.42638">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="44.14415" lon="4.12988">
+            <name>Saint-Privat-des-Vieux</name>
+         </trkpt>
+         <trkpt lat="44.27414" lon="3.83884">
+            <name>Saint-Privat-de-Vallongue</name>
+         </trkpt>
+         <trkpt lat="45.23333" lon="0.21667">
+            <name>Saint-Privat-des-Prés</name>
+         </trkpt>
+         <trkpt lat="44.62861" lon="4.415">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="49.18768" lon="6.03874">
+            <name>Saint-Privat-la-Montagne</name>
+         </trkpt>
+         <trkpt lat="44.91709" lon="3.34039">
+            <name>Saint-Privat-du-Fau</name>
+         </trkpt>
+         <trkpt lat="44.28711" lon="4.37087">
+            <name>Saint-Privat-de-Champclos</name>
+         </trkpt>
+         <trkpt lat="45.26876" lon="0.92678">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="45.1884" lon="3.44906">
+            <name>Saint-Privat-du-Dragon</name>
+         </trkpt>
+         <trkpt lat="44.99005" lon="3.67443">
+            <name>Saint-Privat-d’Allier</name>
+         </trkpt>
+         <trkpt lat="43.75306" lon="3.425">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="45.13833" lon="2.09889">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="46.0666" lon="6.31224">
+            <name>La Roche-sur-Foron</name>
+         </trkpt>
+         <trkpt lat="45.28672" lon="1.39695">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="45.01336" lon="4.84488">
+            <name>La Roche-de-Glun</name>
+         </trkpt>
+         <trkpt lat="44.56134" lon="5.95519">
+            <name>La Roche-des-Arnauds</name>
+         </trkpt>
+         <trkpt lat="45.70064" lon="3.12648">
+            <name>La Roche-Blanche</name>
+         </trkpt>
+         <trkpt lat="48.47455" lon="-4.20211">
+            <name>La Roche-Maurice</name>
+         </trkpt>
+         <trkpt lat="44.2762" lon="5.3132">
+            <name>La Roche-sur-le-Buis</name>
+         </trkpt>
+         <trkpt lat="48.49026" lon="-0.05181">
+            <name>La Roche-Mabile</name>
+         </trkpt>
+         <trkpt lat="45.58801" lon="6.45506">
+            <name>Cevins</name>
+         </trkpt>
+         <trkpt lat="47.25957" lon="-1.91829">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="48.60317" lon="2.23399">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="48.3068" lon="0.22993">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="48.28333" lon="0.71667">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="48.23398" lon="0.86867">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="48.17495" lon="-1.21111">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="48.08841" lon="-1.04798">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="47.65642" lon="4.65881">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="47.34077" lon="2.8821">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="47.33904" lon="3.49509">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="47.30059" lon="-1.7244">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="47.16218" lon="1.674">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="46.98464" lon="1.52906">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="46.70761" lon="2.48876">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="46.63446" lon="2.54738">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="46.40363" lon="3.25581">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="46.40465" lon="1.0655">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="46.33121" lon="3.22789">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="46.3237" lon="2.20585">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="46.05" lon="1.48333">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="45.59673" lon="5.21971">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="45.61667" lon="3.7">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="45.54563" lon="2.63712">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="45.47895" lon="4.1429">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="45.28292" lon="1.47808">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="45.24282" lon="3.15967">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="45.15203" lon="1.44949">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="45.12352" lon="1.07859">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="45.01618" lon="3.83588">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="44.98982" lon="4.3963">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="44.89584" lon="5.93423">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="44.9" lon="4.38333">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="44.81506" lon="3.44275">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="44.68817" lon="1.2087">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="44.28608" lon="3.76833">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="45.94672" lon="1.10575">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="44.74913" lon="6.58134">
+            <name>La Roche-de-Rame</name>
+         </trkpt>
+         <trkpt lat="44.68277" lon="4.94091">
+            <name>La Roche-sur-Grane</name>
+         </trkpt>
+         <trkpt lat="45.59546" lon="1.24211">
+            <name>La Roche-l’Abeille</name>
+         </trkpt>
+         <trkpt lat="47.38121" lon="4.17889">
+            <name>La Roche-en-Brenil</name>
+         </trkpt>
+         <trkpt lat="47.13745" lon="0.20597">
+            <name>La Roche-Clermault</name>
+         </trkpt>
+         <trkpt lat="46.01433" lon="4.00372">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="48.0177" lon="0.46377">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="47.12247" lon="1.81513">
+            <name>La Roche</name>
+         </trkpt>
+         <trkpt lat="48.12699" lon="1.36617">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.92069" lon="0.37233">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.26285" lon="4.53964">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.16678" lon="3.57459">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.10252" lon="1.86224">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.00229" lon="0.85029">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="44.15179" lon="2.04869">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.14561" lon="-0.948">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="45.45" lon="5.76667">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="45.27066" lon="0.04849">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="47.6172" lon="0.47801">
+            <name>Saint-Christophe-sur-le-Nais</name>
+         </trkpt>
+         <trkpt lat="46.82478" lon="-1.76586">
+            <name>Saint-Christophe-du-Ligneron</name>
+         </trkpt>
+         <trkpt lat="44.47072" lon="2.41184">
+            <name>Saint-Christophe-Vallon</name>
+         </trkpt>
+         <trkpt lat="48.6651" lon="0.00971">
+            <name>Saint-Christophe-le-Jajolet</name>
+         </trkpt>
+         <trkpt lat="48.69942" lon="0.81615">
+            <name>Saint-Christophe-sur-Avre</name>
+         </trkpt>
+         <trkpt lat="44.95812" lon="6.17666">
+            <name>Saint-Christophe-en-Oisans</name>
+         </trkpt>
+         <trkpt lat="47.96723" lon="-0.13733">
+            <name>Saint-Christophe-en-Champagne</name>
+         </trkpt>
+         <trkpt lat="48.23084" lon="0.03794">
+            <name>Saint-Christophe-du-Jambet</name>
+         </trkpt>
+         <trkpt lat="49.55726" lon="-1.73929">
+            <name>Saint-Christophe-du-Foc</name>
+         </trkpt>
+         <trkpt lat="46.67857" lon="2.12296">
+            <name>Saint-Christophe-en-Boucherie</name>
+         </trkpt>
+         <trkpt lat="47.19133" lon="1.71191">
+            <name>Saint-Christophe-en-Bazelle</name>
+         </trkpt>
+         <trkpt lat="47.03012" lon="-0.94441">
+            <name>Saint-Christophe-du-Bois</name>
+         </trkpt>
+         <trkpt lat="48.3424" lon="-1.44803">
+            <name>Saint-Christophe-de-Valains</name>
+         </trkpt>
+         <trkpt lat="44.15139" lon="2.04806">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="48.12694" lon="1.36639">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.2618" lon="4.5422">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.92083" lon="0.37222">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="44.99625" lon="3.81954">
+            <name>Saint-Christophe-sur-Dolaison</name>
+         </trkpt>
+         <trkpt lat="47.25309" lon="-1.18108">
+            <name>Saint-Christophe-la-Couperie</name>
+         </trkpt>
+         <trkpt lat="48.13243" lon="-0.46084">
+            <name>Saint-Christophe-du-Luat</name>
+         </trkpt>
+         <trkpt lat="48.22619" lon="-1.24685">
+            <name>Saint-Christophe-des-Bois</name>
+         </trkpt>
+         <trkpt lat="46.37148" lon="2.46233">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="45.9" lon="1.58333">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="44.81783" lon="0.50443">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.44694" lon="-0.34828">
+            <name>Saint-Christophe-sur-Roc</name>
+         </trkpt>
+         <trkpt lat="45.4381" lon="5.77355">
+            <name>Saint-Christophe-sur-Guiers</name>
+         </trkpt>
+         <trkpt lat="49.28895" lon="0.59902">
+            <name>Saint-Christophe-sur-Condé</name>
+         </trkpt>
+         <trkpt lat="46.58133" lon="2.36886">
+            <name>Saint-Christophe-le-Chaudry</name>
+         </trkpt>
+         <trkpt lat="46.28881" lon="4.17723">
+            <name>Saint-Christophe-en-Brionnais</name>
+         </trkpt>
+         <trkpt lat="46.75224" lon="4.98769">
+            <name>Saint-Christophe-en-Bresse</name>
+         </trkpt>
+         <trkpt lat="44.88333" lon="-0.1">
+            <name>Saint-Christophe-des-Bardes</name>
+         </trkpt>
+         <trkpt lat="44.85654" lon="3.70426">
+            <name>Saint-Christophe-d’Allier</name>
+         </trkpt>
+         <trkpt lat="49.42301" lon="3.13346">
+            <name>Saint-Christophe-à-Berry</name>
+         </trkpt>
+         <trkpt lat="48.74646" lon="-0.81948">
+            <name>Saint-Christophe-de-Chaulieu</name>
+         </trkpt>
+         <trkpt lat="45.08333" lon="0.01667">
+            <name>Saint-Christophe-de-Double</name>
+         </trkpt>
+         <trkpt lat="45.4509" lon="5.7761">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="48.34883" lon="-4.21833">
+            <name>Kernevez Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="45.10305" lon="2.29306">
+            <name>Saint-Christophe-les-Gorges</name>
+         </trkpt>
+         <trkpt lat="46.1457" lon="-0.946">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.1025" lon="1.86222">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.1664" lon="3.5765">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="46.0026" lon="0.8504">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="49.26002" lon="2.59724">
+            <name>Saint-Christophe</name>
+         </trkpt>
+         <trkpt lat="42.56311" lon="8.75474">
+            <name>Saint Christophe</name>
+         </trkpt>
+         <trkpt lat="43.09646" lon="-0.04777">
+            <name>Saint Christophe</name>
+         </trkpt>
+         <trkpt lat="45.00266" lon="3.83278">
+            <name>Dolaison</name>
+         </trkpt>
+         <trkpt lat="43.53556" lon="0.65028">
+            <name>Traversères</name>
+         </trkpt>
+         <trkpt lat="44.99502" lon="3.81125">
+            <name>Tallode</name>
+         </trkpt>
+         <trkpt lat="43.41423" lon="0.09948">
+            <name>Liac</name>
+         </trkpt>
+         <trkpt lat="43.41444" lon="0.09889">
+            <name>Liac</name>
+         </trkpt>
+         <trkpt lat="49.4163" lon="2.3327">
+            <name>Litz</name>
+         </trkpt>
+         <trkpt lat="43.87383" lon="5.8413">
+            <name>Volx</name>
+         </trkpt>
+         <trkpt lat="47.4421" lon="0.58486">
+            <name>Saint-Roch</name>
+         </trkpt>
+         <trkpt lat="48.50225" lon="-3.13825">
+            <name>Saint-Roch</name>
+         </trkpt>
+         <trkpt lat="48.15204" lon="-0.87879">
+            <name>Saint-Roch</name>
+         </trkpt>
+         <trkpt lat="47.91667" lon="-4.16667">
+            <name>Saint-Roch</name>
+         </trkpt>
+         <trkpt lat="47.45405" lon="-1.76928">
+            <name>Saint-Roch</name>
+         </trkpt>
+         <trkpt lat="47.40547" lon="-2.05345">
+            <name>Saint-Roch</name>
+         </trkpt>
+         <trkpt lat="43.65583" lon="5.25464">
+            <name>Saint-Roch</name>
+         </trkpt>
+         <trkpt lat="45.41358" lon="5.69109">
+            <name>Saint-Roch</name>
+         </trkpt>
+         <trkpt lat="48.57652" lon="-0.74586">
+            <name>Saint-Roch-sur-Égrenne</name>
+         </trkpt>
+         <trkpt lat="47.44528" lon="0.57917">
+            <name>Saint-Roch</name>
+         </trkpt>
+         <trkpt lat="41.92222" lon="8.73722">
+            <name>Saint-Roch</name>
+         </trkpt>
+         <trkpt lat="44.57662" lon="2.23911">
+            <name>Saint-Roch</name>
+         </trkpt>
+         <trkpt lat="48.1375" lon="-3.83528">
+            <name>Laz</name>
+         </trkpt>
+         <trkpt lat="43.53556" lon="0.65028">
+            <name>Traversères</name>
+         </trkpt>
+         <trkpt lat="43.87383" lon="5.8413">
+            <name>Volx</name>
+         </trkpt>
+         <trkpt lat="50.3588" lon="2.2112">
+            <name>Œuf-en-Ternois</name>
+         </trkpt>
+         <trkpt lat="48.53655" lon="2.3721">
+            <name>Oeuf</name>
+         </trkpt>
+         <trkpt lat="50.3586" lon="2.2121">
+            <name>Œuf-en-Ternois</name>
+         </trkpt>
+         <trkpt lat="48.1375" lon="-3.83528">
+            <name>Laz</name>
+         </trkpt>
+         <trkpt lat="45.8046" lon="1.2275">
+            <name>Isle</name>
+         </trkpt>
+         <trkpt lat="48.70112" lon="7.93062">
+            <name>Ill</name>
+         </trkpt>
+         <trkpt lat="45.11667" lon="4.11667">
+            <name>Chier</name>
+         </trkpt>
+         <trkpt lat="43.53556" lon="0.65028">
+            <name>Traversères</name>
+         </trkpt>
+         <trkpt lat="44.63002" lon="4.41656">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="45.13857" lon="2.09869">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="43.754" lon="3.42638">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="44.14415" lon="4.12988">
+            <name>Saint-Privat-des-Vieux</name>
+         </trkpt>
+         <trkpt lat="44.27414" lon="3.83884">
+            <name>Saint-Privat-de-Vallongue</name>
+         </trkpt>
+         <trkpt lat="45.23333" lon="0.21667">
+            <name>Saint-Privat-des-Prés</name>
+         </trkpt>
+         <trkpt lat="44.62861" lon="4.415">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="49.18768" lon="6.03874">
+            <name>Saint-Privat-la-Montagne</name>
+         </trkpt>
+         <trkpt lat="44.91709" lon="3.34039">
+            <name>Saint-Privat-du-Fau</name>
+         </trkpt>
+         <trkpt lat="44.28711" lon="4.37087">
+            <name>Saint-Privat-de-Champclos</name>
+         </trkpt>
+         <trkpt lat="45.26876" lon="0.92678">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="45.1884" lon="3.44906">
+            <name>Saint-Privat-du-Dragon</name>
+         </trkpt>
+         <trkpt lat="44.99005" lon="3.67443">
+            <name>Saint-Privat-d’Allier</name>
+         </trkpt>
+         <trkpt lat="43.75306" lon="3.425">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="45.13833" lon="2.09889">
+            <name>Saint-Privat</name>
+         </trkpt>
+         <trkpt lat="46.5" lon="3">
+            <name>Allier</name>
+         </trkpt>
+         <trkpt lat="43.17787" lon="0.1173">
+            <name>Allier</name>
+         </trkpt>
+         <trkpt lat="44.9985" lon="0.78352">
+            <name>Allier</name>
+         </trkpt>
+         <trkpt lat="46.95933" lon="3.08038">
+            <name>Allier</name>
+         </trkpt>
+         <trkpt lat="43.17722" lon="0.1225">
+            <name>Allier</name>
+         </trkpt>
+         <trkpt lat="45.02485" lon="0.55874">
+            <name>Puy</name>
+         </trkpt>
+         <trkpt lat="45.00017" lon="0.49987">
+            <name>Le Puy</name>
+         </trkpt>
+         <trkpt lat="48.05407" lon="2.75922">
+            <name>Puy-la-Laude</name>
+         </trkpt>
+         <trkpt lat="44.6616" lon="0.0737">
+            <name>Le Puy</name>
+         </trkpt>
+         <trkpt lat="45.33333" lon="3.66667">
+            <name>Velay</name>
+         </trkpt>
+      </trkseg>
+   </trk>
+</gpx>

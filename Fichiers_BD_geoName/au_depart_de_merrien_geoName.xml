@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sch:document xmlns:sch="urn:ns:sch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:ns:TeiSpe" xmlns:T="urn:ns:Tei" xmlns:p="urn:ns:TeiSpe">
+   <T:TEI>
+      <T:teiHeader>
+         <T:fileDesc>
+            <T:titleStmt>
+               <T:title> Recuperation des information avec geoName : Livrable 4 partie 3 </T:title>
+            </T:titleStmt>
+            <T:publicationStmt>
+               <T:p> Fichier produit par Guillaume Bolzonella </T:p>
+            </T:publicationStmt>
+         </T:fileDesc>
+      </T:teiHeader>
+      <T:text>
+         <T:body>
+            <T:p>
+               <corpText>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Merrien</toponymName>
+        
+                        <name>Merrien</name>
+        
+                        <lat>47.78333</lat>
+        
+                        <lng>-3.65</lng>
+        
+                        <geonameId>2991724</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>3</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Doue</toponymName>
+        
+                        <name>Doue</name>
+        
+                        <lat>48.86641</lat>
+        
+                        <lng>3.16269</lng>
+        
+                        <geonameId>3020968</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Doubs</toponymName>
+        
+                        <name>Doubs</name>
+        
+                        <lat>46.9</lat>
+        
+                        <lng>5.03333</lng>
+        
+                        <geonameId>3020990</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Doux</toponymName>
+        
+                        <name>Doux</name>
+        
+                        <lat>49.50472</lat>
+        
+                        <lng>4.43056</lng>
+        
+                        <geonameId>6425916</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Piennes</toponymName>
+        
+                        <name>Piennes</name>
+        
+                        <lat>49.3065</lat>
+        
+                        <lng>5.7869</lng>
+        
+                        <geonameId>6436800</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Penne</toponymName>
+        
+                        <name>Penne</name>
+        
+                        <lat>44.0775</lat>
+        
+                        <lng>1.7306</lng>
+        
+                        <geonameId>6454783</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Herry</toponymName>
+        
+                        <name>Herry</name>
+        
+                        <lat>47.21667</lat>
+        
+                        <lng>2.95385</lng>
+        
+                        <geonameId>3013385</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Herry</toponymName>
+        
+                        <name>Herry</name>
+        
+                        <lat>47.21667</lat>
+        
+                        <lng>2.95389</lng>
+        
+                        <geonameId>6428189</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>10</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Bois</toponymName>
+        
+                        <name>Bois</name>
+        
+                        <lat>45.48876</lat>
+        
+                        <lng>-0.59853</lng>
+        
+                        <geonameId>3032104</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Bouëx</toponymName>
+        
+                        <name>Bouëx</name>
+        
+                        <lat>45.61667</lat>
+        
+                        <lng>0.31667</lng>
+        
+                        <geonameId>3031298</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Bois-de-la-Pierre</toponymName>
+        
+                        <name>Bois-de-la-Pierre</name>
+        
+                        <lat>43.34443</lat>
+        
+                        <lng>1.151</lng>
+        
+                        <geonameId>3032057</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Bois-de-Gand</toponymName>
+        
+                        <name>Bois-de-Gand</name>
+        
+                        <lat>46.82804</lat>
+        
+                        <lng>5.50154</lng>
+        
+                        <geonameId>3032060</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Le Bois</toponymName>
+        
+                        <name>Le Bois</name>
+        
+                        <lat>45.48986</lat>
+        
+                        <lng>6.49927</lng>
+        
+                        <geonameId>3005248</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Bois-le-Roi</toponymName>
+        
+                        <name>Bois-le-Roi</name>
+        
+                        <lat>48.86223</lat>
+        
+                        <lng>1.34329</lng>
+        
+                        <geonameId>3032007</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Bois-lès-Pargny</toponymName>
+        
+                        <name>Bois-lès-Pargny</name>
+        
+                        <lat>49.73126</lat>
+        
+                        <lng>3.64987</lng>
+        
+                        <geonameId>3032006</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Bois-aux-Moines</toponymName>
+        
+                        <name>Bois-aux-Moines</name>
+        
+                        <lat>49.59245</lat>
+        
+                        <lng>1.77447</lng>
+        
+                        <geonameId>3032090</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Bois</toponymName>
+        
+                        <name>Bois</name>
+        
+                        <lat>45.48806</lat>
+        
+                        <lng>-0.59861</lng>
+        
+                        <geonameId>6454975</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Bois-la-Ville</toponymName>
+        
+                        <name>Bois-la-Ville</name>
+        
+                        <lat>47.36476</lat>
+        
+                        <lng>6.40623</lng>
+        
+                        <geonameId>3032012</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Merrien</toponymName>
+        
+                        <name>Merrien</name>
+        
+                        <lat>47.78333</lat>
+        
+                        <lng>-3.65</lng>
+        
+                        <geonameId>2991724</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Pin</toponymName>
+        
+                        <name>Pin</name>
+        
+                        <lat>47.3229</lat>
+        
+                        <lng>5.8652</lng>
+        
+                        <geonameId>6617497</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Penne</toponymName>
+        
+                        <name>Penne</name>
+        
+                        <lat>44.0775</lat>
+        
+                        <lng>1.7306</lng>
+        
+                        <geonameId>6454783</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>3</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Prat</toponymName>
+        
+                        <name>Prat</name>
+        
+                        <lat>48.67677</lat>
+        
+                        <lng>-3.29707</lng>
+        
+                        <geonameId>2985579</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Prat</toponymName>
+        
+                        <name>Prat</name>
+        
+                        <lat>48.67694</lat>
+        
+                        <lng>-3.2975</lng>
+        
+                        <geonameId>6453803</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Prat-Bonrepaux</toponymName>
+        
+                        <name>Prat-Bonrepaux</name>
+        
+                        <lat>43.03333</lat>
+        
+                        <lng>1.01667</lng>
+        
+                        <geonameId>2985573</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>4</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Lée</toponymName>
+        
+                        <name>Lée</name>
+        
+                        <lat>43.2875</lat>
+        
+                        <lng>-0.29194</lng>
+        
+                        <geonameId>6440466</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Lay</toponymName>
+        
+                        <name>Lay</name>
+        
+                        <lat>45.95556</lat>
+        
+                        <lng>4.21861</lng>
+        
+                        <geonameId>6454137</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Laiz</toponymName>
+        
+                        <name>Laiz</name>
+        
+                        <lat>46.24833</lat>
+        
+                        <lng>4.88889</lng>
+        
+                        <geonameId>6424559</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Liez</toponymName>
+        
+                        <name>Liez</name>
+        
+                        <lat>49.69083</lat>
+        
+                        <lng>3.29083</lng>
+        
+                        <geonameId>6425005</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>3</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Moulin-sous-Touvent</toponymName>
+        
+                        <name>Moulin-sous-Touvent</name>
+        
+                        <lat>49.45</lat>
+        
+                        <lng>3.06667</lng>
+        
+                        <geonameId>2991468</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Moulin</toponymName>
+        
+                        <name>Moulin</name>
+        
+                        <lat>46.52831</lat>
+        
+                        <lng>0.33942</lng>
+        
+                        <geonameId>2991509</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Moulin</toponymName>
+        
+                        <name>Moulin</name>
+        
+                        <lat>48.45926</lat>
+        
+                        <lng>6.9404</lng>
+        
+                        <geonameId>10629397</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>T</fcl>
+        
+                        <fcode>MT</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Merrien</toponymName>
+        
+                        <name>Merrien</name>
+        
+                        <lat>47.78333</lat>
+        
+                        <lng>-3.65</lng>
+        
+                        <geonameId>2991724</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>3</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Avant</toponymName>
+        
+                        <name>Avant</name>
+        
+                        <lat>46.6347</lat>
+        
+                        <lng>1.09253</lng>
+        
+                        <geonameId>3035760</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Avant-lès-Ramerupt</toponymName>
+        
+                        <name>Avant-lès-Ramerupt</name>
+        
+                        <lat>48.44731</lat>
+        
+                        <lng>4.28702</lng>
+        
+                        <geonameId>3035757</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Avant-lès-Marcilly</toponymName>
+        
+                        <name>Avant-lès-Marcilly</name>
+        
+                        <lat>48.42342</lat>
+        
+                        <lng>3.57077</lng>
+        
+                        <geonameId>3035758</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+               </corpText>
+            </T:p>
+         </T:body>
+      </T:text>
+   </T:TEI>
+</sch:document>

@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:p="urn:ns:TeiSpe"
+     xmlns:sch="urn:ns:sch"
+     xmlns:T="urn:ns:Tei"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     version="1.1"
+     creator="Guillaume Bolzonella"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <metadata>
+      <name>Transformation en fichier GPX pour viasualisation avec Google Map</name>
+      <desc>Livrable 4 partie 4</desc>
+   </metadata>
+   <wpt lat="45.99795" lon="6.93636">
+      <desc>Montroc</desc>
+   </wpt>
+   <wpt lat="48.86641" lon="3.16269">
+      <desc>Doue</desc>
+   </wpt>
+   <wpt lat="46.9" lon="5.03333">
+      <desc>Doubs</desc>
+   </wpt>
+   <wpt lat="49.50472" lon="4.43056">
+      <desc>Doux</desc>
+   </wpt>
+   <wpt lat="43.53556" lon="0.65028">
+      <desc>Traversères</desc>
+   </wpt>
+   <wpt lat="43.53556" lon="0.65028">
+      <desc>Traversères</desc>
+   </wpt>
+   <wpt lat="45.7065" lon="5.7194">
+      <desc>La Balme</desc>
+   </wpt>
+   <wpt lat="43.2875" lon="-0.29194">
+      <desc>Lée</desc>
+   </wpt>
+   <wpt lat="45.95556" lon="4.21861">
+      <desc>Lay</desc>
+   </wpt>
+   <wpt lat="46.24833" lon="4.88889">
+      <desc>Laiz</desc>
+   </wpt>
+   <wpt lat="49.69083" lon="3.29083">
+      <desc>Liez</desc>
+   </wpt>
+   <wpt lat="45.7065" lon="5.7194">
+      <desc>La Balme</desc>
+   </wpt>
+   <wpt lat="43.2875" lon="-0.29194">
+      <desc>Lée</desc>
+   </wpt>
+   <wpt lat="45.95556" lon="4.21861">
+      <desc>Lay</desc>
+   </wpt>
+   <wpt lat="46.24833" lon="4.88889">
+      <desc>Laiz</desc>
+   </wpt>
+   <wpt lat="49.69083" lon="3.29083">
+      <desc>Liez</desc>
+   </wpt>
+   <wpt lat="43.42079" lon="1.35397">
+      <desc>Eaunes</desc>
+   </wpt>
+   <wpt lat="49.6107" lon="3.1949">
+      <desc>Ognes</desc>
+   </wpt>
+   <wpt lat="45.78361" lon="1.705">
+      <desc>Augne</desc>
+   </wpt>
+   <wpt lat="43.2675" lon="2.72111">
+      <desc>Homps</desc>
+   </wpt>
+   <wpt lat="44.8776" lon="2.2769">
+      <desc>Omps</desc>
+   </wpt>
+   <wpt lat="48.28239" lon="-4.2645">
+      <desc>Aulne</desc>
+   </wpt>
+   <wpt lat="45.76667" lon="5.68333">
+      <desc>Belley</desc>
+   </wpt>
+   <wpt lat="50.73592" lon="2.73594">
+      <desc>Bailleul</desc>
+   </wpt>
+   <wpt lat="50.74434" lon="1.75877">
+      <desc>Belle-et-Houllefort</desc>
+   </wpt>
+   <wpt lat="45.49136" lon="0.41391">
+      <desc>Belle</desc>
+   </wpt>
+   <wpt lat="49.35889" lon="3.33556">
+      <desc>Belleu</desc>
+   </wpt>
+   <wpt lat="50.7375" lon="2.73389">
+      <desc>Bailleul</desc>
+   </wpt>
+   <wpt lat="46.37698" lon="0.39753">
+      <desc>Belle</desc>
+   </wpt>
+   <wpt lat="46.14287" lon="-0.30658">
+      <desc>Belle</desc>
+   </wpt>
+   <wpt lat="45.833" lon="6.864">
+      <desc>Mont Blanc</desc>
+   </wpt>
+   <wpt lat="45.91667" lon="6.91667">
+      <desc>Mont Blanc</desc>
+   </wpt>
+   <wpt lat="45.33973" lon="4.31335">
+      <desc>Saint-Just-Malmont</desc>
+   </wpt>
+   <wpt lat="50.38199" lon="2.03757">
+      <desc>Huby-Saint-Leu</desc>
+   </wpt>
+   <wpt lat="45.35601" lon="6.68551">
+      <desc>Petit Mont Blanc</desc>
+   </wpt>
+   <wpt lat="48.87615" lon="2.33646">
+      <desc>Paris 02 Ancien - Quartier Chaussée-d'Antin</desc>
+   </wpt>
+   <wpt lat="45.92375" lon="6.86933">
+      <desc>Chamonix-Mont-Blanc</desc>
+   </wpt>
+   <wpt lat="45.92222" lon="6.86889">
+      <desc>Chamonix-Mont-Blanc</desc>
+   </wpt>
+   <wpt lat="48.8709" lon="2.3499">
+      <desc>Chamonix</desc>
+   </wpt>
+   <wpt lat="45.7065" lon="5.7194">
+      <desc>La Balme</desc>
+   </wpt>
+   <wpt lat="45.7065" lon="5.7194">
+      <desc>La Balme</desc>
+   </wpt>
+   <wpt lat="45.7065" lon="5.7194">
+      <desc>La Balme</desc>
+   </wpt>
+   <wpt lat="47.91392" lon="-1.37967">
+      <desc>Retiers</desc>
+   </wpt>
+   <wpt lat="43.42079" lon="1.35397">
+      <desc>Eaunes</desc>
+   </wpt>
+   <wpt lat="49.6107" lon="3.1949">
+      <desc>Ognes</desc>
+   </wpt>
+   <wpt lat="45.78361" lon="1.705">
+      <desc>Augne</desc>
+   </wpt>
+   <wpt lat="43.2675" lon="2.72111">
+      <desc>Homps</desc>
+   </wpt>
+   <wpt lat="44.8776" lon="2.2769">
+      <desc>Omps</desc>
+   </wpt>
+   <wpt lat="48.28239" lon="-4.2645">
+      <desc>Aulne</desc>
+   </wpt>
+   <wpt lat="45.06912" lon="5.73225">
+      <desc>Champ-sur-Drac</desc>
+   </wpt>
+   <wpt lat="49.23107" lon="5.30751">
+      <desc>Champ</desc>
+   </wpt>
+   <wpt lat="45.17559" lon="4.07065">
+      <desc>Champ</desc>
+   </wpt>
+   <wpt lat="45.12968" lon="1.52609">
+      <desc>Champ</desc>
+   </wpt>
+   <wpt lat="48.23736" lon="4.40897">
+      <desc>Champ-sur-Barse</desc>
+   </wpt>
+   <wpt lat="48.19598" lon="6.72158">
+      <desc>Champ-le-Duc</desc>
+   </wpt>
+   <wpt lat="43.42079" lon="1.35397">
+      <desc>Eaunes</desc>
+   </wpt>
+   <wpt lat="49.6107" lon="3.1949">
+      <desc>Ognes</desc>
+   </wpt>
+   <wpt lat="45.78361" lon="1.705">
+      <desc>Augne</desc>
+   </wpt>
+   <wpt lat="43.2675" lon="2.72111">
+      <desc>Homps</desc>
+   </wpt>
+   <wpt lat="44.8776" lon="2.2769">
+      <desc>Omps</desc>
+   </wpt>
+   <wpt lat="48.28239" lon="-4.2645">
+      <desc>Aulne</desc>
+   </wpt>
+   <wpt lat="43.2875" lon="-0.29194">
+      <desc>Lée</desc>
+   </wpt>
+   <wpt lat="45.95556" lon="4.21861">
+      <desc>Lay</desc>
+   </wpt>
+   <wpt lat="46.24833" lon="4.88889">
+      <desc>Laiz</desc>
+   </wpt>
+   <wpt lat="49.69083" lon="3.29083">
+      <desc>Liez</desc>
+   </wpt>
+   <wpt lat="45.99795" lon="6.93636">
+      <desc>Montroc</desc>
+   </wpt>
+   <wpt lat="43.42079" lon="1.35397">
+      <desc>Eaunes</desc>
+   </wpt>
+   <wpt lat="49.6107" lon="3.1949">
+      <desc>Ognes</desc>
+   </wpt>
+   <wpt lat="45.78361" lon="1.705">
+      <desc>Augne</desc>
+   </wpt>
+   <wpt lat="43.2675" lon="2.72111">
+      <desc>Homps</desc>
+   </wpt>
+   <wpt lat="44.8776" lon="2.2769">
+      <desc>Omps</desc>
+   </wpt>
+   <wpt lat="48.28239" lon="-4.2645">
+      <desc>Aulne</desc>
+   </wpt>
+   <wpt lat="43.42079" lon="1.35397">
+      <desc>Eaunes</desc>
+   </wpt>
+   <wpt lat="49.6107" lon="3.1949">
+      <desc>Ognes</desc>
+   </wpt>
+   <wpt lat="45.78361" lon="1.705">
+      <desc>Augne</desc>
+   </wpt>
+   <wpt lat="43.2675" lon="2.72111">
+      <desc>Homps</desc>
+   </wpt>
+   <wpt lat="44.8776" lon="2.2769">
+      <desc>Omps</desc>
+   </wpt>
+   <wpt lat="48.28239" lon="-4.2645">
+      <desc>Aulne</desc>
+   </wpt>
+   <wpt lat="45.99795" lon="6.93636">
+      <desc>Montroc</desc>
+   </wpt>
+   <wpt lat="45.92375" lon="6.86933">
+      <desc>Chamonix-Mont-Blanc</desc>
+   </wpt>
+   <wpt lat="45.92222" lon="6.86889">
+      <desc>Chamonix-Mont-Blanc</desc>
+   </wpt>
+   <wpt lat="48.8709" lon="2.3499">
+      <desc>Chamonix</desc>
+   </wpt>
+   <wpt lat="47.3656" lon="3.71048">
+      <desc>Fin</desc>
+   </wpt>
+   <wpt lat="50.035" lon="3.04194">
+      <desc>Fins</desc>
+   </wpt>
+   <trk>
+      <trkseg>
+         <trkpt lat="45.99795" lon="6.93636">
+            <name>Montroc</name>
+         </trkpt>
+         <trkpt lat="48.86641" lon="3.16269">
+            <name>Doue</name>
+         </trkpt>
+         <trkpt lat="46.9" lon="5.03333">
+            <name>Doubs</name>
+         </trkpt>
+         <trkpt lat="49.50472" lon="4.43056">
+            <name>Doux</name>
+         </trkpt>
+         <trkpt lat="43.53556" lon="0.65028">
+            <name>Traversères</name>
+         </trkpt>
+         <trkpt lat="43.53556" lon="0.65028">
+            <name>Traversères</name>
+         </trkpt>
+         <trkpt lat="45.7065" lon="5.7194">
+            <name>La Balme</name>
+         </trkpt>
+         <trkpt lat="43.2875" lon="-0.29194">
+            <name>Lée</name>
+         </trkpt>
+         <trkpt lat="45.95556" lon="4.21861">
+            <name>Lay</name>
+         </trkpt>
+         <trkpt lat="46.24833" lon="4.88889">
+            <name>Laiz</name>
+         </trkpt>
+         <trkpt lat="49.69083" lon="3.29083">
+            <name>Liez</name>
+         </trkpt>
+         <trkpt lat="45.7065" lon="5.7194">
+            <name>La Balme</name>
+         </trkpt>
+         <trkpt lat="43.2875" lon="-0.29194">
+            <name>Lée</name>
+         </trkpt>
+         <trkpt lat="45.95556" lon="4.21861">
+            <name>Lay</name>
+         </trkpt>
+         <trkpt lat="46.24833" lon="4.88889">
+            <name>Laiz</name>
+         </trkpt>
+         <trkpt lat="49.69083" lon="3.29083">
+            <name>Liez</name>
+         </trkpt>
+         <trkpt lat="43.42079" lon="1.35397">
+            <name>Eaunes</name>
+         </trkpt>
+         <trkpt lat="49.6107" lon="3.1949">
+            <name>Ognes</name>
+         </trkpt>
+         <trkpt lat="45.78361" lon="1.705">
+            <name>Augne</name>
+         </trkpt>
+         <trkpt lat="43.2675" lon="2.72111">
+            <name>Homps</name>
+         </trkpt>
+         <trkpt lat="44.8776" lon="2.2769">
+            <name>Omps</name>
+         </trkpt>
+         <trkpt lat="48.28239" lon="-4.2645">
+            <name>Aulne</name>
+         </trkpt>
+         <trkpt lat="45.76667" lon="5.68333">
+            <name>Belley</name>
+         </trkpt>
+         <trkpt lat="50.73592" lon="2.73594">
+            <name>Bailleul</name>
+         </trkpt>
+         <trkpt lat="50.74434" lon="1.75877">
+            <name>Belle-et-Houllefort</name>
+         </trkpt>
+         <trkpt lat="45.49136" lon="0.41391">
+            <name>Belle</name>
+         </trkpt>
+         <trkpt lat="49.35889" lon="3.33556">
+            <name>Belleu</name>
+         </trkpt>
+         <trkpt lat="50.7375" lon="2.73389">
+            <name>Bailleul</name>
+         </trkpt>
+         <trkpt lat="46.37698" lon="0.39753">
+            <name>Belle</name>
+         </trkpt>
+         <trkpt lat="46.14287" lon="-0.30658">
+            <name>Belle</name>
+         </trkpt>
+         <trkpt lat="45.833" lon="6.864">
+            <name>Mont Blanc</name>
+         </trkpt>
+         <trkpt lat="45.91667" lon="6.91667">
+            <name>Mont Blanc</name>
+         </trkpt>
+         <trkpt lat="45.33973" lon="4.31335">
+            <name>Saint-Just-Malmont</name>
+         </trkpt>
+         <trkpt lat="50.38199" lon="2.03757">
+            <name>Huby-Saint-Leu</name>
+         </trkpt>
+         <trkpt lat="45.35601" lon="6.68551">
+            <name>Petit Mont Blanc</name>
+         </trkpt>
+         <trkpt lat="48.87615" lon="2.33646">
+            <name>Paris 02 Ancien - Quartier Chaussée-d'Antin</name>
+         </trkpt>
+         <trkpt lat="45.92375" lon="6.86933">
+            <name>Chamonix-Mont-Blanc</name>
+         </trkpt>
+         <trkpt lat="45.92222" lon="6.86889">
+            <name>Chamonix-Mont-Blanc</name>
+         </trkpt>
+         <trkpt lat="48.8709" lon="2.3499">
+            <name>Chamonix</name>
+         </trkpt>
+         <trkpt lat="45.7065" lon="5.7194">
+            <name>La Balme</name>
+         </trkpt>
+         <trkpt lat="45.7065" lon="5.7194">
+            <name>La Balme</name>
+         </trkpt>
+         <trkpt lat="45.7065" lon="5.7194">
+            <name>La Balme</name>
+         </trkpt>
+         <trkpt lat="47.91392" lon="-1.37967">
+            <name>Retiers</name>
+         </trkpt>
+         <trkpt lat="43.42079" lon="1.35397">
+            <name>Eaunes</name>
+         </trkpt>
+         <trkpt lat="49.6107" lon="3.1949">
+            <name>Ognes</name>
+         </trkpt>
+         <trkpt lat="45.78361" lon="1.705">
+            <name>Augne</name>
+         </trkpt>
+         <trkpt lat="43.2675" lon="2.72111">
+            <name>Homps</name>
+         </trkpt>
+         <trkpt lat="44.8776" lon="2.2769">
+            <name>Omps</name>
+         </trkpt>
+         <trkpt lat="48.28239" lon="-4.2645">
+            <name>Aulne</name>
+         </trkpt>
+         <trkpt lat="45.06912" lon="5.73225">
+            <name>Champ-sur-Drac</name>
+         </trkpt>
+         <trkpt lat="49.23107" lon="5.30751">
+            <name>Champ</name>
+         </trkpt>
+         <trkpt lat="45.17559" lon="4.07065">
+            <name>Champ</name>
+         </trkpt>
+         <trkpt lat="45.12968" lon="1.52609">
+            <name>Champ</name>
+         </trkpt>
+         <trkpt lat="48.23736" lon="4.40897">
+            <name>Champ-sur-Barse</name>
+         </trkpt>
+         <trkpt lat="48.19598" lon="6.72158">
+            <name>Champ-le-Duc</name>
+         </trkpt>
+         <trkpt lat="43.42079" lon="1.35397">
+            <name>Eaunes</name>
+         </trkpt>
+         <trkpt lat="49.6107" lon="3.1949">
+            <name>Ognes</name>
+         </trkpt>
+         <trkpt lat="45.78361" lon="1.705">
+            <name>Augne</name>
+         </trkpt>
+         <trkpt lat="43.2675" lon="2.72111">
+            <name>Homps</name>
+         </trkpt>
+         <trkpt lat="44.8776" lon="2.2769">
+            <name>Omps</name>
+         </trkpt>
+         <trkpt lat="48.28239" lon="-4.2645">
+            <name>Aulne</name>
+         </trkpt>
+         <trkpt lat="43.2875" lon="-0.29194">
+            <name>Lée</name>
+         </trkpt>
+         <trkpt lat="45.95556" lon="4.21861">
+            <name>Lay</name>
+         </trkpt>
+         <trkpt lat="46.24833" lon="4.88889">
+            <name>Laiz</name>
+         </trkpt>
+         <trkpt lat="49.69083" lon="3.29083">
+            <name>Liez</name>
+         </trkpt>
+         <trkpt lat="45.99795" lon="6.93636">
+            <name>Montroc</name>
+         </trkpt>
+         <trkpt lat="43.42079" lon="1.35397">
+            <name>Eaunes</name>
+         </trkpt>
+         <trkpt lat="49.6107" lon="3.1949">
+            <name>Ognes</name>
+         </trkpt>
+         <trkpt lat="45.78361" lon="1.705">
+            <name>Augne</name>
+         </trkpt>
+         <trkpt lat="43.2675" lon="2.72111">
+            <name>Homps</name>
+         </trkpt>
+         <trkpt lat="44.8776" lon="2.2769">
+            <name>Omps</name>
+         </trkpt>
+         <trkpt lat="48.28239" lon="-4.2645">
+            <name>Aulne</name>
+         </trkpt>
+         <trkpt lat="43.42079" lon="1.35397">
+            <name>Eaunes</name>
+         </trkpt>
+         <trkpt lat="49.6107" lon="3.1949">
+            <name>Ognes</name>
+         </trkpt>
+         <trkpt lat="45.78361" lon="1.705">
+            <name>Augne</name>
+         </trkpt>
+         <trkpt lat="43.2675" lon="2.72111">
+            <name>Homps</name>
+         </trkpt>
+         <trkpt lat="44.8776" lon="2.2769">
+            <name>Omps</name>
+         </trkpt>
+         <trkpt lat="48.28239" lon="-4.2645">
+            <name>Aulne</name>
+         </trkpt>
+         <trkpt lat="45.99795" lon="6.93636">
+            <name>Montroc</name>
+         </trkpt>
+         <trkpt lat="45.92375" lon="6.86933">
+            <name>Chamonix-Mont-Blanc</name>
+         </trkpt>
+         <trkpt lat="45.92222" lon="6.86889">
+            <name>Chamonix-Mont-Blanc</name>
+         </trkpt>
+         <trkpt lat="48.8709" lon="2.3499">
+            <name>Chamonix</name>
+         </trkpt>
+         <trkpt lat="47.3656" lon="3.71048">
+            <name>Fin</name>
+         </trkpt>
+         <trkpt lat="50.035" lon="3.04194">
+            <name>Fins</name>
+         </trkpt>
+      </trkseg>
+   </trk>
+</gpx>

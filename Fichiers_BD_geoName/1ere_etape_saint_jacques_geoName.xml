@@ -1,0 +1,4353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sch:document xmlns:sch="urn:ns:sch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:ns:TeiSpe" xmlns:T="urn:ns:Tei" xmlns:p="urn:ns:TeiSpe">
+   <T:TEI>
+      <T:teiHeader>
+         <T:fileDesc>
+            <T:titleStmt>
+               <T:title> Recuperation des information avec geoName : Livrable 4 partie 3 </T:title>
+            </T:titleStmt>
+            <T:publicationStmt>
+               <T:p> Fichier produit par Guillaume Bolzonella </T:p>
+            </T:publicationStmt>
+         </T:fileDesc>
+      </T:teiHeader>
+      <T:text>
+         <T:body>
+            <T:p>
+               <corpText>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Daix</toponymName>
+        
+                        <name>Daix</name>
+        
+                        <lat>47.35194</lat>
+        
+                        <lng>4.99889</lng>
+        
+                        <geonameId>6428593</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>22</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques</toponymName>
+        
+                        <name>Saint-Jacques</name>
+        
+                        <lat>48.56204</lat>
+        
+                        <lng>-2.506</lng>
+        
+                        <geonameId>2979423</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques-sur-Darnétal</toponymName>
+        
+                        <name>Saint-Jacques-sur-Darnétal</name>
+        
+                        <lat>49.4398</lat>
+        
+                        <lng>1.20359</lng>
+        
+                        <geonameId>2979408</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques</toponymName>
+        
+                        <name>Saint-Jacques</name>
+        
+                        <lat>43.96984</lat>
+        
+                        <lng>6.37413</lng>
+        
+                        <geonameId>2979426</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques-de-la-Lande</toponymName>
+        
+                        <name>Saint-Jacques-de-la-Lande</name>
+        
+                        <lat>48.06514</lat>
+        
+                        <lng>-1.72086</lng>
+        
+                        <geonameId>2979415</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques-de-Thouars</toponymName>
+        
+                        <name>Saint-Jacques-de-Thouars</name>
+        
+                        <lat>46.96815</lat>
+        
+                        <lng>-0.22163</lng>
+        
+                        <geonameId>2979410</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques-des-Blats</toponymName>
+        
+                        <name>Saint-Jacques-des-Blats</name>
+        
+                        <lat>45.05209</lat>
+        
+                        <lng>2.71056</lng>
+        
+                        <geonameId>2979412</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques</toponymName>
+        
+                        <name>Saint-Jacques</name>
+        
+                        <lat>49.15</lat>
+        
+                        <lng>0.23333</lng>
+        
+                        <geonameId>2979422</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques</toponymName>
+        
+                        <name>Saint-Jacques</name>
+        
+                        <lat>46.6</lat>
+        
+                        <lng>3.55</lng>
+        
+                        <geonameId>2979424</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques</toponymName>
+        
+                        <name>Saint-Jacques</name>
+        
+                        <lat>45.32749</lat>
+        
+                        <lng>5.56312</lng>
+        
+                        <geonameId>2979425</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques</toponymName>
+        
+                        <name>Saint-Jacques</name>
+        
+                        <lat>43.65</lat>
+        
+                        <lng>6.91667</lng>
+        
+                        <geonameId>2979427</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques</toponymName>
+        
+                        <name>Saint-Jacques</name>
+        
+                        <lat>43.46667</lat>
+        
+                        <lng>-0.91667</lng>
+        
+                        <geonameId>2979428</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques-en-Valgodemard</toponymName>
+        
+                        <name>Saint-Jacques-en-Valgodemard</name>
+        
+                        <lat>44.77617</lat>
+        
+                        <lng>6.04466</lng>
+        
+                        <geonameId>2979409</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques-des-Guérets</toponymName>
+        
+                        <name>Saint-Jacques-des-Guérets</name>
+        
+                        <lat>47.76667</lat>
+        
+                        <lng>0.8</lng>
+        
+                        <geonameId>2979411</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques-des-Arrêts</toponymName>
+        
+                        <name>Saint-Jacques-des-Arrêts</name>
+        
+                        <lat>46.25594</lat>
+        
+                        <lng>4.59677</lng>
+        
+                        <geonameId>2979413</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques-de-Néhou</toponymName>
+        
+                        <name>Saint-Jacques-de-Néhou</name>
+        
+                        <lat>49.4175</lat>
+        
+                        <lng>-1.61381</lng>
+        
+                        <geonameId>2979414</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques-d’Atticieux</toponymName>
+        
+                        <name>Saint-Jacques-d’Atticieux</name>
+        
+                        <lat>45.33478</lat>
+        
+                        <lng>4.66795</lng>
+        
+                        <geonameId>2979416</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques-d’Ambur</toponymName>
+        
+                        <name>Saint-Jacques-d’Ambur</name>
+        
+                        <lat>45.90181</lat>
+        
+                        <lng>2.77681</lng>
+        
+                        <geonameId>2979417</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques-d’Aliermont</toponymName>
+        
+                        <name>Saint-Jacques-d’Aliermont</name>
+        
+                        <lat>49.84853</lat>
+        
+                        <lng>1.25796</lng>
+        
+                        <geonameId>2979418</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques</toponymName>
+        
+                        <name>Saint-Jacques</name>
+        
+                        <lat>48.05668</lat>
+        
+                        <lng>6.93186</lng>
+        
+                        <geonameId>7645478</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>T</fcl>
+        
+                        <fcode>MT</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques</toponymName>
+        
+                        <name>Saint-Jacques</name>
+        
+                        <lat>43.9695</lat>
+        
+                        <lng>6.3755</lng>
+        
+                        <geonameId>6618037</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques</toponymName>
+        
+                        <name>Saint-Jacques</name>
+        
+                        <lat>47.19404</lat>
+        
+                        <lng>-1.53619</lng>
+        
+                        <geonameId>3233987</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPLX</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Jacques</toponymName>
+        
+                        <name>Saint-Jacques</name>
+        
+                        <lat>48.6</lat>
+        
+                        <lng>4.7</lng>
+        
+                        <geonameId>2979429</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>S</fcl>
+        
+                        <fcode>FRM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Retiers</toponymName>
+        
+                        <name>Retiers</name>
+        
+                        <lat>47.91392</lat>
+        
+                        <lng>-1.37967</lng>
+        
+                        <geonameId>2983885</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Laz</toponymName>
+        
+                        <name>Laz</name>
+        
+                        <lat>48.1375</lat>
+        
+                        <lng>-3.83528</lng>
+        
+                        <geonameId>6430956</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>15</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>44.63002</lat>
+        
+                        <lng>4.41656</lng>
+        
+                        <geonameId>2977333</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>45.13857</lat>
+        
+                        <lng>2.09869</lng>
+        
+                        <geonameId>2977332</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>43.754</lat>
+        
+                        <lng>3.42638</lng>
+        
+                        <geonameId>2977334</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-des-Vieux</toponymName>
+        
+                        <name>Saint-Privat-des-Vieux</name>
+        
+                        <lat>44.14415</lat>
+        
+                        <lng>4.12988</lng>
+        
+                        <geonameId>2977327</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-de-Vallongue</toponymName>
+        
+                        <name>Saint-Privat-de-Vallongue</name>
+        
+                        <lat>44.27414</lat>
+        
+                        <lng>3.83884</lng>
+        
+                        <geonameId>2977326</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-des-Prés</toponymName>
+        
+                        <name>Saint-Privat-des-Prés</name>
+        
+                        <lat>45.23333</lat>
+        
+                        <lng>0.21667</lng>
+        
+                        <geonameId>2977328</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>44.62861</lat>
+        
+                        <lng>4.415</lng>
+        
+                        <geonameId>6425842</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-la-Montagne</toponymName>
+        
+                        <name>Saint-Privat-la-Montagne</name>
+        
+                        <lat>49.18768</lat>
+        
+                        <lng>6.03874</lng>
+        
+                        <geonameId>2977323</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-du-Fau</toponymName>
+        
+                        <name>Saint-Privat-du-Fau</name>
+        
+                        <lat>44.91709</lat>
+        
+                        <lng>3.34039</lng>
+        
+                        <geonameId>2977324</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-de-Champclos</toponymName>
+        
+                        <name>Saint-Privat-de-Champclos</name>
+        
+                        <lat>44.28711</lat>
+        
+                        <lng>4.37087</lng>
+        
+                        <geonameId>2977329</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>45.26876</lat>
+        
+                        <lng>0.92678</lng>
+        
+                        <geonameId>2977331</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-du-Dragon</toponymName>
+        
+                        <name>Saint-Privat-du-Dragon</name>
+        
+                        <lat>45.1884</lat>
+        
+                        <lng>3.44906</lng>
+        
+                        <geonameId>2977325</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-d’Allier</toponymName>
+        
+                        <name>Saint-Privat-d’Allier</name>
+        
+                        <lat>44.99005</lat>
+        
+                        <lng>3.67443</lng>
+        
+                        <geonameId>2977330</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>43.75306</lat>
+        
+                        <lng>3.425</lng>
+        
+                        <geonameId>6454039</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>45.13833</lat>
+        
+                        <lng>2.09889</lng>
+        
+                        <geonameId>6428456</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>53</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-sur-Foron</toponymName>
+        
+                        <name>La Roche-sur-Foron</name>
+        
+                        <lat>46.0666</lat>
+        
+                        <lng>6.31224</lng>
+        
+                        <geonameId>3006770</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>45.28672</lat>
+        
+                        <lng>1.39695</lng>
+        
+                        <geonameId>3006837</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-de-Glun</toponymName>
+        
+                        <name>La Roche-de-Glun</name>
+        
+                        <lat>45.01336</lat>
+        
+                        <lng>4.84488</lng>
+        
+                        <geonameId>3006798</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-des-Arnauds</toponymName>
+        
+                        <name>La Roche-des-Arnauds</name>
+        
+                        <lat>44.56134</lat>
+        
+                        <lng>5.95519</lng>
+        
+                        <geonameId>3006795</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-Blanche</toponymName>
+        
+                        <name>La Roche-Blanche</name>
+        
+                        <lat>45.70064</lat>
+        
+                        <lng>3.12648</lng>
+        
+                        <geonameId>3006806</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-Maurice</toponymName>
+        
+                        <name>La Roche-Maurice</name>
+        
+                        <lat>48.47455</lat>
+        
+                        <lng>-4.20211</lng>
+        
+                        <geonameId>3006780</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-sur-le-Buis</toponymName>
+        
+                        <name>La Roche-sur-le-Buis</name>
+        
+                        <lat>44.2762</lat>
+        
+                        <lng>5.3132</lng>
+        
+                        <geonameId>3006768</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-Mabile</toponymName>
+        
+                        <name>La Roche-Mabile</name>
+        
+                        <lat>48.49026</lat>
+        
+                        <lng>-0.05181</lng>
+        
+                        <geonameId>3006781</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Cevins</toponymName>
+        
+                        <name>Cevins</name>
+        
+                        <lat>45.58801</lat>
+        
+                        <lng>6.45506</lng>
+        
+                        <geonameId>3027751</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>47.25957</lat>
+        
+                        <lng>-1.91829</lng>
+        
+                        <geonameId>3233462</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>48.60317</lat>
+        
+                        <lng>2.23399</lng>
+        
+                        <geonameId>3006811</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>48.3068</lat>
+        
+                        <lng>0.22993</lng>
+        
+                        <geonameId>3006812</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>48.28333</lat>
+        
+                        <lng>0.71667</lng>
+        
+                        <geonameId>3006813</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>48.23398</lat>
+        
+                        <lng>0.86867</lng>
+        
+                        <geonameId>3006814</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>48.17495</lat>
+        
+                        <lng>-1.21111</lng>
+        
+                        <geonameId>3006815</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>48.08841</lat>
+        
+                        <lng>-1.04798</lng>
+        
+                        <geonameId>3006816</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>47.65642</lat>
+        
+                        <lng>4.65881</lng>
+        
+                        <geonameId>3006817</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>47.34077</lat>
+        
+                        <lng>2.8821</lng>
+        
+                        <geonameId>3006818</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>47.33904</lat>
+        
+                        <lng>3.49509</lng>
+        
+                        <geonameId>3006819</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>47.30059</lat>
+        
+                        <lng>-1.7244</lng>
+        
+                        <geonameId>3006820</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>47.16218</lat>
+        
+                        <lng>1.674</lng>
+        
+                        <geonameId>3006821</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>46.98464</lat>
+        
+                        <lng>1.52906</lng>
+        
+                        <geonameId>3006822</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>46.70761</lat>
+        
+                        <lng>2.48876</lng>
+        
+                        <geonameId>3006823</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>46.63446</lat>
+        
+                        <lng>2.54738</lng>
+        
+                        <geonameId>3006824</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>46.40363</lat>
+        
+                        <lng>3.25581</lng>
+        
+                        <geonameId>3006825</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>46.40465</lat>
+        
+                        <lng>1.0655</lng>
+        
+                        <geonameId>3006826</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>46.33121</lat>
+        
+                        <lng>3.22789</lng>
+        
+                        <geonameId>3006827</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>46.3237</lat>
+        
+                        <lng>2.20585</lng>
+        
+                        <geonameId>3006828</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>46.05</lat>
+        
+                        <lng>1.48333</lng>
+        
+                        <geonameId>3006829</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>45.59673</lat>
+        
+                        <lng>5.21971</lng>
+        
+                        <geonameId>3006831</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>45.61667</lat>
+        
+                        <lng>3.7</lng>
+        
+                        <geonameId>3006832</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>45.54563</lat>
+        
+                        <lng>2.63712</lng>
+        
+                        <geonameId>3006833</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>45.47895</lat>
+        
+                        <lng>4.1429</lng>
+        
+                        <geonameId>3006834</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>45.28292</lat>
+        
+                        <lng>1.47808</lng>
+        
+                        <geonameId>3006836</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>45.24282</lat>
+        
+                        <lng>3.15967</lng>
+        
+                        <geonameId>3006838</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>45.15203</lat>
+        
+                        <lng>1.44949</lng>
+        
+                        <geonameId>3006839</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>45.12352</lat>
+        
+                        <lng>1.07859</lng>
+        
+                        <geonameId>3006840</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>45.01618</lat>
+        
+                        <lng>3.83588</lng>
+        
+                        <geonameId>3006841</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>44.98982</lat>
+        
+                        <lng>4.3963</lng>
+        
+                        <geonameId>3006842</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>44.89584</lat>
+        
+                        <lng>5.93423</lng>
+        
+                        <geonameId>3006843</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>44.9</lat>
+        
+                        <lng>4.38333</lng>
+        
+                        <geonameId>3006844</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>44.81506</lat>
+        
+                        <lng>3.44275</lng>
+        
+                        <geonameId>3006845</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>44.68817</lat>
+        
+                        <lng>1.2087</lng>
+        
+                        <geonameId>3006846</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>44.28608</lat>
+        
+                        <lng>3.76833</lng>
+        
+                        <geonameId>3006847</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>45.94672</lat>
+        
+                        <lng>1.10575</lng>
+        
+                        <geonameId>12035618</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-de-Rame</toponymName>
+        
+                        <name>La Roche-de-Rame</name>
+        
+                        <lat>44.74913</lat>
+        
+                        <lng>6.58134</lng>
+        
+                        <geonameId>3006797</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-sur-Grane</toponymName>
+        
+                        <name>La Roche-sur-Grane</name>
+        
+                        <lat>44.68277</lat>
+        
+                        <lng>4.94091</lng>
+        
+                        <geonameId>3006769</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-l’Abeille</toponymName>
+        
+                        <name>La Roche-l’Abeille</name>
+        
+                        <lat>45.59546</lat>
+        
+                        <lng>1.24211</lng>
+        
+                        <geonameId>3006788</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-en-Brenil</toponymName>
+        
+                        <name>La Roche-en-Brenil</name>
+        
+                        <lat>47.38121</lat>
+        
+                        <lng>4.17889</lng>
+        
+                        <geonameId>3006794</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche-Clermault</toponymName>
+        
+                        <name>La Roche-Clermault</name>
+        
+                        <lat>47.13745</lat>
+        
+                        <lng>0.20597</lng>
+        
+                        <geonameId>3006800</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>46.01433</lat>
+        
+                        <lng>4.00372</lng>
+        
+                        <geonameId>3006830</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>48.0177</lat>
+        
+                        <lng>0.46377</lng>
+        
+                        <geonameId>3006848</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>S</fcl>
+        
+                        <fcode>HSEC</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>La Roche</toponymName>
+        
+                        <name>La Roche</name>
+        
+                        <lat>47.12247</lat>
+        
+                        <lng>1.81513</lng>
+        
+                        <geonameId>3006849</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>S</fcl>
+        
+                        <fcode>HSEC</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>55</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>48.12699</lat>
+        
+                        <lng>1.36617</lng>
+        
+                        <geonameId>2981158</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.92069</lat>
+        
+                        <lng>0.37233</lng>
+        
+                        <geonameId>2981159</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.26285</lat>
+        
+                        <lng>4.53964</lng>
+        
+                        <geonameId>2981161</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.16678</lat>
+        
+                        <lng>3.57459</lng>
+        
+                        <geonameId>2981162</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.10252</lat>
+        
+                        <lng>1.86224</lng>
+        
+                        <geonameId>2981164</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.00229</lat>
+        
+                        <lng>0.85029</lng>
+        
+                        <geonameId>2981165</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>44.15179</lat>
+        
+                        <lng>2.04869</lng>
+        
+                        <geonameId>2981170</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.14561</lat>
+        
+                        <lng>-0.948</lng>
+        
+                        <geonameId>2981163</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>45.45</lat>
+        
+                        <lng>5.76667</lng>
+        
+                        <geonameId>2981167</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>45.27066</lat>
+        
+                        <lng>0.04849</lng>
+        
+                        <geonameId>2981168</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-sur-le-Nais</toponymName>
+        
+                        <name>Saint-Christophe-sur-le-Nais</name>
+        
+                        <lat>47.6172</lat>
+        
+                        <lng>0.47801</lng>
+        
+                        <geonameId>2981129</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-du-Ligneron</toponymName>
+        
+                        <name>Saint-Christophe-du-Ligneron</name>
+        
+                        <lat>46.82478</lat>
+        
+                        <lng>-1.76586</lng>
+        
+                        <geonameId>2981146</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-Vallon</toponymName>
+        
+                        <name>Saint-Christophe-Vallon</name>
+        
+                        <lat>44.47072</lat>
+        
+                        <lng>2.41184</lng>
+        
+                        <geonameId>2981127</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-le-Jajolet</toponymName>
+        
+                        <name>Saint-Christophe-le-Jajolet</name>
+        
+                        <lat>48.6651</lat>
+        
+                        <lng>0.00971</lng>
+        
+                        <geonameId>2981135</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-sur-Avre</toponymName>
+        
+                        <name>Saint-Christophe-sur-Avre</name>
+        
+                        <lat>48.69942</lat>
+        
+                        <lng>0.81615</lng>
+        
+                        <geonameId>2981133</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-en-Oisans</toponymName>
+        
+                        <name>Saint-Christophe-en-Oisans</name>
+        
+                        <lat>44.95812</lat>
+        
+                        <lng>6.17666</lng>
+        
+                        <geonameId>2981139</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-en-Champagne</toponymName>
+        
+                        <name>Saint-Christophe-en-Champagne</name>
+        
+                        <lat>47.96723</lat>
+        
+                        <lng>-0.13733</lng>
+        
+                        <geonameId>2981140</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-du-Jambet</toponymName>
+        
+                        <name>Saint-Christophe-du-Jambet</name>
+        
+                        <lat>48.23084</lat>
+        
+                        <lng>0.03794</lng>
+        
+                        <geonameId>2981147</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-du-Foc</toponymName>
+        
+                        <name>Saint-Christophe-du-Foc</name>
+        
+                        <lat>49.55726</lat>
+        
+                        <lng>-1.73929</lng>
+        
+                        <geonameId>2981148</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-en-Boucherie</toponymName>
+        
+                        <name>Saint-Christophe-en-Boucherie</name>
+        
+                        <lat>46.67857</lat>
+        
+                        <lng>2.12296</lng>
+        
+                        <geonameId>2981143</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-en-Bazelle</toponymName>
+        
+                        <name>Saint-Christophe-en-Bazelle</name>
+        
+                        <lat>47.19133</lat>
+        
+                        <lng>1.71191</lng>
+        
+                        <geonameId>2981144</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-du-Bois</toponymName>
+        
+                        <name>Saint-Christophe-du-Bois</name>
+        
+                        <lat>47.03012</lat>
+        
+                        <lng>-0.94441</lng>
+        
+                        <geonameId>2981149</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-de-Valains</toponymName>
+        
+                        <name>Saint-Christophe-de-Valains</name>
+        
+                        <lat>48.3424</lat>
+        
+                        <lng>-1.44803</lng>
+        
+                        <geonameId>2981151</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>44.15139</lat>
+        
+                        <lng>2.04806</lng>
+        
+                        <geonameId>6454790</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>48.12694</lat>
+        
+                        <lng>1.36639</lng>
+        
+                        <geonameId>6453920</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.2618</lat>
+        
+                        <lng>4.5422</lng>
+        
+                        <geonameId>6617457</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.92083</lat>
+        
+                        <lng>0.37222</lng>
+        
+                        <geonameId>6613986</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-sur-Dolaison</toponymName>
+        
+                        <name>Saint-Christophe-sur-Dolaison</name>
+        
+                        <lat>44.99625</lat>
+        
+                        <lng>3.81954</lng>
+        
+                        <geonameId>2981131</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-la-Couperie</toponymName>
+        
+                        <name>Saint-Christophe-la-Couperie</name>
+        
+                        <lat>47.25309</lat>
+        
+                        <lng>-1.18108</lng>
+        
+                        <geonameId>2981137</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-du-Luat</toponymName>
+        
+                        <name>Saint-Christophe-du-Luat</name>
+        
+                        <lat>48.13243</lat>
+        
+                        <lng>-0.46084</lng>
+        
+                        <geonameId>2981145</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-des-Bois</toponymName>
+        
+                        <name>Saint-Christophe-des-Bois</name>
+        
+                        <lat>48.22619</lat>
+        
+                        <lng>-1.24685</lng>
+        
+                        <geonameId>2981152</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.37148</lat>
+        
+                        <lng>2.46233</lng>
+        
+                        <geonameId>2981160</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>45.9</lat>
+        
+                        <lng>1.58333</lng>
+        
+                        <geonameId>2981166</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>44.81783</lat>
+        
+                        <lng>0.50443</lng>
+        
+                        <geonameId>2981169</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-sur-Roc</toponymName>
+        
+                        <name>Saint-Christophe-sur-Roc</name>
+        
+                        <lat>46.44694</lat>
+        
+                        <lng>-0.34828</lng>
+        
+                        <geonameId>2981128</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-sur-Guiers</toponymName>
+        
+                        <name>Saint-Christophe-sur-Guiers</name>
+        
+                        <lat>45.4381</lat>
+        
+                        <lng>5.77355</lng>
+        
+                        <geonameId>2981130</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-sur-Condé</toponymName>
+        
+                        <name>Saint-Christophe-sur-Condé</name>
+        
+                        <lat>49.28895</lat>
+        
+                        <lng>0.59902</lng>
+        
+                        <geonameId>2981132</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-le-Chaudry</toponymName>
+        
+                        <name>Saint-Christophe-le-Chaudry</name>
+        
+                        <lat>46.58133</lat>
+        
+                        <lng>2.36886</lng>
+        
+                        <geonameId>2981136</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-en-Brionnais</toponymName>
+        
+                        <name>Saint-Christophe-en-Brionnais</name>
+        
+                        <lat>46.28881</lat>
+        
+                        <lng>4.17723</lng>
+        
+                        <geonameId>2981141</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-en-Bresse</toponymName>
+        
+                        <name>Saint-Christophe-en-Bresse</name>
+        
+                        <lat>46.75224</lat>
+        
+                        <lng>4.98769</lng>
+        
+                        <geonameId>2981142</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-des-Bardes</toponymName>
+        
+                        <name>Saint-Christophe-des-Bardes</name>
+        
+                        <lat>44.88333</lat>
+        
+                        <lng>-0.1</lng>
+        
+                        <geonameId>2981153</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-d’Allier</toponymName>
+        
+                        <name>Saint-Christophe-d’Allier</name>
+        
+                        <lat>44.85654</lat>
+        
+                        <lng>3.70426</lng>
+        
+                        <geonameId>2981155</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-à-Berry</toponymName>
+        
+                        <name>Saint-Christophe-à-Berry</name>
+        
+                        <lat>49.42301</lat>
+        
+                        <lng>3.13346</lng>
+        
+                        <geonameId>2981156</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-de-Chaulieu</toponymName>
+        
+                        <name>Saint-Christophe-de-Chaulieu</name>
+        
+                        <lat>48.74646</lat>
+        
+                        <lng>-0.81948</lng>
+        
+                        <geonameId>2981154</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-de-Double</toponymName>
+        
+                        <name>Saint-Christophe-de-Double</name>
+        
+                        <lat>45.08333</lat>
+        
+                        <lng>0.01667</lng>
+        
+                        <geonameId>2980701</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>45.4509</lat>
+        
+                        <lng>5.7761</lng>
+        
+                        <geonameId>6617586</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Kernevez Saint-Christophe</toponymName>
+        
+                        <name>Kernevez Saint-Christophe</name>
+        
+                        <lat>48.34883</lat>
+        
+                        <lng>-4.21833</lng>
+        
+                        <geonameId>3011625</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe-les-Gorges</toponymName>
+        
+                        <name>Saint-Christophe-les-Gorges</name>
+        
+                        <lat>45.10305</lat>
+        
+                        <lng>2.29306</lng>
+        
+                        <geonameId>2981134</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.1457</lat>
+        
+                        <lng>-0.946</lng>
+        
+                        <geonameId>6613807</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.1025</lat>
+        
+                        <lng>1.86222</lng>
+        
+                        <geonameId>6614684</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.1664</lat>
+        
+                        <lng>3.5765</lng>
+        
+                        <geonameId>6615693</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>46.0026</lat>
+        
+                        <lng>0.8504</lng>
+        
+                        <geonameId>6615985</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Christophe</toponymName>
+        
+                        <name>Saint-Christophe</name>
+        
+                        <lat>49.26002</lat>
+        
+                        <lng>2.59724</lng>
+        
+                        <geonameId>11126184</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPLX</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint Christophe</toponymName>
+        
+                        <name>Saint Christophe</name>
+        
+                        <lat>42.56311</lat>
+        
+                        <lng>8.75474</lng>
+        
+                        <geonameId>9179061</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>S</fcl>
+        
+                        <fcode>HTL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint Christophe</toponymName>
+        
+                        <name>Saint Christophe</name>
+        
+                        <lat>43.09646</lat>
+        
+                        <lng>-0.04777</lng>
+        
+                        <geonameId>9180139</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>S</fcl>
+        
+                        <fcode>HTL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Dolaison</toponymName>
+        
+                        <name>Dolaison</name>
+        
+                        <lat>45.00266</lat>
+        
+                        <lng>3.83278</lng>
+        
+                        <geonameId>3021267</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Traversères</toponymName>
+        
+                        <name>Traversères</name>
+        
+                        <lat>43.53556</lat>
+        
+                        <lng>0.65028</lng>
+        
+                        <geonameId>6432160</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Tallode</toponymName>
+        
+                        <name>Tallode</name>
+        
+                        <lat>44.99502</lat>
+        
+                        <lng>3.81125</lng>
+        
+                        <geonameId>2973481</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Liac</toponymName>
+        
+                        <name>Liac</name>
+        
+                        <lat>43.41423</lat>
+        
+                        <lng>0.09948</lng>
+        
+                        <geonameId>2998536</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Liac</toponymName>
+        
+                        <name>Liac</name>
+        
+                        <lat>43.41444</lat>
+        
+                        <lng>0.09889</lng>
+        
+                        <geonameId>6440800</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Litz</toponymName>
+        
+                        <name>Litz</name>
+        
+                        <lat>49.4163</lat>
+        
+                        <lng>2.3327</lng>
+        
+                        <geonameId>6424439</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Volx</toponymName>
+        
+                        <name>Volx</name>
+        
+                        <lat>43.87383</lat>
+        
+                        <lng>5.8413</lng>
+        
+                        <geonameId>2967708</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>12</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch</toponymName>
+        
+                        <name>Saint-Roch</name>
+        
+                        <lat>47.4421</lat>
+        
+                        <lng>0.58486</lng>
+        
+                        <geonameId>2977167</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch</toponymName>
+        
+                        <name>Saint-Roch</name>
+        
+                        <lat>48.50225</lat>
+        
+                        <lng>-3.13825</lng>
+        
+                        <geonameId>2977163</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch</toponymName>
+        
+                        <name>Saint-Roch</name>
+        
+                        <lat>48.15204</lat>
+        
+                        <lng>-0.87879</lng>
+        
+                        <geonameId>2977164</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch</toponymName>
+        
+                        <name>Saint-Roch</name>
+        
+                        <lat>47.91667</lat>
+        
+                        <lng>-4.16667</lng>
+        
+                        <geonameId>2977165</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch</toponymName>
+        
+                        <name>Saint-Roch</name>
+        
+                        <lat>47.45405</lat>
+        
+                        <lng>-1.76928</lng>
+        
+                        <geonameId>2977166</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch</toponymName>
+        
+                        <name>Saint-Roch</name>
+        
+                        <lat>47.40547</lat>
+        
+                        <lng>-2.05345</lng>
+        
+                        <geonameId>2977168</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch</toponymName>
+        
+                        <name>Saint-Roch</name>
+        
+                        <lat>43.65583</lat>
+        
+                        <lng>5.25464</lng>
+        
+                        <geonameId>2977170</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch</toponymName>
+        
+                        <name>Saint-Roch</name>
+        
+                        <lat>45.41358</lat>
+        
+                        <lng>5.69109</lng>
+        
+                        <geonameId>11525024</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch-sur-Égrenne</toponymName>
+        
+                        <name>Saint-Roch-sur-Égrenne</name>
+        
+                        <lat>48.57652</lat>
+        
+                        <lng>-0.74586</lng>
+        
+                        <geonameId>2977160</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch</toponymName>
+        
+                        <name>Saint-Roch</name>
+        
+                        <lat>47.44528</lat>
+        
+                        <lng>0.57917</lng>
+        
+                        <geonameId>6454059</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch</toponymName>
+        
+                        <name>Saint-Roch</name>
+        
+                        <lat>41.92222</lat>
+        
+                        <lng>8.73722</lng>
+        
+                        <geonameId>3227181</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>S</fcl>
+        
+                        <fcode>CH</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Roch</toponymName>
+        
+                        <name>Saint-Roch</name>
+        
+                        <lat>44.57662</lat>
+        
+                        <lng>2.23911</lng>
+        
+                        <geonameId>2977169</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>S</fcl>
+        
+                        <fcode>CH</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Laz</toponymName>
+        
+                        <name>Laz</name>
+        
+                        <lat>48.1375</lat>
+        
+                        <lng>-3.83528</lng>
+        
+                        <geonameId>6430956</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Traversères</toponymName>
+        
+                        <name>Traversères</name>
+        
+                        <lat>43.53556</lat>
+        
+                        <lng>0.65028</lng>
+        
+                        <geonameId>6432160</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Volx</toponymName>
+        
+                        <name>Volx</name>
+        
+                        <lat>43.87383</lat>
+        
+                        <lng>5.8413</lng>
+        
+                        <geonameId>2967708</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>3</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Œuf-en-Ternois</toponymName>
+        
+                        <name>Œuf-en-Ternois</name>
+        
+                        <lat>50.3588</lat>
+        
+                        <lng>2.2112</lng>
+        
+                        <geonameId>2989734</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Oeuf</toponymName>
+        
+                        <name>Oeuf</name>
+        
+                        <lat>48.53655</lat>
+        
+                        <lng>2.3721</lng>
+        
+                        <geonameId>2989735</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Œuf-en-Ternois</toponymName>
+        
+                        <name>Œuf-en-Ternois</name>
+        
+                        <lat>50.3586</lat>
+        
+                        <lng>2.2121</lng>
+        
+                        <geonameId>6618347</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Laz</toponymName>
+        
+                        <name>Laz</name>
+        
+                        <lat>48.1375</lat>
+        
+                        <lng>-3.83528</lng>
+        
+                        <geonameId>6430956</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>2</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Isle</toponymName>
+        
+                        <name>Isle</name>
+        
+                        <lat>45.8046</lat>
+        
+                        <lng>1.2275</lng>
+        
+                        <geonameId>6451733</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Ill</toponymName>
+        
+                        <name>Ill</name>
+        
+                        <lat>48.70112</lat>
+        
+                        <lng>7.93062</lng>
+        
+                        <geonameId>3012855</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Chier</toponymName>
+        
+                        <name>Chier</name>
+        
+                        <lat>45.11667</lat>
+        
+                        <lng>4.11667</lng>
+        
+                        <geonameId>3025180</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Traversères</toponymName>
+        
+                        <name>Traversères</name>
+        
+                        <lat>43.53556</lat>
+        
+                        <lng>0.65028</lng>
+        
+                        <geonameId>6432160</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>15</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>44.63002</lat>
+        
+                        <lng>4.41656</lng>
+        
+                        <geonameId>2977333</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>45.13857</lat>
+        
+                        <lng>2.09869</lng>
+        
+                        <geonameId>2977332</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>43.754</lat>
+        
+                        <lng>3.42638</lng>
+        
+                        <geonameId>2977334</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-des-Vieux</toponymName>
+        
+                        <name>Saint-Privat-des-Vieux</name>
+        
+                        <lat>44.14415</lat>
+        
+                        <lng>4.12988</lng>
+        
+                        <geonameId>2977327</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-de-Vallongue</toponymName>
+        
+                        <name>Saint-Privat-de-Vallongue</name>
+        
+                        <lat>44.27414</lat>
+        
+                        <lng>3.83884</lng>
+        
+                        <geonameId>2977326</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-des-Prés</toponymName>
+        
+                        <name>Saint-Privat-des-Prés</name>
+        
+                        <lat>45.23333</lat>
+        
+                        <lng>0.21667</lng>
+        
+                        <geonameId>2977328</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>44.62861</lat>
+        
+                        <lng>4.415</lng>
+        
+                        <geonameId>6425842</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-la-Montagne</toponymName>
+        
+                        <name>Saint-Privat-la-Montagne</name>
+        
+                        <lat>49.18768</lat>
+        
+                        <lng>6.03874</lng>
+        
+                        <geonameId>2977323</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-du-Fau</toponymName>
+        
+                        <name>Saint-Privat-du-Fau</name>
+        
+                        <lat>44.91709</lat>
+        
+                        <lng>3.34039</lng>
+        
+                        <geonameId>2977324</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-de-Champclos</toponymName>
+        
+                        <name>Saint-Privat-de-Champclos</name>
+        
+                        <lat>44.28711</lat>
+        
+                        <lng>4.37087</lng>
+        
+                        <geonameId>2977329</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>45.26876</lat>
+        
+                        <lng>0.92678</lng>
+        
+                        <geonameId>2977331</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-du-Dragon</toponymName>
+        
+                        <name>Saint-Privat-du-Dragon</name>
+        
+                        <lat>45.1884</lat>
+        
+                        <lng>3.44906</lng>
+        
+                        <geonameId>2977325</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat-d’Allier</toponymName>
+        
+                        <name>Saint-Privat-d’Allier</name>
+        
+                        <lat>44.99005</lat>
+        
+                        <lng>3.67443</lng>
+        
+                        <geonameId>2977330</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>43.75306</lat>
+        
+                        <lng>3.425</lng>
+        
+                        <geonameId>6454039</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Saint-Privat</toponymName>
+        
+                        <name>Saint-Privat</name>
+        
+                        <lat>45.13833</lat>
+        
+                        <lng>2.09889</lng>
+        
+                        <geonameId>6428456</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>5</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Département de l'Allier</toponymName>
+        
+                        <name>Allier</name>
+        
+                        <lat>46.5</lat>
+        
+                        <lng>3</lng>
+        
+                        <geonameId>3038111</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM2</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Allier</toponymName>
+        
+                        <name>Allier</name>
+        
+                        <lat>43.17787</lat>
+        
+                        <lng>0.1173</lng>
+        
+                        <geonameId>3038115</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Allier</toponymName>
+        
+                        <name>Allier</name>
+        
+                        <lat>44.9985</lat>
+        
+                        <lng>0.78352</lng>
+        
+                        <geonameId>3038114</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Allier</toponymName>
+        
+                        <name>Allier</name>
+        
+                        <lat>46.95933</lat>
+        
+                        <lng>3.08038</lng>
+        
+                        <geonameId>3038113</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>H</fcl>
+        
+                        <fcode>STM</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Allier</toponymName>
+        
+                        <name>Allier</name>
+        
+                        <lat>43.17722</lat>
+        
+                        <lng>0.1225</lng>
+        
+                        <geonameId>6452460</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>0</totalResultsCount>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>4</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Puy</toponymName>
+        
+                        <name>Puy</name>
+        
+                        <lat>45.02485</lat>
+        
+                        <lng>0.55874</lng>
+        
+                        <geonameId>2985021</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Le Puy</toponymName>
+        
+                        <name>Le Puy</name>
+        
+                        <lat>45.00017</lat>
+        
+                        <lng>0.49987</lng>
+        
+                        <geonameId>3002466</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Puy-la-Laude</toponymName>
+        
+                        <name>Puy-la-Laude</name>
+        
+                        <lat>48.05407</lat>
+        
+                        <lng>2.75922</lng>
+        
+                        <geonameId>2984955</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>P</fcl>
+        
+                        <fcode>PPL</fcode>
+    
+                     </geoname>
+    
+                     <geoname>
+        
+                        <toponymName>Le Puy</toponymName>
+        
+                        <name>Le Puy</name>
+        
+                        <lat>44.6616</lat>
+        
+                        <lng>0.0737</lng>
+        
+                        <geonameId>6616562</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>A</fcl>
+        
+                        <fcode>ADM4</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+                  <geonames xmlns="" style="SHORT">
+    
+                     <totalResultsCount>1</totalResultsCount>
+    
+                     <geoname>
+        
+                        <toponymName>Velay</toponymName>
+        
+                        <name>Velay</name>
+        
+                        <lat>45.33333</lat>
+        
+                        <lng>3.66667</lng>
+        
+                        <geonameId>2970215</geonameId>
+        
+                        <countryCode>FR</countryCode>
+        
+                        <fcl>L</fcl>
+        
+                        <fcode>RGN</fcode>
+    
+                     </geoname>
+
+                  </geonames>
+               </corpText>
+            </T:p>
+         </T:body>
+      </T:text>
+   </T:TEI>
+</sch:document>

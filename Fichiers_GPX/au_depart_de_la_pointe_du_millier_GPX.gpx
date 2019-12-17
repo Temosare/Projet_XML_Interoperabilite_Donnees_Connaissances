@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xmlns:p="urn:ns:TeiSpe"
+     xmlns:sch="urn:ns:sch"
+     xmlns:T="urn:ns:Tei"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     version="1.1"
+     creator="Guillaume Bolzonella"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+   <metadata>
+      <name>Transformation en fichier GPX pour viasualisation avec Google Map</name>
+      <desc>Livrable 4 partie 4</desc>
+   </metadata>
+   <wpt lat="47" lon="1.4">
+      <desc>Heugnes</desc>
+   </wpt>
+   <wpt lat="43.33282" lon="2.79757">
+      <desc>Aigne</desc>
+   </wpt>
+   <wpt lat="50.10139" lon="3.31139">
+      <desc>Esnes</desc>
+   </wpt>
+   <wpt lat="50.50806" lon="2.80167">
+      <desc>Haisnes</desc>
+   </wpt>
+   <wpt lat="43.32028" lon="1.58861">
+      <desc>Aignes</desc>
+   </wpt>
+   <wpt lat="49.43413" lon="2.84688">
+      <desc>Aisne</desc>
+   </wpt>
+   <wpt lat="42.47361" lon="2.0825">
+      <desc>Eyne</desc>
+   </wpt>
+   <wpt lat="43.2875" lon="-0.29194">
+      <desc>Lée</desc>
+   </wpt>
+   <wpt lat="45.95556" lon="4.21861">
+      <desc>Lay</desc>
+   </wpt>
+   <wpt lat="46.24833" lon="4.88889">
+      <desc>Laiz</desc>
+   </wpt>
+   <wpt lat="49.69083" lon="3.29083">
+      <desc>Liez</desc>
+   </wpt>
+   <wpt lat="48.08692" lon="-4.46217">
+      <desc>Lescogan</desc>
+   </wpt>
+   <wpt lat="43.53556" lon="0.65028">
+      <desc>Traversères</desc>
+   </wpt>
+   <wpt lat="47.87076" lon="-3.54458">
+      <desc>Ellé</desc>
+   </wpt>
+   <wpt lat="49.27628" lon="-1.12193">
+      <desc>Elle</desc>
+   </wpt>
+   <wpt lat="43.2875" lon="-0.29194">
+      <desc>Lée</desc>
+   </wpt>
+   <wpt lat="45.95556" lon="4.21861">
+      <desc>Lay</desc>
+   </wpt>
+   <wpt lat="46.24833" lon="4.88889">
+      <desc>Laiz</desc>
+   </wpt>
+   <wpt lat="49.69083" lon="3.29083">
+      <desc>Liez</desc>
+   </wpt>
+   <wpt lat="47" lon="1.4">
+      <desc>Heugnes</desc>
+   </wpt>
+   <wpt lat="43.33282" lon="2.79757">
+      <desc>Aigne</desc>
+   </wpt>
+   <wpt lat="50.10139" lon="3.31139">
+      <desc>Esnes</desc>
+   </wpt>
+   <wpt lat="50.50806" lon="2.80167">
+      <desc>Haisnes</desc>
+   </wpt>
+   <wpt lat="43.32028" lon="1.58861">
+      <desc>Aignes</desc>
+   </wpt>
+   <wpt lat="49.43413" lon="2.84688">
+      <desc>Aisne</desc>
+   </wpt>
+   <wpt lat="42.47361" lon="2.0825">
+      <desc>Eyne</desc>
+   </wpt>
+   <trk>
+      <trkseg>
+         <trkpt lat="47" lon="1.4">
+            <name>Heugnes</name>
+         </trkpt>
+         <trkpt lat="43.33282" lon="2.79757">
+            <name>Aigne</name>
+         </trkpt>
+         <trkpt lat="50.10139" lon="3.31139">
+            <name>Esnes</name>
+         </trkpt>
+         <trkpt lat="50.50806" lon="2.80167">
+            <name>Haisnes</name>
+         </trkpt>
+         <trkpt lat="43.32028" lon="1.58861">
+            <name>Aignes</name>
+         </trkpt>
+         <trkpt lat="49.43413" lon="2.84688">
+            <name>Aisne</name>
+         </trkpt>
+         <trkpt lat="42.47361" lon="2.0825">
+            <name>Eyne</name>
+         </trkpt>
+         <trkpt lat="43.2875" lon="-0.29194">
+            <name>Lée</name>
+         </trkpt>
+         <trkpt lat="45.95556" lon="4.21861">
+            <name>Lay</name>
+         </trkpt>
+         <trkpt lat="46.24833" lon="4.88889">
+            <name>Laiz</name>
+         </trkpt>
+         <trkpt lat="49.69083" lon="3.29083">
+            <name>Liez</name>
+         </trkpt>
+         <trkpt lat="48.08692" lon="-4.46217">
+            <name>Lescogan</name>
+         </trkpt>
+         <trkpt lat="43.53556" lon="0.65028">
+            <name>Traversères</name>
+         </trkpt>
+         <trkpt lat="47.87076" lon="-3.54458">
+            <name>Ellé</name>
+         </trkpt>
+         <trkpt lat="49.27628" lon="-1.12193">
+            <name>Elle</name>
+         </trkpt>
+         <trkpt lat="43.2875" lon="-0.29194">
+            <name>Lée</name>
+         </trkpt>
+         <trkpt lat="45.95556" lon="4.21861">
+            <name>Lay</name>
+         </trkpt>
+         <trkpt lat="46.24833" lon="4.88889">
+            <name>Laiz</name>
+         </trkpt>
+         <trkpt lat="49.69083" lon="3.29083">
+            <name>Liez</name>
+         </trkpt>
+         <trkpt lat="47" lon="1.4">
+            <name>Heugnes</name>
+         </trkpt>
+         <trkpt lat="43.33282" lon="2.79757">
+            <name>Aigne</name>
+         </trkpt>
+         <trkpt lat="50.10139" lon="3.31139">
+            <name>Esnes</name>
+         </trkpt>
+         <trkpt lat="50.50806" lon="2.80167">
+            <name>Haisnes</name>
+         </trkpt>
+         <trkpt lat="43.32028" lon="1.58861">
+            <name>Aignes</name>
+         </trkpt>
+         <trkpt lat="49.43413" lon="2.84688">
+            <name>Aisne</name>
+         </trkpt>
+         <trkpt lat="42.47361" lon="2.0825">
+            <name>Eyne</name>
+         </trkpt>
+      </trkseg>
+   </trk>
+</gpx>
